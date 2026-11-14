@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 210 297">
+<title>Stone Creature Mask R1 — clear opening dimensions</title>
+<rect width="210" height="297" fill="white"/>
+<g font-family="Arial,sans-serif" text-anchor="middle" fill="#202c2c">
+<text x="105" y="13" font-size="4.5">STONE MASK · OPENING FIT GUIDE</text>
+<text x="105" y="21" font-size="3.3">Print at 100% / actual size. Do not fit to page.</text>
+<circle cx="105" cy="132" r="100" fill="none" stroke="#182828" stroke-width=".4"/>
+<circle cx="105" cy="132" r="66.845076" fill="none" stroke="#728980" stroke-width=".4" stroke-dasharray="3 2"/>
+<text x="105" y="112" font-size="4">Head passage: Ø200 mm</text>
+<text x="105" y="121" font-size="3.2">Minimum clear opening through the magnetic rim</text>
+<text x="105" y="140" font-size="4">Neck: Ø133.69 mm</text>
+<text x="105" y="149" font-size="3.2">420 mm circumference · dashed circle</text>
+<text x="105" y="248" font-size="3.2">A head circumference alone does not establish front-to-back depth.</text>
+<text x="105" y="255" font-size="3.2">Check that the 200 mm opening clears the wearer before printing.</text>
+<path d="M55 270 H155 M55 267 V273 M155 267 V273" stroke="#182828" stroke-width=".5"/>
+<text x="105" y="282" font-size="4">This line must measure 100 mm</text>
+</g></svg>

@@ -1,0 +1,391 @@
+{
+  "revision": 49,
+  "controller_revision": 45,
+  "structural_source": "cabinet-38, unchanged",
+  "controller_geometry_source": "outputs/controller-45-build-pack/Blender/centipede.blend",
+  "status": "Assembly review only. No full-cabinet print release.",
+  "scenes": [
+    {
+      "file": "assembled",
+      "scene": "01 cabinet assembled",
+      "translation_mm": [
+        0.0,
+        -17.0,
+        4.5
+      ],
+      "unchanged_cabinet_objects": 786,
+      "controller_print_parts": [
+        {
+          "name": "PRINT45 L upper_shell centipede diagonal",
+          "bounds_mm": [
+            [
+              -13.7143,
+              -15.9004,
+              132.5
+            ],
+            [
+              221.8188,
+              190.0,
+              190.3
+            ]
+          ],
+          "source_vertices_unchanged": true
+        },
+        {
+          "name": "PRINT43 L bottom centipede recessed heads",
+          "bounds_mm": [
+            [
+              3.7347,
+              -15.7004,
+              129.3
+            ],
+            [
+              214.4796,
+              189.8,
+              138.4
+            ]
+          ],
+          "source_vertices_unchanged": true
+        },
+        {
+          "name": "PRINT45 R upper_shell centipede diagonal",
+          "bounds_mm": [
+            [
+              176.2232,
+              -16.0,
+              132.5
+            ],
+            [
+              413.7143,
+              190.0,
+              190.295
+            ]
+          ],
+          "source_vertices_unchanged": true
+        },
+        {
+          "name": "PRINT43 R bottom centipede recessed heads",
+          "bounds_mm": [
+            [
+              176.2697,
+              -15.8,
+              129.3
+            ],
+            [
+              396.2653,
+              189.7118,
+              138.4
+            ]
+          ],
+          "source_vertices_unchanged": true
+        }
+      ]
+    },
+    {
+      "file": "assembled",
+      "scene": "02 controller seating detail",
+      "translation_mm": [
+        0.0,
+        -17.0,
+        4.5
+      ],
+      "unchanged_cabinet_objects": 786,
+      "controller_print_parts": [
+        {
+          "name": "PRINT45 L upper_shell centipede diagonal.001",
+          "bounds_mm": [
+            [
+              -13.7143,
+              -15.9004,
+              132.5
+            ],
+            [
+              221.8188,
+              190.0,
+              190.3
+            ]
+          ],
+          "source_vertices_unchanged": true
+        },
+        {
+          "name": "PRINT43 L bottom centipede recessed heads.001",
+          "bounds_mm": [
+            [
+              3.7347,
+              -15.7004,
+              129.3
+            ],
+            [
+              214.4796,
+              189.8,
+              138.4
+            ]
+          ],
+          "source_vertices_unchanged": true
+        },
+        {
+          "name": "PRINT45 R upper_shell centipede diagonal.001",
+          "bounds_mm": [
+            [
+              176.2232,
+              -16.0,
+              132.5
+            ],
+            [
+              413.7143,
+              190.0,
+              190.295
+            ]
+          ],
+          "source_vertices_unchanged": true
+        },
+        {
+          "name": "PRINT43 R bottom centipede recessed heads.001",
+          "bounds_mm": [
+            [
+              176.2697,
+              -15.8,
+              129.3
+            ],
+            [
+              396.2653,
+              189.7118,
+              138.4
+            ]
+          ],
+          "source_vertices_unchanged": true
+        }
+      ]
+    },
+    {
+      "file": "disassembled",
+      "scene": "01 cabinet assembled",
+      "translation_mm": [
+        0.0,
+        -17.0,
+        4.5
+      ],
+      "unchanged_cabinet_objects": 786,
+      "controller_print_parts": [
+        {
+          "name": "PRINT45 L upper_shell centipede diagonal",
+          "bounds_mm": [
+            [
+              -13.7143,
+              -15.9004,
+              132.5
+            ],
+            [
+              221.8188,
+              190.0,
+              190.3
+            ]
+          ],
+          "source_vertices_unchanged": true
+        },
+        {
+          "name": "PRINT43 L bottom centipede recessed heads",
+          "bounds_mm": [
+            [
+              3.7347,
+              -15.7004,
+              129.3
+            ],
+            [
+              214.4796,
+              189.8,
+              138.4
+            ]
+          ],
+          "source_vertices_unchanged": true
+        },
+        {
+          "name": "PRINT45 R upper_shell centipede diagonal",
+          "bounds_mm": [
+            [
+              176.2232,
+              -16.0,
+              132.5
+            ],
+            [
+              413.7143,
+              190.0,
+              190.295
+            ]
+          ],
+          "source_vertices_unchanged": true
+        },
+        {
+          "name": "PRINT43 R bottom centipede recessed heads",
+          "bounds_mm": [
+            [
+              176.2697,
+              -15.8,
+              129.3
+            ],
+            [
+              396.2653,
+              189.7118,
+              138.4
+            ]
+          ],
+          "source_vertices_unchanged": true
+        }
+      ]
+    },
+    {
+      "file": "disassembled",
+      "scene": "02 controller seating detail",
+      "translation_mm": [
+        0.0,
+        -17.0,
+        4.5
+      ],
+      "unchanged_cabinet_objects": 786,
+      "controller_print_parts": [
+        {
+          "name": "PRINT45 L upper_shell centipede diagonal.001",
+          "bounds_mm": [
+            [
+              -13.7143,
+              -15.9004,
+              132.5
+            ],
+            [
+              221.8188,
+              190.0,
+              190.3
+            ]
+          ],
+          "source_vertices_unchanged": true
+        },
+        {
+          "name": "PRINT43 L bottom centipede recessed heads.001",
+          "bounds_mm": [
+            [
+              3.7347,
+              -15.7004,
+              129.3
+            ],
+            [
+              214.4796,
+              189.8,
+              138.4
+            ]
+          ],
+          "source_vertices_unchanged": true
+        },
+        {
+          "name": "PRINT45 R upper_shell centipede diagonal.001",
+          "bounds_mm": [
+            [
+              176.2232,
+              -16.0,
+              132.5
+            ],
+            [
+              413.7143,
+              190.0,
+              190.295
+            ]
+          ],
+          "source_vertices_unchanged": true
+        },
+        {
+          "name": "PRINT43 R bottom centipede recessed heads.001",
+          "bounds_mm": [
+            [
+              176.2697,
+              -15.8,
+              129.3
+            ],
+            [
+              396.2653,
+              189.7118,
+              138.4
+            ]
+          ],
+          "source_vertices_unchanged": true
+        }
+      ]
+    },
+    {
+      "file": "disassembled",
+      "scene": "03 cabinet disassembled",
+      "translation_mm": [
+        0.0,
+        -327.0,
+        39.5
+      ],
+      "unchanged_cabinet_objects": 786,
+      "controller_print_parts": [
+        {
+          "name": "PRINT45 L upper_shell centipede diagonal.002",
+          "bounds_mm": [
+            [
+              -13.7143,
+              -15.9004,
+              132.5
+            ],
+            [
+              221.8188,
+              190.0,
+              190.3
+            ]
+          ],
+          "source_vertices_unchanged": true
+        },
+        {
+          "name": "PRINT43 L bottom centipede recessed heads.002",
+          "bounds_mm": [
+            [
+              3.7347,
+              -15.7004,
+              129.3
+            ],
+            [
+              214.4796,
+              189.8,
+              138.4
+            ]
+          ],
+          "source_vertices_unchanged": true
+        },
+        {
+          "name": "PRINT45 R upper_shell centipede diagonal.002",
+          "bounds_mm": [
+            [
+              176.2232,
+              -16.0,
+              132.5
+            ],
+            [
+              413.7143,
+              190.0,
+              190.295
+            ]
+          ],
+          "source_vertices_unchanged": true
+        },
+        {
+          "name": "PRINT43 R bottom centipede recessed heads.002",
+          "bounds_mm": [
+            [
+              176.2697,
+              -15.8,
+              129.3
+            ],
+            [
+              396.2653,
+              189.7118,
+              138.4
+            ]
+          ],
+          "source_vertices_unchanged": true
+        }
+      ]
+    }
+  ],
+  "output_assembled": "cabinet-49-assembled.blend",
+  "output_disassembled": "cabinet-49-disassembled.blend"
+}

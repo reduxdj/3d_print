@@ -1,0 +1,13 @@
+Logical port,Logical pair,Intended circuit,End A conductor ID,End B conductor ID,Physical map confirmed
+A,01/02,Unassigned isolated switch pair 1,,,NO - NOT A VENDOR PINOUT
+A,03/04,Unassigned isolated switch pair 2,,,NO - NOT A VENDOR PINOUT
+A,05/06,Unassigned isolated switch pair 3,,,NO - NOT A VENDOR PINOUT
+A,07/08,Unassigned isolated switch pair 4,,,NO - NOT A VENDOR PINOUT
+A,09/10,Unassigned isolated switch pair 5,,,NO - NOT A VENDOR PINOUT
+A,11/12,Unassigned isolated switch pair 6,,,NO - NOT A VENDOR PINOUT
+B,01/02,Unassigned isolated switch pair 1,,,NO - NOT A VENDOR PINOUT
+B,03/04,Unassigned isolated switch pair 2,,,NO - NOT A VENDOR PINOUT
+B,05/06,Unassigned isolated switch pair 3,,,NO - NOT A VENDOR PINOUT
+B,07/08,Unassigned isolated switch pair 4,,,NO - NOT A VENDOR PINOUT
+B,09/10,Unassigned isolated switch pair 5,,,NO - NOT A VENDOR PINOUT
+B,11/12,Unassigned isolated switch pair 6,,,NO - NOT A VENDOR PINOUT

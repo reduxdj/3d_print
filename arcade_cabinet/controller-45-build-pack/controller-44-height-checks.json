@@ -1,0 +1,161 @@
+{
+  "revision": 44,
+  "previous_revision": 43,
+  "support_height_before_mm": 11.03,
+  "support_height_mm": 10.83,
+  "reduction_mm": 0.2,
+  "pitch_mm": 87.12747319629052,
+  "post_diameter_mm": 12,
+  "pilot_mm": [
+    4.4,
+    7
+  ],
+  "changed_plates": [
+    6,
+    8,
+    11
+  ],
+  "variants": {
+    "centipede": {
+      "mounts": [
+        {
+          "local_hole_xy_mm": [
+            -43.56373659814526,
+            -43.56373659814526
+          ],
+          "support_height_mm": 10.82999522212534,
+          "pilot_depth_mm": 6.999990329146385
+        },
+        {
+          "local_hole_xy_mm": [
+            -43.56373659814526,
+            43.56373659814526
+          ],
+          "support_height_mm": 10.830001897845555,
+          "pilot_depth_mm": 7.000005587935448
+        },
+        {
+          "local_hole_xy_mm": [
+            43.56373659814526,
+            -43.56373659814526
+          ],
+          "support_height_mm": 10.82999522212534,
+          "pilot_depth_mm": 6.999990329146385
+        },
+        {
+          "local_hole_xy_mm": [
+            43.56373659814526,
+            43.56373659814526
+          ],
+          "support_height_mm": 10.830001897845555,
+          "pilot_depth_mm": 7.000005587935448
+        }
+      ],
+      "part": {
+        "file": "centipede_top_L.stl",
+        "size_mm": [
+          235.533,
+          208.529,
+          57.728
+        ],
+        "components": 1,
+        "nonmanifold_edges": 0,
+        "volume_mm3": 351671.79
+      }
+    },
+    "centipede-left-fire": {
+      "mounts": [
+        {
+          "local_hole_xy_mm": [
+            -43.56373659814526,
+            -43.56373659814526
+          ],
+          "support_height_mm": 10.82999522212534,
+          "pilot_depth_mm": 6.999990329146385
+        },
+        {
+          "local_hole_xy_mm": [
+            -43.56373659814526,
+            43.56373659814526
+          ],
+          "support_height_mm": 10.830001897845555,
+          "pilot_depth_mm": 7.000005587935448
+        },
+        {
+          "local_hole_xy_mm": [
+            43.56373659814526,
+            -43.56373659814526
+          ],
+          "support_height_mm": 10.82999522212534,
+          "pilot_depth_mm": 6.999990329146385
+        },
+        {
+          "local_hole_xy_mm": [
+            43.56373659814526,
+            43.56373659814526
+          ],
+          "support_height_mm": 10.830001897845555,
+          "pilot_depth_mm": 7.000005587935448
+        }
+      ],
+      "part": {
+        "file": "centipede-left-fire_top_L.stl",
+        "size_mm": [
+          235.533,
+          208.529,
+          57.728
+        ],
+        "components": 1,
+        "nonmanifold_edges": 0,
+        "volume_mm3": 349209.77
+      }
+    },
+    "tempest": {
+      "mounts": [
+        {
+          "local_hole_xy_mm": [
+            -43.56373659814526,
+            -43.56373659814526
+          ],
+          "support_height_mm": 10.82999522212534,
+          "pilot_depth_mm": 6.999990329146385
+        },
+        {
+          "local_hole_xy_mm": [
+            -43.56373659814526,
+            43.56373659814526
+          ],
+          "support_height_mm": 10.829986639056493,
+          "pilot_depth_mm": 7.00002084672451
+        },
+        {
+          "local_hole_xy_mm": [
+            43.56373659814526,
+            -43.56373659814526
+          ],
+          "support_height_mm": 10.82999522212534,
+          "pilot_depth_mm": 6.999990329146385
+        },
+        {
+          "local_hole_xy_mm": [
+            43.56373659814526,
+            43.56373659814526
+          ],
+          "support_height_mm": 10.830001897845555,
+          "pilot_depth_mm": 7.000005587935448
+        }
+      ],
+      "part": {
+        "file": "tempest_top_R.stl",
+        "size_mm": [
+          237.491,
+          208.529,
+          57.723
+        ],
+        "components": 1,
+        "nonmanifold_edges": 0,
+        "volume_mm3": 356491.81
+      }
+    }
+  }
+}

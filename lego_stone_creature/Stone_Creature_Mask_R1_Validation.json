@@ -1,0 +1,749 @@
+{
+  "parameters_mm": {
+    "outer_radius": 112.4,
+    "wall": 2.4,
+    "height": 300.0,
+    "cap_z": 282.0,
+    "corner": 22.0,
+    "neck_inner_radius": 66.84507609859604,
+    "neck_outer_radius": 74.5,
+    "split_z": 60.0,
+    "seam_gap": 0.3,
+    "rim_gap": 0.25,
+    "rim_inner_radius": 100.0,
+    "pilot_outer_radius": 102.6,
+    "pilot_clearance": 0.3,
+    "magnet_diameter": 6.25,
+    "magnet_depth": 3.15,
+    "magnet_radius": 107.4,
+    "eyes_spacing": 67.5,
+    "eyes_z": 170.0,
+    "eyes_diameter": 30.15,
+    "nose_z": 128.0,
+    "nose_width": 14.0,
+    "nose_height": 5.0
+  },
+  "head_circumference_mm": 600,
+  "outer_circumference_mm": 706.2300285269855,
+  "minimum_head_rim_opening_mm": 200,
+  "neck_circumference_mm": 420,
+  "stud_mm": {
+    "outer_diameter": 55.7,
+    "inner_diameter": 38.8,
+    "height": 18,
+    "original_mesh_hash": "bb3f4d2e11f1ef3b6ddf073c5196c8b10521e4d63e6cd8dde50ee6dc54402ad2"
+  },
+  "magnet_count_total": 52,
+  "magnet_pockets_by_part": [
+    20,
+    16,
+    16
+  ],
+  "magnet_nominal_mm": [
+    6,
+    3
+  ],
+  "rim_magnet_centers_xy": [
+    [
+      -16.801061545320792,
+      106.07772777991781
+    ],
+    [
+      -48.758579672027324,
+      95.69410069783072
+    ],
+    [
+      -75.9432682994352,
+      75.94326829943522
+    ],
+    [
+      -95.6941006978307,
+      48.75857967202734
+    ],
+    [
+      -106.0777277799178,
+      16.80106154532081
+    ],
+    [
+      -106.07772777991781,
+      -16.80106154532078
+    ],
+    [
+      -95.69410069783072,
+      -48.75857967202732
+    ],
+    [
+      -75.94326829943523,
+      -75.9432682994352
+    ],
+    [
+      -48.758579672027345,
+      -95.6941006978307
+    ],
+    [
+      -16.801061545320813,
+      -106.0777277799178
+    ],
+    [
+      16.801061545320803,
+      -106.07772777991781
+    ],
+    [
+      48.75857967202734,
+      -95.69410069783072
+    ],
+    [
+      75.94326829943522,
+      -75.9432682994352
+    ],
+    [
+      95.69410069783072,
+      -48.75857967202733
+    ],
+    [
+      106.07772777991781,
+      -16.801061545320795
+    ],
+    [
+      106.07772777991781,
+      16.801061545320795
+    ],
+    [
+      95.69410069783072,
+      48.75857967202733
+    ],
+    [
+      75.94326829943522,
+      75.9432682994352
+    ],
+    [
+      48.75857967202734,
+      95.69410069783072
+    ],
+    [
+      16.801061545320803,
+      106.07772777991781
+    ]
+  ],
+  "vertical_magnet_centers_yz": [
+    [
+      -103.33908891458577,
+      22.0
+    ],
+    [
+      -106.9,
+      36.0
+    ],
+    [
+      -106.9,
+      50.0
+    ],
+    [
+      103.33908891458577,
+      22.0
+    ],
+    [
+      106.9,
+      36.0
+    ],
+    [
+      106.9,
+      50.0
+    ]
+  ],
+  "parts": [
+    {
+      "name": "01_Top_With_Armor_Stud",
+      "volume_mm3": 544724.8428541552,
+      "print_dimensions_mm": [
+        224.79999999701977,
+        224.79999999701977,
+        239.75
+      ],
+      "mesh": {
+        "vertices": 27562,
+        "triangles": 55132,
+        "nonmanifold_edges": 0,
+        "boundary": 0,
+        "overlap_edges": 0,
+        "degenerate": 0,
+        "min_area": 0.00018060421292276363
+      }
+    },
+    {
+      "name": "02_Lower_Left",
+      "volume_mm3": 132549.09227756775,
+      "print_dimensions_mm": [
+        112.24999999850988,
+        224.79754557299862,
+        63.25
+      ],
+      "mesh": {
+        "vertices": 16697,
+        "triangles": 33390,
+        "nonmanifold_edges": 0,
+        "boundary": 0,
+        "overlap_edges": 0,
+        "degenerate": 0,
+        "min_area": 0.0001160894277865468
+      }
+    },
+    {
+      "name": "03_Lower_Right",
+      "volume_mm3": 132549.09227756783,
+      "print_dimensions_mm": [
+        112.24999999850988,
+        224.79754557299862,
+        63.25
+      ],
+      "mesh": {
+        "vertices": 16669,
+        "triangles": 33334,
+        "nonmanifold_edges": 0,
+        "boundary": 0,
+        "overlap_edges": 0,
+        "degenerate": 0,
+        "min_area": 0.00011608942778655202
+      }
+    }
+  ],
+  "pairwise_intersections_mm3": [
+    [
+      0,
+      1,
+      0.0
+    ],
+    [
+      0,
+      2,
+      0.0
+    ],
+    [
+      1,
+      2,
+      0.0
+    ]
+  ],
+  "upper_lift_intersections_mm3": [
+    [
+      0,
+      0.0
+    ],
+    [
+      0.25,
+      0.0
+    ],
+    [
+      0.5,
+      0.0
+    ],
+    [
+      1,
+      0.0
+    ],
+    [
+      2,
+      0.0
+    ],
+    [
+      3,
+      0.0
+    ],
+    [
+      4,
+      0.0
+    ],
+    [
+      6,
+      0.0
+    ],
+    [
+      10,
+      0.0
+    ]
+  ],
+  "nominal_magnet_fit_checks": [
+    {
+      "part": 0,
+      "center_xy": [
+        -16.801061545320792,
+        106.07772777991781
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 1,
+      "center_xy": [
+        -16.801061545320792,
+        106.07772777991781
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 0,
+      "center_xy": [
+        -48.758579672027324,
+        95.69410069783072
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 1,
+      "center_xy": [
+        -48.758579672027324,
+        95.69410069783072
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 0,
+      "center_xy": [
+        -75.9432682994352,
+        75.94326829943522
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 1,
+      "center_xy": [
+        -75.9432682994352,
+        75.94326829943522
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 0,
+      "center_xy": [
+        -95.6941006978307,
+        48.75857967202734
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 1,
+      "center_xy": [
+        -95.6941006978307,
+        48.75857967202734
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 0,
+      "center_xy": [
+        -106.0777277799178,
+        16.80106154532081
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 1,
+      "center_xy": [
+        -106.0777277799178,
+        16.80106154532081
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 0,
+      "center_xy": [
+        -106.07772777991781,
+        -16.80106154532078
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 1,
+      "center_xy": [
+        -106.07772777991781,
+        -16.80106154532078
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 0,
+      "center_xy": [
+        -95.69410069783072,
+        -48.75857967202732
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 1,
+      "center_xy": [
+        -95.69410069783072,
+        -48.75857967202732
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 0,
+      "center_xy": [
+        -75.94326829943523,
+        -75.9432682994352
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 1,
+      "center_xy": [
+        -75.94326829943523,
+        -75.9432682994352
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 0,
+      "center_xy": [
+        -48.758579672027345,
+        -95.6941006978307
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 1,
+      "center_xy": [
+        -48.758579672027345,
+        -95.6941006978307
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 0,
+      "center_xy": [
+        -16.801061545320813,
+        -106.0777277799178
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 1,
+      "center_xy": [
+        -16.801061545320813,
+        -106.0777277799178
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 0,
+      "center_xy": [
+        16.801061545320803,
+        -106.07772777991781
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 2,
+      "center_xy": [
+        16.801061545320803,
+        -106.07772777991781
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 0,
+      "center_xy": [
+        48.75857967202734,
+        -95.69410069783072
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 2,
+      "center_xy": [
+        48.75857967202734,
+        -95.69410069783072
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 0,
+      "center_xy": [
+        75.94326829943522,
+        -75.9432682994352
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 2,
+      "center_xy": [
+        75.94326829943522,
+        -75.9432682994352
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 0,
+      "center_xy": [
+        95.69410069783072,
+        -48.75857967202733
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 2,
+      "center_xy": [
+        95.69410069783072,
+        -48.75857967202733
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 0,
+      "center_xy": [
+        106.07772777991781,
+        -16.801061545320795
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 2,
+      "center_xy": [
+        106.07772777991781,
+        -16.801061545320795
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 0,
+      "center_xy": [
+        106.07772777991781,
+        16.801061545320795
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 2,
+      "center_xy": [
+        106.07772777991781,
+        16.801061545320795
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 0,
+      "center_xy": [
+        95.69410069783072,
+        48.75857967202733
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 2,
+      "center_xy": [
+        95.69410069783072,
+        48.75857967202733
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 0,
+      "center_xy": [
+        75.94326829943522,
+        75.9432682994352
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 2,
+      "center_xy": [
+        75.94326829943522,
+        75.9432682994352
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 0,
+      "center_xy": [
+        48.75857967202734,
+        95.69410069783072
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 2,
+      "center_xy": [
+        48.75857967202734,
+        95.69410069783072
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 0,
+      "center_xy": [
+        16.801061545320803,
+        106.07772777991781
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 2,
+      "center_xy": [
+        16.801061545320803,
+        106.07772777991781
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 1,
+      "center_yz": [
+        -103.33908891458577,
+        22.0
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 2,
+      "center_yz": [
+        -103.33908891458577,
+        22.0
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 1,
+      "center_yz": [
+        -106.9,
+        36.0
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 2,
+      "center_yz": [
+        -106.9,
+        36.0
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 1,
+      "center_yz": [
+        -106.9,
+        50.0
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 2,
+      "center_yz": [
+        -106.9,
+        50.0
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 1,
+      "center_yz": [
+        103.33908891458577,
+        22.0
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 2,
+      "center_yz": [
+        103.33908891458577,
+        22.0
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 1,
+      "center_yz": [
+        106.9,
+        36.0
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 2,
+      "center_yz": [
+        106.9,
+        36.0
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 1,
+      "center_yz": [
+        106.9,
+        50.0
+      ],
+      "fit_intersection_mm3": 0.0
+    },
+    {
+      "part": 2,
+      "center_yz": [
+        106.9,
+        50.0
+      ],
+      "fit_intersection_mm3": 0.0
+    }
+  ],
+  "stud_geometry_difference_mm3": 0.0,
+  "final_stl_checks": [
+    {
+      "file": "01_Top_With_Armor_Stud_mm.stl",
+      "watertight": true,
+      "winding_consistent": true,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "components": 1,
+      "dimensions_mm": [
+        224.8000030517578,
+        224.8000030517578,
+        239.75
+      ],
+      "min_z_mm": 0.0,
+      "sha256": "d4ed2c46883406ab7c64cdaefaf545712f9526ece64ba260da22771c7954ebc3"
+    },
+    {
+      "file": "02_Lower_Left_mm.stl",
+      "watertight": true,
+      "winding_consistent": true,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "components": 1,
+      "dimensions_mm": [
+        112.25,
+        224.79754638671875,
+        63.25
+      ],
+      "min_z_mm": 0.0,
+      "sha256": "bdf12f906e0ec8dcefa1b1cb6ededc88064492653cbfc9ba1a14e20ff470c6d0"
+    },
+    {
+      "file": "03_Lower_Right_mm.stl",
+      "watertight": true,
+      "winding_consistent": true,
+      "nonmanifold_edges": 0,
+      "degenerate_triangles": 0,
+      "components": 1,
+      "dimensions_mm": [
+        112.25,
+        224.79754638671875,
+        63.25
+      ],
+      "min_z_mm": 0.0,
+      "sha256": "0d0702147106a9c9a9c50f7ba921afb0db68b7083b70b79f9c2030c245c29585"
+    }
+  ],
+  "blender_checks": [
+    {
+      "part": "01_Top_With_Armor_Stud",
+      "nonmanifold_edges": 0,
+      "degenerate_faces": 0
+    },
+    {
+      "part": "02_Lower_Left",
+      "nonmanifold_edges": 0,
+      "degenerate_faces": 0
+    },
+    {
+      "part": "03_Lower_Right",
+      "nonmanifold_edges": 0,
+      "degenerate_faces": 0
+    }
+  ],
+  "status": "67.5 mm eye spacing supplied by user; mesh and assembly checks passed; physical fit not tested"
+}

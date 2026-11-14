@@ -1,0 +1,79 @@
+[
+  {
+    "file": "00_cradle_fit_coupon.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 1532.86,
+    "size_mm": [
+      73.0,
+      27.0,
+      12.0
+    ]
+  },
+  {
+    "file": "01_leg_L.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 11885.2,
+    "size_mm": [
+      240.0,
+      220.0,
+      28.0
+    ]
+  },
+  {
+    "file": "01_leg_R.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 11885.2,
+    "size_mm": [
+      240.0,
+      220.0,
+      28.0
+    ]
+  },
+  {
+    "file": "02_crossbar_front.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 4847.6,
+    "size_mm": [
+      244.0,
+      20.0,
+      6.0
+    ]
+  },
+  {
+    "file": "02_crossbar_rear.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 4750.95,
+    "size_mm": [
+      244.0,
+      20.0,
+      6.0
+    ]
+  },
+  {
+    "file": "03_rear_pad_L.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 2821.72,
+    "size_mm": [
+      84.52973937988281,
+      38.0,
+      33.25
+    ]
+  },
+  {
+    "file": "03_rear_pad_R.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 2821.72,
+    "size_mm": [
+      84.52972412109375,
+      38.0,
+      33.25
+    ]
+  }
+]

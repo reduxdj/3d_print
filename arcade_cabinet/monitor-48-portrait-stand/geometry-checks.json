@@ -1,0 +1,159 @@
+{
+  "revision": 48,
+  "monitor_source": "https://www.acer.com/gb-en/monitors/entertainment/sb0/pdp/UM.WS0EE.008",
+  "published_monitor_portrait_envelope_mm": [
+    302,
+    36,
+    498
+  ],
+  "published_bare_weight_kg": 2,
+  "lean_degrees": 8,
+  "stand_footprint_mm": [
+    254,
+    240
+  ],
+  "stand_height_mm": 220,
+  "padded_lower_front_edge_height_mm": 65.1039941570266,
+  "max_print_dimension_mm": 244,
+  "parts": [
+    {
+      "file": "01_leg_L.stl",
+      "group": "legs",
+      "size_mm": [
+        240.0,
+        220.0,
+        28.0
+      ],
+      "volume_mm3": 331323.7395680279,
+      "nonmanifold_edges": 0,
+      "components": 1
+    },
+    {
+      "file": "03_rear_pad_L.stl",
+      "group": "shoes",
+      "size_mm": [
+        84.52973937988281,
+        38.0,
+        33.25
+      ],
+      "volume_mm3": 19476.083985624657,
+      "nonmanifold_edges": 0,
+      "components": 1
+    },
+    {
+      "file": "01_leg_R.stl",
+      "group": "legs",
+      "size_mm": [
+        240.0,
+        220.0,
+        28.0
+      ],
+      "volume_mm3": 331323.7394979472,
+      "nonmanifold_edges": 0,
+      "components": 1
+    },
+    {
+      "file": "03_rear_pad_R.stl",
+      "group": "shoes",
+      "size_mm": [
+        84.52972412109375,
+        38.0,
+        33.25
+      ],
+      "volume_mm3": 19476.08175807755,
+      "nonmanifold_edges": 0,
+      "components": 1
+    },
+    {
+      "file": "02_crossbar_front.stl",
+      "group": "bars",
+      "size_mm": [
+        244.0,
+        20.0,
+        6.0
+      ],
+      "volume_mm3": 29085.580502964553,
+      "nonmanifold_edges": 0,
+      "components": 1
+    },
+    {
+      "file": "02_crossbar_rear.stl",
+      "group": "bars",
+      "size_mm": [
+        244.0,
+        20.0,
+        6.0
+      ],
+      "volume_mm3": 28505.685969089856,
+      "nonmanifold_edges": 0,
+      "components": 1
+    },
+    {
+      "file": "00_cradle_fit_coupon.stl",
+      "group": "coupon",
+      "size_mm": [
+        73.0,
+        27.0,
+        12.0
+      ],
+      "volume_mm3": 18034.739341734334,
+      "nonmanifold_edges": 0,
+      "components": 1
+    }
+  ],
+  "printed_part_intersections": [],
+  "reference_monitor_intersections": [],
+  "rear_pad_travel_checks": [
+    {
+      "side": "L",
+      "offset_mm": -20,
+      "intersection_mm3": 0.0
+    },
+    {
+      "side": "L",
+      "offset_mm": 20,
+      "intersection_mm3": 0.0
+    },
+    {
+      "side": "R",
+      "offset_mm": -20,
+      "intersection_mm3": 0.0
+    },
+    {
+      "side": "R",
+      "offset_mm": 20,
+      "intersection_mm3": 0.0
+    }
+  ],
+  "reference_rear_depths_mm": [
+    6.5,
+    36
+  ],
+  "depth_profile_is_schematic": true,
+  "monitor_cog_uniform_box_assumption_mm": [
+    0,
+    50.748927376404566,
+    309.17562745639646
+  ],
+  "gravity_projection_margin_mm": {
+    "front": 150.74892737640457,
+    "rear": 89.25107262359543,
+    "left": 127,
+    "right": 127
+  },
+  "physical_fit_verified": false,
+  "physical_load_tested": false,
+  "hardware": {
+    "M3x12_screws_for_rear_pads": 4,
+    "M3_washers_for_rear_pads": 4,
+    "M3_inserts_for_rear_pads": 4,
+    "M3x16_crossbar_screws": 4,
+    "M3_hex_nuts_crossbars": 4
+  },
+  "notes": [
+    "Intended indoor stationary 2 kg monitor bench cradle, not a cabinet chassis or universal rated stand.",
+    "Actual lower plastic rim and rear casing must land on soft pads, not screen glass, vents or plugs.",
+    "Reference 6.5 mm thin area and electronics step are schematic; independently adjust rear pads to the actual housing.",
+    "Print coupon first; load-test assembled stand with a dummy weight before fitting screen."
+  ]
+}

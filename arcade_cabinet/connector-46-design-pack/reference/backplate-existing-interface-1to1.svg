@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100mm" height="75mm" viewBox="-50 -37.5 100 75">
+<rect x="-50" y="-37.5" width="100" height="75" fill="white"/>
+<g fill="none" stroke-width=".25">
+<rect x="-27" y="-14" width="54" height="28" rx="3" stroke="#121918"/>
+<rect x="-18.3" y="-9.3" width="36.6" height="18.6" rx="1" stroke="#398167" stroke-dasharray="1 1"/>
+<circle cx="-23" cy="0" r="1.7" stroke="#121918"/><circle cx="23" cy="0" r="1.7" stroke="#121918"/>
+<circle cx="-23" cy="0" r="3.2" stroke="#687371"/><circle cx="23" cy="0" r="3.2" stroke="#687371"/>
+<path d="M-23 16v8 M23 16v8 M-23 21H23 M-27 -17v-8 M27 -17v-8 M-27 -22H27" stroke="#687371"/>
+<path d="M-25 20l2 1 -2 1 M25 20l-2 1 2 1" stroke="#687371"/>
+</g><g font-family="Helvetica,Arial,sans-serif" text-anchor="middle" fill="#121918">
+<text y="-28" font-size="3.6">EXISTING BACK-PLATE INTERFACE / 1:1</text>
+<text y="-23.5" font-size="3">54 mm</text><text y="19.5" font-size="3">46 mm screw centres</text>
+<text y="-2" font-size="2.6">Component aperture pending</text><text y="2" font-size="2.6">purchased-part measurements</text>
+<text y="29" font-size="2.6">Green = 36.6 × 18.6 shell throat behind plate</text>
+<text y="33" font-size="2.6">Reference only • print at 100% • no fit claim</text>
+</g></svg>

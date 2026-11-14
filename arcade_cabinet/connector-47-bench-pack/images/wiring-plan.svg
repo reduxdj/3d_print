@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#536d68"/></marker></defs>
+<rect width="1200" height="650" rx="20" fill="#f2f0e8"/>
+<g font-family="Arial,sans-serif" fill="#263a37"><text x="38" y="55" font-size="28" font-weight="bold">Bench wiring · choose one encoder for each switch harness</text><text x="38" y="88" font-size="17">Connection architecture only. A/B numbering below is logical, not a vendor pinout.</text></g>
+<g fill="white" stroke="#bccbc6" stroke-width="2">
+<rect x="38" y="140" width="280" height="95" rx="10"/><rect x="450" y="140" width="310" height="95" rx="10"/><rect x="900" y="140" width="260" height="95" rx="10"/>
+<rect x="38" y="330" width="235" height="120" rx="10"/><rect x="325" y="330" width="240" height="120" rx="10"/><rect x="615" y="330" width="240" height="120" rx="10"/><rect x="905" y="330" width="255" height="120" rx="10"/>
+<rect x="38" y="518" width="1122" height="87" rx="10" fill="#ede4cf"/></g>
+<g stroke="#536d68" stroke-width="3" marker-end="url(#arrow)"><path d="M320 187H443"/><path d="M764 187H893"/><path d="M275 390H318"/><path d="M567 390H608"/><path d="M857 390H898"/></g>
+<g font-family="Arial,sans-serif" fill="#263a37" font-size="21">
+<text x="58" y="175">Existing Easyget / GRS</text><text x="58" y="208" font-size="16">Keep factory board cables</text>
+<text x="470" y="175">Split USB cable gate</text><text x="470" y="208" font-size="16">Intact cable; strap behind opening</text>
+<text x="920" y="175">Pi / computer USB</text><text x="920" y="208" font-size="16">Working prototype path</text>
+<text x="38" y="292" font-size="22" font-weight="bold">Magnetic switch interface · populate after continuity checks</text>
+<text x="58" y="365">Switch contacts</text><text x="58" y="400" font-size="16">Two wires per circuit</text><text x="58" y="426" font-size="16">Until common verified</text>
+<text x="345" y="365">A + B magnetic pairs</text><text x="345" y="400" font-size="16">Factory leads + plugs intact</text><text x="345" y="426" font-size="16">24 independent conductors</text>
+<text x="635" y="365">Matched breakout</text><text x="635" y="400" font-size="16">Assembled / no user solder</text><text x="635" y="426" font-size="16">Exact plug still unverified</text>
+<text x="925" y="365">ONE Easyget encoder</text><text x="925" y="400" font-size="16">Internal or bench-mounted</text><text x="925" y="426" font-size="16">Its USB goes to the host</text>
+<text x="58" y="550" font-size="22">Reserved 5 V lane</text><text x="58" y="582" font-size="17">Separate protected feed and return for confirmed 5 V loads. No connection to USB VBUS or switch inputs.</text>
+</g></svg>

@@ -1,0 +1,60 @@
+{
+  "parts": [
+    {
+      "file": "fit_magnetic_male.stl",
+      "size_mm": [
+        64.0,
+        44.0,
+        8.8
+      ],
+      "components": 1,
+      "nonmanifold_edges": 0,
+      "volume_mm3": 17851.7
+    },
+    {
+      "file": "fit_magnetic_female.stl",
+      "size_mm": [
+        64.0,
+        44.0,
+        6.5
+      ],
+      "components": 1,
+      "nonmanifold_edges": 0,
+      "volume_mm3": 17665.65
+    },
+    {
+      "file": "fit_recessed_M3_head.stl",
+      "size_mm": [
+        32.0,
+        32.0,
+        5.4
+      ],
+      "components": 1,
+      "nonmanifold_edges": 0,
+      "volume_mm3": 3084.62
+    },
+    {
+      "file": "inner_port_blank_cover.stl",
+      "size_mm": [
+        54.0,
+        28.0,
+        6.0
+      ],
+      "components": 1,
+      "nonmanifold_edges": 0,
+      "volume_mm3": 6237.2
+    }
+  ],
+  "magnet_count_pair": 8,
+  "test_not_full_join_load_test": true,
+  "head_recess_dia_depth": [
+    7,
+    2.2
+  ],
+  "head_max_height": 2,
+  "key_diameters": [
+    4,
+    5
+  ],
+  "radial_clearance": 0.25
+}

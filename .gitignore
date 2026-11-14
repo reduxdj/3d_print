@@ -1,0 +1,9 @@
+.DS_Store
+
+# Blender autosave backups
+*.blend1
+*.blend2
+
+# Zipped packs duplicate their folders; the controller pack exceeds GitHub's 100 MB limit.
+# Attach these to a GitHub Release instead.
+*.zip

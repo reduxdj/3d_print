@@ -1,0 +1,1250 @@
+[
+  {
+    "variant": "joystick-6",
+    "side": "L",
+    "xy_mm": [
+      45,
+      25
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "joystick-6",
+    "side": "L",
+    "xy_mm": [
+      160,
+      20
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "joystick-6",
+    "side": "L",
+    "xy_mm": [
+      25,
+      90
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "joystick-6",
+    "side": "L",
+    "xy_mm": [
+      190,
+      130
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "joystick-6",
+    "side": "L",
+    "xy_mm": [
+      55,
+      155
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "joystick-6",
+    "side": "L",
+    "xy_mm": [
+      175,
+      160
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "joystick-6",
+    "side": "R",
+    "xy_mm": [
+      225,
+      25
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "joystick-6",
+    "side": "R",
+    "xy_mm": [
+      370,
+      25
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "joystick-6",
+    "side": "R",
+    "xy_mm": [
+      220,
+      90
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "joystick-6",
+    "side": "R",
+    "xy_mm": [
+      375,
+      90
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "joystick-6",
+    "side": "R",
+    "xy_mm": [
+      235,
+      150
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "joystick-6",
+    "side": "R",
+    "xy_mm": [
+      375,
+      150
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "joystick-2",
+    "side": "L",
+    "xy_mm": [
+      45,
+      25
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "joystick-2",
+    "side": "L",
+    "xy_mm": [
+      160,
+      20
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "joystick-2",
+    "side": "L",
+    "xy_mm": [
+      25,
+      90
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "joystick-2",
+    "side": "L",
+    "xy_mm": [
+      190,
+      130
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "joystick-2",
+    "side": "L",
+    "xy_mm": [
+      55,
+      155
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "joystick-2",
+    "side": "L",
+    "xy_mm": [
+      175,
+      160
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "joystick-2",
+    "side": "R",
+    "xy_mm": [
+      225,
+      25
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "joystick-2",
+    "side": "R",
+    "xy_mm": [
+      370,
+      25
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "joystick-2",
+    "side": "R",
+    "xy_mm": [
+      220,
+      90
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "joystick-2",
+    "side": "R",
+    "xy_mm": [
+      375,
+      90
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "joystick-2",
+    "side": "R",
+    "xy_mm": [
+      235,
+      150
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "joystick-2",
+    "side": "R",
+    "xy_mm": [
+      375,
+      150
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "joystick-3",
+    "side": "L",
+    "xy_mm": [
+      45,
+      25
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "joystick-3",
+    "side": "L",
+    "xy_mm": [
+      160,
+      20
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "joystick-3",
+    "side": "L",
+    "xy_mm": [
+      25,
+      90
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "joystick-3",
+    "side": "L",
+    "xy_mm": [
+      190,
+      130
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "joystick-3",
+    "side": "L",
+    "xy_mm": [
+      55,
+      155
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "joystick-3",
+    "side": "L",
+    "xy_mm": [
+      175,
+      160
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "joystick-3",
+    "side": "R",
+    "xy_mm": [
+      225,
+      25
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "joystick-3",
+    "side": "R",
+    "xy_mm": [
+      370,
+      25
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "joystick-3",
+    "side": "R",
+    "xy_mm": [
+      220,
+      90
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "joystick-3",
+    "side": "R",
+    "xy_mm": [
+      375,
+      90
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "joystick-3",
+    "side": "R",
+    "xy_mm": [
+      235,
+      150
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "joystick-3",
+    "side": "R",
+    "xy_mm": [
+      375,
+      150
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "centipede",
+    "side": "L",
+    "xy_mm": [
+      45,
+      25
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "centipede",
+    "side": "L",
+    "xy_mm": [
+      160,
+      20
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "centipede",
+    "side": "L",
+    "xy_mm": [
+      25,
+      90
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "centipede",
+    "side": "L",
+    "xy_mm": [
+      190,
+      130
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "centipede",
+    "side": "L",
+    "xy_mm": [
+      55,
+      155
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "centipede",
+    "side": "L",
+    "xy_mm": [
+      175,
+      160
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "centipede",
+    "side": "R",
+    "xy_mm": [
+      225,
+      25
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "centipede",
+    "side": "R",
+    "xy_mm": [
+      370,
+      25
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "centipede",
+    "side": "R",
+    "xy_mm": [
+      220,
+      90
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "centipede",
+    "side": "R",
+    "xy_mm": [
+      375,
+      90
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "centipede",
+    "side": "R",
+    "xy_mm": [
+      235,
+      150
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "centipede",
+    "side": "R",
+    "xy_mm": [
+      375,
+      150
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "centipede-left-fire",
+    "side": "L",
+    "xy_mm": [
+      45,
+      25
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "centipede-left-fire",
+    "side": "L",
+    "xy_mm": [
+      160,
+      20
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "centipede-left-fire",
+    "side": "L",
+    "xy_mm": [
+      25,
+      90
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "centipede-left-fire",
+    "side": "L",
+    "xy_mm": [
+      190,
+      130
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "centipede-left-fire",
+    "side": "L",
+    "xy_mm": [
+      55,
+      155
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "centipede-left-fire",
+    "side": "L",
+    "xy_mm": [
+      175,
+      160
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "centipede-left-fire",
+    "side": "R",
+    "xy_mm": [
+      225,
+      25
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "centipede-left-fire",
+    "side": "R",
+    "xy_mm": [
+      370,
+      25
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "centipede-left-fire",
+    "side": "R",
+    "xy_mm": [
+      220,
+      90
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "centipede-left-fire",
+    "side": "R",
+    "xy_mm": [
+      375,
+      90
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "centipede-left-fire",
+    "side": "R",
+    "xy_mm": [
+      235,
+      150
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "centipede-left-fire",
+    "side": "R",
+    "xy_mm": [
+      375,
+      150
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "tempest",
+    "side": "L",
+    "xy_mm": [
+      45,
+      25
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "tempest",
+    "side": "L",
+    "xy_mm": [
+      160,
+      20
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "tempest",
+    "side": "L",
+    "xy_mm": [
+      25,
+      90
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "tempest",
+    "side": "L",
+    "xy_mm": [
+      190,
+      130
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "tempest",
+    "side": "L",
+    "xy_mm": [
+      55,
+      155
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "tempest",
+    "side": "L",
+    "xy_mm": [
+      175,
+      160
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "tempest",
+    "side": "R",
+    "xy_mm": [
+      225,
+      25
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "tempest",
+    "side": "R",
+    "xy_mm": [
+      370,
+      25
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "tempest",
+    "side": "R",
+    "xy_mm": [
+      220,
+      90
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "tempest",
+    "side": "R",
+    "xy_mm": [
+      375,
+      90
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "tempest",
+    "side": "R",
+    "xy_mm": [
+      235,
+      150
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "tempest",
+    "side": "R",
+    "xy_mm": [
+      375,
+      150
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "twin-joystick",
+    "side": "L",
+    "xy_mm": [
+      45,
+      25
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "twin-joystick",
+    "side": "L",
+    "xy_mm": [
+      160,
+      20
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "twin-joystick",
+    "side": "L",
+    "xy_mm": [
+      25,
+      90
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "twin-joystick",
+    "side": "L",
+    "xy_mm": [
+      190,
+      130
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "twin-joystick",
+    "side": "L",
+    "xy_mm": [
+      55,
+      155
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "twin-joystick",
+    "side": "L",
+    "xy_mm": [
+      175,
+      160
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "twin-joystick",
+    "side": "R",
+    "xy_mm": [
+      225,
+      25
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "twin-joystick",
+    "side": "R",
+    "xy_mm": [
+      370,
+      25
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "twin-joystick",
+    "side": "R",
+    "xy_mm": [
+      220,
+      90
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "twin-joystick",
+    "side": "R",
+    "xy_mm": [
+      375,
+      90
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "twin-joystick",
+    "side": "R",
+    "xy_mm": [
+      235,
+      150
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "twin-joystick",
+    "side": "R",
+    "xy_mm": [
+      375,
+      150
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "twin-joystick-2fire",
+    "side": "L",
+    "xy_mm": [
+      45,
+      25
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "twin-joystick-2fire",
+    "side": "L",
+    "xy_mm": [
+      160,
+      20
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "twin-joystick-2fire",
+    "side": "L",
+    "xy_mm": [
+      25,
+      90
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "twin-joystick-2fire",
+    "side": "L",
+    "xy_mm": [
+      190,
+      130
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "twin-joystick-2fire",
+    "side": "L",
+    "xy_mm": [
+      55,
+      155
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "twin-joystick-2fire",
+    "side": "L",
+    "xy_mm": [
+      175,
+      160
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "twin-joystick-2fire",
+    "side": "R",
+    "xy_mm": [
+      225,
+      25
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "twin-joystick-2fire",
+    "side": "R",
+    "xy_mm": [
+      370,
+      25
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "twin-joystick-2fire",
+    "side": "R",
+    "xy_mm": [
+      220,
+      90
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "twin-joystick-2fire",
+    "side": "R",
+    "xy_mm": [
+      375,
+      90
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "twin-joystick-2fire",
+    "side": "R",
+    "xy_mm": [
+      235,
+      150
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  },
+  {
+    "variant": "twin-joystick-2fire",
+    "side": "R",
+    "xy_mm": [
+      375,
+      150
+    ],
+    "tool_envelope_mm": [
+      11,
+      25
+    ],
+    "intersection_mm3": 0.0
+  }
+]

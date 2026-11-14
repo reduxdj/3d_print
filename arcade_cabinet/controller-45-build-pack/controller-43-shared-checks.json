@@ -1,0 +1,77 @@
+[
+  {
+    "a": "joystick-6_top_L.stl",
+    "b": "joystick-2_top_L.stl",
+    "max_surface_deviation_mm": 0.0
+  },
+  {
+    "a": "joystick-6_top_L.stl",
+    "b": "joystick-3_top_L.stl",
+    "max_surface_deviation_mm": 0.0
+  },
+  {
+    "a": "joystick-6_top_L.stl",
+    "b": "twin-joystick_top_L.stl",
+    "max_surface_deviation_mm": 0.0
+  },
+  {
+    "a": "joystick-6_bottom_L.stl",
+    "b": "joystick-2_bottom_L.stl",
+    "max_surface_deviation_mm": 0.0004256080719642341
+  },
+  {
+    "a": "joystick-6_bottom_R.stl",
+    "b": "joystick-2_bottom_R.stl",
+    "max_surface_deviation_mm": 0.0004403952043503523
+  },
+  {
+    "a": "joystick-6_bottom_L.stl",
+    "b": "joystick-3_bottom_L.stl",
+    "max_surface_deviation_mm": 0.0004256080719642341
+  },
+  {
+    "a": "joystick-6_bottom_R.stl",
+    "b": "joystick-3_bottom_R.stl",
+    "max_surface_deviation_mm": 0.0004403952043503523
+  },
+  {
+    "a": "joystick-6_bottom_L.stl",
+    "b": "centipede_bottom_L.stl",
+    "max_surface_deviation_mm": 0.0
+  },
+  {
+    "a": "joystick-6_bottom_R.stl",
+    "b": "centipede_bottom_R.stl",
+    "max_surface_deviation_mm": 0.0
+  },
+  {
+    "a": "joystick-6_bottom_L.stl",
+    "b": "centipede-left-fire_bottom_L.stl",
+    "max_surface_deviation_mm": 0.0004256080719642341
+  },
+  {
+    "a": "joystick-6_bottom_R.stl",
+    "b": "centipede-left-fire_bottom_R.stl",
+    "max_surface_deviation_mm": 0.0004403952043503523
+  },
+  {
+    "a": "joystick-6_bottom_L.stl",
+    "b": "tempest_bottom_L.stl",
+    "max_surface_deviation_mm": 0.0004256080719642341
+  },
+  {
+    "a": "joystick-6_bottom_R.stl",
+    "b": "tempest_bottom_R.stl",
+    "max_surface_deviation_mm": 0.0004403952043503523
+  },
+  {
+    "a": "joystick-6_bottom_L.stl",
+    "b": "twin-joystick_bottom_L.stl",
+    "max_surface_deviation_mm": 0.0004256080719642341
+  },
+  {
+    "a": "joystick-6_bottom_R.stl",
+    "b": "twin-joystick_bottom_R.stl",
+    "max_surface_deviation_mm": 0.0004403952043503523
+  }
+]

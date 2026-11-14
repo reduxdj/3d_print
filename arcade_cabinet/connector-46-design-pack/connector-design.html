@@ -1,0 +1,112 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Connector 46 — solderless back-plate plan</title><style>body{margin:0;background:#f4f1e9;color:#202926;font:17px/1.65 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}main{max-width:1100px;margin:auto;padding:48px 28px 100px}h1{font-size:clamp(30px,5vw,52px);line-height:1.12;letter-spacing:-.04em;max-width:900px}h2{font-size:28px;margin-top:48px;letter-spacing:-.02em}a{color:#286a50;text-underline-offset:3px}img{display:block;width:100%;height:auto;border-radius:12px;margin:30px 0}p,li{max-width:970px}li{margin:10px 0}table{width:100%;border-collapse:collapse;background:#fff;margin:22px 0}td,th{padding:12px 16px;border-bottom:1px solid #dae0d7;text-align:left;vertical-align:top}th{background:#e0e9e1}code{background:#e3e5de;padding:2px 5px;border-radius:3px;overflow-wrap:anywhere}.status{background:#e0e9e1;border-left:4px solid #557666;padding:14px 18px}.links{font-size:14px}@media(max-width:650px){main{padding:24px 16px}td,th{padding:9px;font-size:14px}}@media print{main{padding:0}body{font-size:11pt}h2{page-break-after:avoid}img,table{break-inside:avoid}}
+.table-scroll{overflow-x:auto}table{min-width:620px}a{overflow-wrap:anywhere}h2{scroll-margin-top:24px}</style></head><body><main><h1 id="controller-connector-46-solderless-integration-study">Controller connector 46 — solderless integration study</h1><!-- bench-47 --><p><strong>Bench prototype 47:</strong> <a href="../connector-47-bench-pack/build-guide.html">Printable frame and wiring guide</a> · <a href="../connector-47-bench-pack/connector-47-bench-A1.3mf">A1 project</a>. Adds a three-port rail, feet, wiring tray and optional Easyget sled. Basic frame hardware: 4 × M3×25, 10 × M3×10, 14 × M3 nuts; optional sled hardware is listed in its guide. Reuse existing USB cables. Connector-specific inner retention remains pending actual hardware dimensions.</p>
+<!-- /bench-47 -->
+<!-- connector-sourcing-2026-11-13 -->
+<p><strong>13 November supplier update:</strong> the current 54 × 28 mm surround and 46 mm screw pattern are the accepted envelope. Keep the purchased factory cable intact and use a connector-specific inner seat/keeper. <a href="sourcing-update.html">Supplier comparison and magnet-recess diagnosis</a> includes the prewired Mill-Max fallback and a <a href="supplier-request.txt">sample request draft</a>. Hardware fit remains unverified; no controller reprint is required for this documentation update.</p>
+<!-- /connector-sourcing-2026-11-13 -->
+<p>Use the purchased magnetic connector's factory cable intact. Its white plug connects to a matching socket on a <strong>fully assembled passive breakout</strong>, then to preterminated adapter leads for the Easyget or button harness. No soldering or clipping the purchased leads is needed with that arrangement. A ready-made matching breakout has <strong>not</strong> yet been verified; PCB assembly by a supplier is an alternative, not a part we already have.</p>
+<p><img src="images/connector-plan.png" alt="Connector and back-plate plan" /></p>
+<h2 id="what-is-verified">What is verified</h2>
+<p>The <a href="https://www.amazon.com/dp/B0DT79N394?th=1">selected Amazon part</a> is JHYOSSTHI <strong>JH-WPogo-12Pin</strong>, one magnetic male/female pair with a 10 cm cable. Product photos show white single-row 12-position housings and a flange on the black bodies. The listing does not establish the white connector family, exact body dimensions, working stroke, pin mapping, wire gauge or usable current rating. A “5 V” catalog field is not a pinout or an ampacity specification. We must not inherit the old MTCELL connector's dimensions or ratings.</p>
+<h2 id="how-the-back-plate-attaches">How the back plate attaches</h2>
+<ol>
+<li>Retain the existing shell's recessed seat and two M3 fixing positions. Current design: <strong>54 × 28 × 3 mm surround, 46 mm screw centres</strong>, Ø3.4 clearance, Ø6.4 × 1.6 head recess. The shell throat behind it is <strong>36.6 × 18.6 mm</strong>. <a href="reference/backplate-existing-interface-1to1.svg">1:1 interface drawing</a>.</li>
+<li>Make the black carrier a replaceable, hardware-specific part. The connector flange seats against a positive shoulder; a removable keeper captures it from behind. Seat and keeper carry insertion/removal loads rather than the wires or contacts.</li>
+<li>Split the keeper around the wire exit so it can be installed after the factory harness is passed through. First verify the white plug passes through the shell throat without depinning. A split keeper alone cannot fix an oversized shell throat.</li>
+<li>Add an independent cable tie or soft strap behind the connector, gripping insulated wires gently. Keep a service loop so the back plate can be loosened without pulling the tiny plug. Put the breakout nearby, with its plug and release accessible through the removable bottom.</li>
+<li>Set connector projection with measured shoulders or replaceable shims, then test full mating. The housing/registration keys must stop the assembly before the pogo pins bottom out. Both magnetic halves may need different seats.</li>
+</ol>
+<p>The carrier outline and shell fixings are known. The new component aperture, flange pocket, keeper fixings and shim thickness are <strong>pending measurement</strong>. No new print-ready connector STL or revised controller 3MF is released in this study. Revision 45 remains the latest printable controller pack. Inner seam surrounds use the same nominal 54 × 28 / 46 mm interface; their pilots and mating stroke need separate checks before sharing a finished insert.</p>
+<h2 id="recommended-breakout-arrangement">Recommended breakout arrangement</h2>
+<p><strong>One 12-way passive adapter per cable end:</strong> mating socket → twelve separately isolated terminal positions. Two magnetic connectors provide twenty-four independent conductors. Label both ports A/B and each conductor; continuity-test the actual mating pair rather than relying on wire colours or mirrored contact numbering.</p>
+<p>For a completely plug-in button side, an assembled adapter can instead fan the twelve ways out to six 2-pin sockets matching the existing button leads. The Easyget side uses matching preterminated extension/adapter leads. The exact Easyget plug family must be checked too. An adapter with only screw terminals does not directly accept an existing plastic plug; it needs the mating socket or an adapter cable.</p>
+<p>For rapid prototyping, an alternative is a <strong>factory-made mating 12-pin pigtail with prestripped ends</strong>, connected to individually isolated screw/spring terminals. This also preserves the purchased lead. Such a matching pigtail has not yet been identified. Loose PCB headers still require soldering to a PCB; do not order them thinking they are cable adapters.</p>
+<p>Use terminal blocks specified for the actual conductor size and strand type. If required by the selected terminal, use correctly crimped ferrules on new adapter leads, never solder-tinned wire ends under screw clamps. Keep the factory cable unchanged.</p>
+<h2 id="which-signals-go-through-it">Which signals go through it</h2>
+<p>Treat the magnetic connectors initially as passive <strong>switch wiring</strong>, not automatically as USB. Two ports can carry twelve isolated 2-wire switch circuits (24 conductors), or a verified common-return arrangement can free contacts for other purposes. Eight action/start switches alone need 16 conductors if kept as independent pairs.</p>
+<p>The <a href="circuit-allocation.csv">circuit allocation worksheet</a> is a planning worksheet for twelve isolated circuits, <strong>not the vendor's physical pinout</strong>. The <a href="continuity-map.csv">continuity worksheet</a> is where actual wire/contact mappings must be recorded first. Remap it for the chosen layout; Start is a game input and is distinct from a later coin interface.</p>
+<p>Keep button lamp wiring separate from switch inputs. Do not infer positive/negative from colour or assume the LEDs use 5 V. After their voltage/current and connector ratings are established, allocate an appropriately fused lighting feed and return. If 24 conductors are all used for switches, there are none left for lighting without a confirmed common-return design or another path.</p>
+<p>Keep USB on the existing USB-C connection during this prototype. The purchased connector has no verified USB-data performance. Do not join two encoders' input circuits, parallel two USB power sources, or assume two plugged-in Easyget boards can share a passive switch harness. Select which encoder owns a harness.</p>
+<h2 id="drawing-or-arrival-checks-for-the-next-fit-coupon">Drawing or arrival checks for the next fit coupon</h2>
+<p>The part is not yet in hand. Ask the supplier for a drawing covering both halves; the same checks can be made when it arrives:</p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>Measurement</th>
+<th>What to measure</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Black body W × H × D</td>
+<td>Exclude the projecting pins and cable; record them separately</td>
+</tr>
+<tr>
+<td>Flange W × H × thickness</td>
+<td>Include any latch, step, or moulding ridge</td>
+</tr>
+<tr>
+<td>Wire exit</td>
+<td>Bundle width/height and required bend space behind housing</td>
+</tr>
+<tr>
+<td>Mating state</td>
+<td>Joined overall thickness, and where plastic faces stop</td>
+</tr>
+<tr>
+<td>White plug</td>
+<td>Overall W × H × D, latch/key shape, contact count</td>
+</tr>
+<tr>
+<td>White plug pitch</td>
+<td>Centre of first to centre of last contact, divided by 11 for twelve contacts</td>
+</tr>
+</tbody>
+</table></div>
+<p>For identification only: 22.0 mm across eleven intervals is 2.0 mm pitch, consistent with <a href="https://www.jst.com/wp-content/uploads/2021/08/ePH-new.pdf">JST PH</a>; 27.5 mm is 2.5 mm pitch, consistent with <a href="https://www.jst.com/wp-content/uploads/2021/01/eXH-new.pdf">JST XH</a>. Pitch alone does not establish the family; keying and contact shape must agree. These are candidates, not a declaration that the purchased plug is JST.</p>
+<p>With these dimensions, the next deliverable is a <strong>small carrier + keeper fit coupon</strong> for each mating half. Dry-fit the connector, white plug, cable and mating partner before changing all the print plates. Only the replaceable surrounds should need printing if the actual part clears the existing shell throat and screw bosses.</p>
+<h2 id="proposed-parts-without-premature-purchases">Proposed parts, without premature purchases</h2>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Quantity / status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Purchased JH-WPogo-12Pin pair</td>
+<td>One pair per magnetic interface; two pairs for A + B</td>
+</tr>
+<tr>
+<td>Matching fully assembled 12-way breakout</td>
+<td>One per harness end; exact socket pending identification</td>
+</tr>
+<tr>
+<td>Preterminated Easyget / button adapters</td>
+<td>Per circuit; plug family pending confirmation</td>
+</tr>
+<tr>
+<td>Carrier + removable keeper</td>
+<td>One set per mounted magnetic half, hardware fit pending</td>
+</tr>
+<tr>
+<td>Existing M3 surround fixings</td>
+<td>Two per surround; retain current shell insert locations</td>
+</tr>
+<tr>
+<td>Strain relief</td>
+<td>One soft strap or cable tie per wire bundle; no tension at plug</td>
+</tr>
+</tbody>
+</table></div>
+<h2 id="files">Files</h2>
+<ul>
+<li><code>connector-design.html</code>: illustrated local design guide.</li>
+<li><code>images/connector-plan.png</code>: back-plate and wiring diagram.</li>
+<li><code>reference/backplate-existing-interface-1to1.svg</code>: measured-from-CAD reference, not a connector cutout.</li>
+<li><code>interface-spec.json</code>: known dimensions, proposed design and outstanding checks.</li>
+<li><code>circuit-allocation.csv</code>, <code>continuity-map.csv</code>: wiring planning sheets.</li>
+</ul>
+<p>Source check: 2026-11-13. Design decisions are proposals; purchased-part facts and CAD-derived dimensions are identified separately. Nothing was ordered.</p>
+</main></body></html>

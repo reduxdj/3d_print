@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 210 297">
+<title>Stone Creature Mask R1 — full-size front projection fit guide</title>
+<rect width="210" height="297" fill="white"/>
+<g font-family="Arial,sans-serif" fill="#202c2c">
+<text x="105" y="20" text-anchor="middle" font-size="5">STONE CREATURE MASK · R1</text>
+<text x="105" y="28" text-anchor="middle" font-size="3.5">Print at 100% / actual size. Do not fit to page.</text>
+<text x="105" y="36" text-anchor="middle" font-size="3.5">Front projection — check sight lines before the full print.</text>
+<path d="M77.15 43 H132.85 M105 43 V56" fill="none" stroke="#647d7b" stroke-width=".4"/>
+<text x="105" y="41" text-anchor="middle" font-size="3">TOP OF STUD</text>
+<path d="M71.25 143 V155 M138.75 143 V155 M71.25 149 H138.75 M71.25 149 l3 -1.5 m-3 1.5 l3 1.5 M138.75 149 l-3 -1.5 m3 1.5 l-3 1.5" fill="none" stroke="#647d7b" stroke-width=".3"/>
+<text x="105" y="146" text-anchor="middle" font-size="4">67.5 mm between eye centers</text>
+<g fill="none" stroke="#182828" stroke-width=".45">
+<circle cx="71.25" cy="173" r="15.075"/><circle cx="138.75" cy="173" r="15.075"/>
+<rect x="98" y="212.5" width="14" height="5" rx="2.5"/>
+</g>
+<g stroke="#81918e" stroke-width=".25" stroke-dasharray="2 2" fill="none">
+<path d="M1 173 H209 M105 50 V232 M71.25 155 V191 M138.75 155 V191"/>
+</g>
+<text x="105" y="198" text-anchor="middle" font-size="3.4">Eye openings Ø30.15 mm · 130 mm below the stud top</text>
+<text x="105" y="225" text-anchor="middle" font-size="3.4">Nose opening 14 × 5 mm</text>
+<text x="105" y="240" text-anchor="middle" font-size="3.2">Cut the openings and hold at the intended mask position.</text>
+<text x="105" y="246" text-anchor="middle" font-size="3.2">This sheet is a flat projection, not the curved shell surface.</text>
+<path d="M55 268 H155 M55 265 V271 M155 265 V271" stroke="#182828" stroke-width=".5" fill="none"/>
+<text x="105" y="278" text-anchor="middle" font-size="4">This line must measure 100 mm</text>
+</g></svg>

@@ -1,0 +1,115 @@
+{
+  "revision": 46,
+  "status": "Connector integration study; not a hardware-fit or PCB fabrication release",
+  "base_controller_revision": 45,
+  "purchased_part": {
+    "asin": "B0DT79N394",
+    "selected_model": "JH-WPogo-12Pin",
+    "brand": "JHYOSSTHI",
+    "source": "https://www.amazon.com/dp/B0DT79N394?th=1",
+    "verified_listing": [
+      "one male/female magnetic pair",
+      "12 contacts",
+      "10 cm cable"
+    ],
+    "observed_photo": [
+      "white single-row 12-position cable housing on each half",
+      "black body with a perimeter flange"
+    ],
+    "unverified": [
+      "body and flange dimensions",
+      "white plug family and pitch",
+      "wire gauge",
+      "pin-to-wire map",
+      "current rating",
+      "USB signal integrity",
+      "working contact stroke"
+    ]
+  },
+  "existing_rear_interface_mm": {
+    "surround": [
+      54,
+      28,
+      3
+    ],
+    "corner_radius": 3,
+    "fixing_centres": 46,
+    "clearance_diameter": 3.4,
+    "head_recess_diameter": 6.4,
+    "head_recess_depth": 1.6,
+    "shell_recess": [
+      54.6,
+      28.6,
+      3.2
+    ],
+    "shell_wire_throat": [
+      36.6,
+      18.6
+    ],
+    "tongue": [
+      35,
+      18,
+      3.2
+    ],
+    "old_provisional_component_aperture": [
+      28.6,
+      8.6
+    ],
+    "rear_A_centre_x": 164,
+    "rear_B_centre_x": 236,
+    "centre_z": 159,
+    "shell_back_y": 190
+  },
+  "proposed_mechanical": [
+    "keep existing shell screw pattern",
+    "hardware-specific split carrier captures body flange",
+    "removable rear keeper bears on housing, not wire insulation",
+    "open-sided wire exit and separate strain relief",
+    "optional measured shims set mating projection",
+    "transfer same verified insert to inner ports only after stroke and clearance checks"
+  ],
+  "proposed_electrical": [
+    "preserve purchased cable and white housing",
+    "matching male header on fully assembled breakout",
+    "12 separately isolated terminal positions per connector",
+    "preterminated adapter leads preserve Easyget and button harnesses",
+    "USB remains on existing USB-C path"
+  ],
+  "release_gates": [
+    "measure both magnetic halves and flange",
+    "identify white plug pitch AND keying",
+    "check plug can pass through shell throat without depinning",
+    "continuity-map every contact across mated pair",
+    "confirm breakout wire-gauge acceptance and current rating",
+    "check populated interior clearance",
+    "test mating stroke without bottoming contacts"
+  ],
+  "sourcing_update": {
+    "date": "2026-11-13",
+    "supplier_list": "suppliers.json",
+    "guide": "sourcing-update.html",
+    "request_draft": "supplier-request.txt",
+    "accepted_assumption": "Retain current surround and shell throat; tailor the inner seat to the selected mating pair.",
+    "fit_validated": false,
+    "geometry_changed": false,
+    "candidate_liner_clearance_per_side_mm": [
+      0.1,
+      0.15,
+      0.2
+    ],
+    "magnet_observation": {
+      "disc_diameter_mm": 6,
+      "disc_thickness_mm": 3,
+      "reported_protrusion_mm": 1.46,
+      "likely_location": "M3 head counterbore shown in IMG_5425",
+      "nominal_counterbore_depth_mm": 1.6,
+      "predicted_protrusion_mm": 1.4,
+      "decision": "Keep screw counterbores; any additional magnet seats need dedicated bosses.",
+      "other_disc_mm": [
+        3,
+        2
+      ],
+      "other_disc_protrusion_mm": null
+    }
+  }
+}

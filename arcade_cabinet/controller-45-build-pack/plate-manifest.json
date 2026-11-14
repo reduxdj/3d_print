@@ -1,0 +1,509 @@
+[
+  {
+    "number": 1,
+    "name": "01 FIT - magnetic join and recessed screw",
+    "parts": [
+      {
+        "file": "STL/FIT43 magnet male.stl",
+        "name": "FIT43 magnet male",
+        "size_mm": [
+          64.0,
+          44.0,
+          8.800000190734863
+        ]
+      },
+      {
+        "file": "STL/FIT43 magnet female.stl",
+        "name": "FIT43 magnet female",
+        "size_mm": [
+          64.0,
+          44.0,
+          6.5
+        ]
+      },
+      {
+        "file": "STL/FIT43 M3 head recess.stl",
+        "name": "FIT43 M3 head recess",
+        "size_mm": [
+          32.0,
+          32.0,
+          5.400000095367432
+        ]
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "name": "02 JOYSTICK LEFT TOP - magnetic diagonal v45 overlay magnets",
+    "parts": [
+      {
+        "file": "STL/JOYSTICK LEFT TOP - magnetic diagonal v45 overlay magnets.stl",
+        "name": "JOYSTICK LEFT TOP - magnetic diagonal v45 overlay magnets",
+        "size_mm": [
+          235.53311157226562,
+          208.52883911132812,
+          57.72795104980469
+        ]
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "name": "03 STREET FIGHTER 6 ACTION RIGHT TOP - magnetic diagonal v45 overlay magnets",
+    "parts": [
+      {
+        "file": "STL/STREET FIGHTER 6 ACTION RIGHT TOP - magnetic diagonal v45 overlay magnets.stl",
+        "name": "STREET FIGHTER 6 ACTION RIGHT TOP - magnetic diagonal v45 overlay magnets",
+        "size_mm": [
+          237.49110412597656,
+          208.52850341796875,
+          57.72349548339844
+        ]
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "name": "04 FIRE JUMP 2 ACTION RIGHT TOP - magnetic diagonal v45 overlay magnets",
+    "parts": [
+      {
+        "file": "STL/FIRE JUMP 2 ACTION RIGHT TOP - magnetic diagonal v45 overlay magnets.stl",
+        "name": "FIRE JUMP 2 ACTION RIGHT TOP - magnetic diagonal v45 overlay magnets",
+        "size_mm": [
+          237.49110412597656,
+          208.52850341796875,
+          57.72349548339844
+        ]
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "name": "05 3 ACTION RIGHT TOP - magnetic diagonal v45 overlay magnets",
+    "parts": [
+      {
+        "file": "STL/3 ACTION RIGHT TOP - magnetic diagonal v45 overlay magnets.stl",
+        "name": "3 ACTION RIGHT TOP - magnetic diagonal v45 overlay magnets",
+        "size_mm": [
+          237.49110412597656,
+          208.52850341796875,
+          57.72349548339844
+        ]
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "name": "06 CENTIPEDE TRACKBALL LEFT TOP - magnetic diagonal v45 overlay magnets",
+    "parts": [
+      {
+        "file": "STL/CENTIPEDE TRACKBALL LEFT TOP - magnetic diagonal v45 overlay magnets.stl",
+        "name": "CENTIPEDE TRACKBALL LEFT TOP - magnetic diagonal v45 overlay magnets",
+        "size_mm": [
+          235.53311157226562,
+          208.52883911132812,
+          57.72795104980469
+        ]
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "name": "07 CENTIPEDE DIAL RIGHT TOP - magnetic diagonal v45 overlay magnets",
+    "parts": [
+      {
+        "file": "STL/CENTIPEDE DIAL RIGHT TOP - magnetic diagonal v45 overlay magnets.stl",
+        "name": "CENTIPEDE DIAL RIGHT TOP - magnetic diagonal v45 overlay magnets",
+        "size_mm": [
+          237.49110412597656,
+          208.52850341796875,
+          57.72349548339844
+        ]
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "name": "08 CENTIPEDE LEFT FIRE TRACKBALL TOP - magnetic diagonal v45 overlay magnets",
+    "parts": [
+      {
+        "file": "STL/CENTIPEDE LEFT FIRE TRACKBALL TOP - magnetic diagonal v45 overlay magnets.stl",
+        "name": "CENTIPEDE LEFT FIRE TRACKBALL TOP - magnetic diagonal v45 overlay magnets",
+        "size_mm": [
+          235.53311157226562,
+          208.52883911132812,
+          57.72795104980469
+        ]
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "name": "09 CENTIPEDE NO FIRE DIAL RIGHT TOP - magnetic diagonal v45 overlay magnets",
+    "parts": [
+      {
+        "file": "STL/CENTIPEDE NO FIRE DIAL RIGHT TOP - magnetic diagonal v45 overlay magnets.stl",
+        "name": "CENTIPEDE NO FIRE DIAL RIGHT TOP - magnetic diagonal v45 overlay magnets",
+        "size_mm": [
+          237.49110412597656,
+          208.52850341796875,
+          57.72349548339844
+        ]
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "name": "10 TEMPEST DIAL LEFT TOP - magnetic diagonal v45 overlay magnets",
+    "parts": [
+      {
+        "file": "STL/TEMPEST DIAL LEFT TOP - magnetic diagonal v45 overlay magnets.stl",
+        "name": "TEMPEST DIAL LEFT TOP - magnetic diagonal v45 overlay magnets",
+        "size_mm": [
+          235.53311157226562,
+          208.52883911132812,
+          57.72795104980469
+        ]
+      }
+    ]
+  },
+  {
+    "number": 11,
+    "name": "11 TEMPEST TRACKBALL RIGHT TOP - magnetic diagonal v45 overlay magnets",
+    "parts": [
+      {
+        "file": "STL/TEMPEST TRACKBALL RIGHT TOP - magnetic diagonal v45 overlay magnets.stl",
+        "name": "TEMPEST TRACKBALL RIGHT TOP - magnetic diagonal v45 overlay magnets",
+        "size_mm": [
+          237.49110412597656,
+          208.52850341796875,
+          57.72349548339844
+        ]
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "name": "12 TWIN JOYSTICK RIGHT TOP - magnetic diagonal v45 overlay magnets",
+    "parts": [
+      {
+        "file": "STL/TWIN JOYSTICK RIGHT TOP - magnetic diagonal v45 overlay magnets.stl",
+        "name": "TWIN JOYSTICK RIGHT TOP - magnetic diagonal v45 overlay magnets",
+        "size_mm": [
+          237.49110412597656,
+          208.52850341796875,
+          57.72349548339844
+        ]
+      }
+    ]
+  },
+  {
+    "number": 13,
+    "name": "13 JOYSTICK AND TWIN BOTTOM L - recessed heads v43",
+    "parts": [
+      {
+        "file": "STL/JOYSTICK AND TWIN BOTTOM L - recessed heads v43.stl",
+        "name": "JOYSTICK AND TWIN BOTTOM L - recessed heads v43",
+        "size_mm": [
+          210.74490356445312,
+          205.50045776367188,
+          9.100006103515625
+        ]
+      }
+    ]
+  },
+  {
+    "number": 14,
+    "name": "14 JOYSTICK AND TWIN BOTTOM R - recessed heads v43",
+    "parts": [
+      {
+        "file": "STL/JOYSTICK AND TWIN BOTTOM R - recessed heads v43.stl",
+        "name": "JOYSTICK AND TWIN BOTTOM R - recessed heads v43",
+        "size_mm": [
+          219.99551391601562,
+          205.51177978515625,
+          9.100006103515625
+        ]
+      }
+    ]
+  },
+  {
+    "number": 15,
+    "name": "15 CENTIPEDE BOTH FIRE OPTIONS BOTTOM L - recessed heads v43",
+    "parts": [
+      {
+        "file": "STL/CENTIPEDE BOTH FIRE OPTIONS BOTTOM L - recessed heads v43.stl",
+        "name": "CENTIPEDE BOTH FIRE OPTIONS BOTTOM L - recessed heads v43",
+        "size_mm": [
+          210.74490356445312,
+          205.50045776367188,
+          9.100006103515625
+        ]
+      }
+    ]
+  },
+  {
+    "number": 16,
+    "name": "16 CENTIPEDE BOTH FIRE OPTIONS BOTTOM R - recessed heads v43",
+    "parts": [
+      {
+        "file": "STL/CENTIPEDE BOTH FIRE OPTIONS BOTTOM R - recessed heads v43.stl",
+        "name": "CENTIPEDE BOTH FIRE OPTIONS BOTTOM R - recessed heads v43",
+        "size_mm": [
+          219.99551391601562,
+          205.51177978515625,
+          9.100006103515625
+        ]
+      }
+    ]
+  },
+  {
+    "number": 17,
+    "name": "17 TEMPEST BOTTOM L - recessed heads v43",
+    "parts": [
+      {
+        "file": "STL/TEMPEST BOTTOM L - recessed heads v43.stl",
+        "name": "TEMPEST BOTTOM L - recessed heads v43",
+        "size_mm": [
+          210.74490356445312,
+          205.50045776367188,
+          9.100006103515625
+        ]
+      }
+    ]
+  },
+  {
+    "number": 18,
+    "name": "18 TEMPEST BOTTOM R - recessed heads v43",
+    "parts": [
+      {
+        "file": "STL/TEMPEST BOTTOM R - recessed heads v43.stl",
+        "name": "TEMPEST BOTTOM R - recessed heads v43",
+        "size_mm": [
+          219.99551391601562,
+          205.51177978515625,
+          9.100006103515625
+        ]
+      }
+    ]
+  },
+  {
+    "number": 19,
+    "name": "19 INNER CONNECTORS - four surrounds and optional blanks",
+    "parts": [
+      {
+        "file": "STL/INNER L1 12 CONTACT SURROUND v43.stl",
+        "name": "INNER L1 12 CONTACT SURROUND v43",
+        "size_mm": [
+          54.0,
+          28.000015258789062,
+          6.000030517578125
+        ]
+      },
+      {
+        "file": "STL/INNER L2 12 CONTACT SURROUND v43.stl",
+        "name": "INNER L2 12 CONTACT SURROUND v43",
+        "size_mm": [
+          54.0,
+          28.000015258789062,
+          6.0000152587890625
+        ]
+      },
+      {
+        "file": "STL/INNER R1 12 CONTACT SURROUND v43.stl",
+        "name": "INNER R1 12 CONTACT SURROUND v43",
+        "size_mm": [
+          53.99999237060547,
+          28.0,
+          6.0000152587890625
+        ]
+      },
+      {
+        "file": "STL/INNER R2 12 CONTACT SURROUND v43.stl",
+        "name": "INNER R2 12 CONTACT SURROUND v43",
+        "size_mm": [
+          54.0,
+          28.0,
+          6.000030517578125
+        ]
+      },
+      {
+        "file": "STL/INNER OPTIONAL BLANK 1 v43.stl",
+        "name": "INNER OPTIONAL BLANK 1 v43",
+        "size_mm": [
+          54.0,
+          28.0,
+          6.000000953674316
+        ]
+      },
+      {
+        "file": "STL/INNER OPTIONAL BLANK 2 v43.stl",
+        "name": "INNER OPTIONAL BLANK 2 v43",
+        "size_mm": [
+          54.0,
+          28.0,
+          6.000000953674316
+        ]
+      },
+      {
+        "file": "STL/INNER OPTIONAL BLANK 3 v43.stl",
+        "name": "INNER OPTIONAL BLANK 3 v43",
+        "size_mm": [
+          54.0,
+          28.0,
+          6.000000953674316
+        ]
+      },
+      {
+        "file": "STL/INNER OPTIONAL BLANK 4 v43.stl",
+        "name": "INNER OPTIONAL BLANK 4 v43",
+        "size_mm": [
+          54.0,
+          28.0,
+          6.000000953674316
+        ]
+      }
+    ]
+  },
+  {
+    "number": 20,
+    "name": "20 REAR PORTS - original cabinet positions",
+    "parts": [
+      {
+        "file": "STL/REAR A MAGNETIC unchanged.stl",
+        "name": "REAR A MAGNETIC unchanged",
+        "size_mm": [
+          54.0,
+          28.0,
+          6.0
+        ]
+      },
+      {
+        "file": "STL/REAR B MAGNETIC unchanged.stl",
+        "name": "REAR B MAGNETIC unchanged",
+        "size_mm": [
+          54.0,
+          28.0,
+          6.0
+        ]
+      },
+      {
+        "file": "STL/REAR USB-C unchanged.stl",
+        "name": "REAR USB-C unchanged",
+        "size_mm": [
+          40.0,
+          28.0,
+          6.0
+        ]
+      }
+    ]
+  },
+  {
+    "number": 21,
+    "name": "21 OPTIONAL FEET - eight18mm pad housings",
+    "parts": [
+      {
+        "file": "STL/OPTIONAL FOOT F01.stl",
+        "name": "OPTIONAL FOOT F01",
+        "size_mm": [
+          20.0,
+          20.0,
+          3.800001859664917
+        ]
+      },
+      {
+        "file": "STL/OPTIONAL FOOT F02.stl",
+        "name": "OPTIONAL FOOT F02",
+        "size_mm": [
+          20.0,
+          20.0,
+          3.800001859664917
+        ]
+      },
+      {
+        "file": "STL/OPTIONAL FOOT F03.stl",
+        "name": "OPTIONAL FOOT F03",
+        "size_mm": [
+          20.0,
+          20.0,
+          3.800001859664917
+        ]
+      },
+      {
+        "file": "STL/OPTIONAL FOOT F04.stl",
+        "name": "OPTIONAL FOOT F04",
+        "size_mm": [
+          20.0,
+          20.0,
+          3.800001859664917
+        ]
+      },
+      {
+        "file": "STL/OPTIONAL FOOT F05.stl",
+        "name": "OPTIONAL FOOT F05",
+        "size_mm": [
+          20.0,
+          20.0,
+          3.800001859664917
+        ]
+      },
+      {
+        "file": "STL/OPTIONAL FOOT F06.stl",
+        "name": "OPTIONAL FOOT F06",
+        "size_mm": [
+          20.0,
+          20.0,
+          3.800001859664917
+        ]
+      },
+      {
+        "file": "STL/OPTIONAL FOOT F07.stl",
+        "name": "OPTIONAL FOOT F07",
+        "size_mm": [
+          20.0,
+          20.0,
+          3.800001859664917
+        ]
+      },
+      {
+        "file": "STL/OPTIONAL FOOT F08.stl",
+        "name": "OPTIONAL FOOT F08",
+        "size_mm": [
+          20.0,
+          20.0,
+          3.800001859664917
+        ]
+      }
+    ]
+  },
+  {
+    "number": 22,
+    "name": "22 TWIN JOYSTICK 2 FIRE EACH L TOP v45 overlay magnets",
+    "parts": [
+      {
+        "file": "STL/TWIN JOYSTICK 2 FIRE EACH L TOP v45 overlay magnets.stl",
+        "name": "TWIN JOYSTICK 2 FIRE EACH L TOP v45 overlay magnets",
+        "size_mm": [
+          235.53311157226562,
+          208.52883911132812,
+          57.72795104980469
+        ]
+      }
+    ]
+  },
+  {
+    "number": 23,
+    "name": "23 TWIN JOYSTICK 2 FIRE EACH R TOP v45 overlay magnets",
+    "parts": [
+      {
+        "file": "STL/TWIN JOYSTICK 2 FIRE EACH R TOP v45 overlay magnets.stl",
+        "name": "TWIN JOYSTICK 2 FIRE EACH R TOP v45 overlay magnets",
+        "size_mm": [
+          237.49110412597656,
+          208.52850341796875,
+          57.72349548339844
+        ]
+      }
+    ]
+  }
+]

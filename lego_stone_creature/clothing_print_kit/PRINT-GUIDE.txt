@@ -1,0 +1,59 @@
+STONE WARRIOR / ADULT MEDIUM — OUTFIT PRINT KIT
+Reconstructed as clean vector artwork from your supplied minifigure photograph.
+
+PRINT SIZES
+Chest: 330 × 300 mm / 33 × 30 cm.
+Each leg: 160 × 250 mm / 16 × 25 cm.
+These dimensions describe the complete artwork bounds, including the small
+edge cracks and stone flecks. Print at 100%; disable "fit to page".
+
+SVG FILES
+stone-warrior-chest-33x30cm.svg
+  Chest artwork only, 330 × 300 mm.
+stone-warrior-leg-wearer-left-16x25cm.svg
+  Wearer's LEFT leg, 160 × 250 mm; based on the right side of the photo.
+stone-warrior-leg-wearer-right-16x25cm.svg
+  Wearer's RIGHT leg, 160 × 250 mm; based on the left side of the photo.
+stone-warrior-legs-pair-16x25cm-each.svg
+  Both independent panels, 340 × 250 mm overall, with a 20 mm gap.
+  Left panel is wearer left; right panel is wearer right.
+stone-warrior-outfit-master.svg
+  Full-size three-panel layout, 350 × 570 mm / 35 × 57 cm overall.
+  Chest at x=10, y=0 mm; wearer-left leg at x=5, y=320 mm;
+  wearer-right leg at x=185, y=320 mm.
+  Each panel retains its requested size. Do not scale the entire master to
+  33 × 30 cm; that size applies to the chest panel only.
+
+The chest, pendant, bone chain, molten waist detail, cracks, and both sets of
+leg markings have been redrawn from the photo. Soft photographic edges were
+cleaned into flat colors. Head, hands, toy outline, and the separate translucent
+shoulder armor are not included in this fabric-print artwork.
+
+EDITING
+All SVG artwork consists of closed filled paths in named editable groups.
+No raster images, live text, live strokes, linked assets, or background shapes.
+The leg designs are intentionally different, matching the reference.
+Open in Illustrator, Inkscape, or another SVG-capable vector editor. Check the
+physical dimensions after import. The master contains all three panels; the
+individual files make independent placement and production easier.
+
+PREVIEW AND PNG FILES
+stone-warrior-print-preview.png is an illustrative placement board only.
+Do not print the preview board as the transfer.
+The three *-300dpi.png files are transparent raster alternatives at 300 dpi.
+Use SVG when your printer or print shop supports it.
+
+PLACEMENT
+Center the chest graphic on the front of the shirt. Position each leg panel
+on the front of the corresponding pant leg, with the small lower crack detail
+above the hem. Keep clear of side seams and hems. The shirt/pants drawing in
+the preview is illustrative, not a garment cutting or sewing pattern.
+Adult medium is the intended fit; check the 33 cm width on the actual shirt.
+
+PRODUCTION
+Files are supplied in normal viewing orientation. Apply transfer mirroring
+only if your production process requires it. Backgrounds are transparent;
+fabric shows through the unprinted spaces. Light ivory and stone areas are
+printed colors, not holes. Colors are flat RGB, including the warm highlights.
+A print shop should apply its usual color management and white underbase for
+the chosen fabric and print process. No registration marks or bleed are added.

@@ -1,0 +1,194 @@
+{
+  "revision": 47,
+  "scope": "Bench module and reusable outer connection interface; no controller changes",
+  "parts": [
+    {
+      "file": "01_three_port_rail.stl",
+      "group": "frame",
+      "size_mm": [
+        236.0,
+        68.0,
+        10.00000286102295
+      ],
+      "volume_mm3": 133863.0415635453,
+      "nonmanifold_edges": 0,
+      "components": 1,
+      "triangles": 5184
+    },
+    {
+      "file": "02_bench_foot_L.stl",
+      "group": "feet",
+      "size_mm": [
+        30.0,
+        135.0,
+        76.0
+      ],
+      "volume_mm3": 46289.688997296624,
+      "nonmanifold_edges": 0,
+      "components": 1,
+      "triangles": 2342
+    },
+    {
+      "file": "02_bench_foot_R.stl",
+      "group": "feet",
+      "size_mm": [
+        30.0,
+        135.0,
+        76.0
+      ],
+      "volume_mm3": 46289.68899458972,
+      "nonmanifold_edges": 0,
+      "components": 1,
+      "triangles": 2338
+    },
+    {
+      "file": "03_slotted_wiring_tray.stl",
+      "group": "tray",
+      "size_mm": [
+        235.9811248779297,
+        59.99883270263672,
+        6.5
+      ],
+      "volume_mm3": 37782.98744695959,
+      "nonmanifold_edges": 0,
+      "components": 1,
+      "triangles": 3274
+    },
+    {
+      "file": "06_optional_Easyget_sled_M3.stl",
+      "group": "sled",
+      "size_mm": [
+        132.0,
+        48.0,
+        11.0
+      ],
+      "volume_mm3": 17596.50079776641,
+      "nonmanifold_edges": 0,
+      "components": 1,
+      "triangles": 3942
+    },
+    {
+      "file": "04_blank_carrier_A.stl",
+      "group": "carriers",
+      "size_mm": [
+        54.0,
+        28.0,
+        6.2000017166137695
+      ],
+      "volume_mm3": 6392.164969999348,
+      "nonmanifold_edges": 0,
+      "components": 1,
+      "triangles": 1420
+    },
+    {
+      "file": "04_blank_carrier_B.stl",
+      "group": "carriers",
+      "size_mm": [
+        54.0,
+        28.0,
+        6.2000017166137695
+      ],
+      "volume_mm3": 6392.164994233347,
+      "nonmanifold_edges": 0,
+      "components": 1,
+      "triangles": 1420
+    },
+    {
+      "file": "05_USB_split_gate_L.stl",
+      "group": "carriers",
+      "size_mm": [
+        19.85000228881836,
+        27.98725700378418,
+        6.2000017166137695
+      ],
+      "volume_mm3": 1972.7008653282248,
+      "nonmanifold_edges": 0,
+      "components": 1,
+      "triangles": 856
+    },
+    {
+      "file": "05_USB_split_gate_R.stl",
+      "group": "carriers",
+      "size_mm": [
+        19.850006103515625,
+        27.987258911132812,
+        6.2000017166137695
+      ],
+      "volume_mm3": 1972.7011720927353,
+      "nonmanifold_edges": 0,
+      "components": 1,
+      "triangles": 856
+    },
+    {
+      "file": "00_existing_surround_fit_coupon.stl",
+      "group": "coupon",
+      "size_mm": [
+        64.0,
+        40.0,
+        10.000001907348633
+      ],
+      "volume_mm3": 15689.956466919615,
+      "nonmanifold_edges": 0,
+      "components": 1,
+      "triangles": 1156
+    }
+  ],
+  "assembly_envelope_mm": [
+    252,
+    135,
+    76
+  ],
+  "printed_part_volume_intersections": [],
+  "ports": [
+    {
+      "name": "A",
+      "x_mm": -73,
+      "z_mm": 42,
+      "outer_width_mm": 54,
+      "fixing_centres_mm": 46,
+      "throat_mm": [
+        36.6,
+        18.6
+      ]
+    },
+    {
+      "name": "B",
+      "x_mm": -1,
+      "z_mm": 42,
+      "outer_width_mm": 54,
+      "fixing_centres_mm": 46,
+      "throat_mm": [
+        36.6,
+        18.6
+      ]
+    },
+    {
+      "name": "USB",
+      "x_mm": 73,
+      "z_mm": 42,
+      "outer_width_mm": 40,
+      "fixing_centres_mm": 32,
+      "throat_mm": [
+        18.6,
+        18.6
+      ]
+    }
+  ],
+  "mating_part_fit_verified": false,
+  "physical_stability_tested": false,
+  "hardware": {
+    "M3x25_rail_to_feet": 4,
+    "M3x10_tray_to_feet": 4,
+    "M3x10_surrounds": 6,
+    "M3_hex_nuts": 14,
+    "optional_sled_M3x10": 4,
+    "optional_sled_M3_nuts_and_washers": 4,
+    "optional_board_M3_inserts": 4,
+    "optional_board_M3x6": 4
+  },
+  "warnings": [
+    "Blank carriers and cable exit are printable; purchased connector-specific liner is not released.",
+    "Not a monitor support or a complete cabinet chassis.",
+    "Use the fit coupon before the larger bench pieces."
+  ]
+}

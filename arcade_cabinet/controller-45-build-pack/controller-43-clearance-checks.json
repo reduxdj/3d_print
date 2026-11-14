@@ -1,0 +1,796 @@
+{
+  "joystick-6": {
+    "retained_mounts": [
+      {
+        "name": "Easyget M3",
+        "pitch_mm": [
+          79.6,
+          29.6
+        ],
+        "projection_mm": 8,
+        "pilot_depth_mm": 7
+      },
+      {
+        "name": "Left joystick",
+        "pitch_mm": [
+          41.01,
+          81.68
+        ],
+        "projection_mm": 6,
+        "pilot_depth_mm": 7
+      }
+    ],
+    "mating_path": [
+      {
+        "x_separation_mm": 0,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 0.5,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 1,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 1.5,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 2,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 3,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 6,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 15,
+        "intersection_mm3": 0.0
+      }
+    ],
+    "controls_clearance": [
+      {
+        "name": "CONTROL38 LK body allowance",
+        "shell": "PRINT43 L upper_shell joystick-6 diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 LK body allowance",
+        "shell": "PRINT43 R upper_shell joystick-6 diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 LP body allowance",
+        "shell": "PRINT43 L upper_shell joystick-6 diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 LP body allowance",
+        "shell": "PRINT43 R upper_shell joystick-6 diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 MK body allowance",
+        "shell": "PRINT43 L upper_shell joystick-6 diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 MK body allowance",
+        "shell": "PRINT43 R upper_shell joystick-6 diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 MP body allowance",
+        "shell": "PRINT43 L upper_shell joystick-6 diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 MP body allowance",
+        "shell": "PRINT43 R upper_shell joystick-6 diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 HK body allowance",
+        "shell": "PRINT43 L upper_shell joystick-6 diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 HK body allowance",
+        "shell": "PRINT43 R upper_shell joystick-6 diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 HP body allowance",
+        "shell": "PRINT43 L upper_shell joystick-6 diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 HP body allowance",
+        "shell": "PRINT43 R upper_shell joystick-6 diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 START 1 body allowance",
+        "shell": "PRINT43 L upper_shell joystick-6 diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 START 1 body allowance",
+        "shell": "PRINT43 R upper_shell joystick-6 diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 START 2 body allowance",
+        "shell": "PRINT43 L upper_shell joystick-6 diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 START 2 body allowance",
+        "shell": "PRINT43 R upper_shell joystick-6 diagonal",
+        "intersection_mm3": 0.0
+      }
+    ]
+  },
+  "joystick-2": {
+    "retained_mounts": [
+      {
+        "name": "Easyget M3",
+        "pitch_mm": [
+          79.6,
+          29.6
+        ],
+        "projection_mm": 8,
+        "pilot_depth_mm": 7
+      },
+      {
+        "name": "Left joystick",
+        "pitch_mm": [
+          41.01,
+          81.68
+        ],
+        "projection_mm": 6,
+        "pilot_depth_mm": 7
+      }
+    ],
+    "mating_path": [
+      {
+        "x_separation_mm": 0,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 0.5,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 1,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 1.5,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 2,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 3,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 6,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 15,
+        "intersection_mm3": 0.0
+      }
+    ],
+    "controls_clearance": [
+      {
+        "name": "CONTROL38 FIRE body allowance",
+        "shell": "PRINT43 L upper_shell joystick-2 diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 FIRE body allowance",
+        "shell": "PRINT43 R upper_shell joystick-2 diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 JUMP body allowance",
+        "shell": "PRINT43 L upper_shell joystick-2 diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 JUMP body allowance",
+        "shell": "PRINT43 R upper_shell joystick-2 diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 START 1 body allowance",
+        "shell": "PRINT43 L upper_shell joystick-2 diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 START 1 body allowance",
+        "shell": "PRINT43 R upper_shell joystick-2 diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 START 2 body allowance",
+        "shell": "PRINT43 L upper_shell joystick-2 diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 START 2 body allowance",
+        "shell": "PRINT43 R upper_shell joystick-2 diagonal",
+        "intersection_mm3": 0.0
+      }
+    ]
+  },
+  "joystick-3": {
+    "retained_mounts": [
+      {
+        "name": "Easyget M3",
+        "pitch_mm": [
+          79.6,
+          29.6
+        ],
+        "projection_mm": 8,
+        "pilot_depth_mm": 7
+      },
+      {
+        "name": "Left joystick",
+        "pitch_mm": [
+          41.01,
+          81.68
+        ],
+        "projection_mm": 6,
+        "pilot_depth_mm": 7
+      }
+    ],
+    "mating_path": [
+      {
+        "x_separation_mm": 0,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 0.5,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 1,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 1.5,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 2,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 3,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 6,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 15,
+        "intersection_mm3": 0.0
+      }
+    ],
+    "controls_clearance": [
+      {
+        "name": "CONTROL38 ACTION 1 body allowance",
+        "shell": "PRINT43 L upper_shell joystick-3 diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 ACTION 1 body allowance",
+        "shell": "PRINT43 R upper_shell joystick-3 diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 ACTION 2 body allowance",
+        "shell": "PRINT43 L upper_shell joystick-3 diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 ACTION 2 body allowance",
+        "shell": "PRINT43 R upper_shell joystick-3 diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 ACTION 3 body allowance",
+        "shell": "PRINT43 L upper_shell joystick-3 diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 ACTION 3 body allowance",
+        "shell": "PRINT43 R upper_shell joystick-3 diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 START 1 body allowance",
+        "shell": "PRINT43 L upper_shell joystick-3 diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 START 1 body allowance",
+        "shell": "PRINT43 R upper_shell joystick-3 diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 START 2 body allowance",
+        "shell": "PRINT43 L upper_shell joystick-3 diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 START 2 body allowance",
+        "shell": "PRINT43 R upper_shell joystick-3 diagonal",
+        "intersection_mm3": 0.0
+      }
+    ]
+  },
+  "centipede": {
+    "retained_mounts": [
+      {
+        "name": "Easyget M3",
+        "pitch_mm": [
+          79.6,
+          29.6
+        ],
+        "projection_mm": 8,
+        "pilot_depth_mm": 7
+      },
+      {
+        "name": "Trackball",
+        "pitch_mm": [
+          87.127473,
+          87.127473
+        ],
+        "projection_mm": 11.03,
+        "pilot_depth_mm": 7
+      }
+    ],
+    "mating_path": [
+      {
+        "x_separation_mm": 0,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 0.5,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 1,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 1.5,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 2,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 3,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 6,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 15,
+        "intersection_mm3": 0.0
+      }
+    ],
+    "controls_clearance": [
+      {
+        "name": "GRS spinner underside allowance",
+        "shell": "PRINT43 L upper_shell centipede diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "GRS spinner underside allowance",
+        "shell": "PRINT43 R upper_shell centipede diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "ENVELOPE32 unmeasured trackball body allowance",
+        "shell": "PRINT43 L upper_shell centipede diagonal",
+        "intersection_mm3": 3853.839434
+      },
+      {
+        "name": "ENVELOPE32 unmeasured trackball body allowance",
+        "shell": "PRINT43 R upper_shell centipede diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 FIRE body allowance",
+        "shell": "PRINT43 L upper_shell centipede diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 FIRE body allowance",
+        "shell": "PRINT43 R upper_shell centipede diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 ALT body allowance",
+        "shell": "PRINT43 L upper_shell centipede diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 ALT body allowance",
+        "shell": "PRINT43 R upper_shell centipede diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 START body allowance",
+        "shell": "PRINT43 L upper_shell centipede diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 START body allowance",
+        "shell": "PRINT43 R upper_shell centipede diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 MENU body allowance",
+        "shell": "PRINT43 L upper_shell centipede diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 MENU body allowance",
+        "shell": "PRINT43 R upper_shell centipede diagonal",
+        "intersection_mm3": 0.0
+      }
+    ]
+  },
+  "centipede-left-fire": {
+    "retained_mounts": [
+      {
+        "name": "Easyget M3",
+        "pitch_mm": [
+          79.6,
+          29.6
+        ],
+        "projection_mm": 8,
+        "pilot_depth_mm": 7
+      },
+      {
+        "name": "Trackball",
+        "pitch_mm": [
+          87.127473,
+          87.127473
+        ],
+        "projection_mm": 11.03,
+        "pilot_depth_mm": 7
+      }
+    ],
+    "mating_path": [
+      {
+        "x_separation_mm": 0,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 0.5,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 1,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 1.5,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 2,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 3,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 6,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 15,
+        "intersection_mm3": 0.0
+      }
+    ],
+    "controls_clearance": [
+      {
+        "name": "GRS spinner underside allowance",
+        "shell": "PRINT43 L upper_shell centipede-left-fire diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "GRS spinner underside allowance",
+        "shell": "PRINT43 R upper_shell centipede-left-fire diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "ENVELOPE32 unmeasured trackball body allowance",
+        "shell": "PRINT43 L upper_shell centipede-left-fire diagonal",
+        "intersection_mm3": 3853.839434
+      },
+      {
+        "name": "ENVELOPE32 unmeasured trackball body allowance",
+        "shell": "PRINT43 R upper_shell centipede-left-fire diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 FIRE body allowance",
+        "shell": "PRINT43 L upper_shell centipede-left-fire diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 FIRE body allowance",
+        "shell": "PRINT43 R upper_shell centipede-left-fire diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 ALT body allowance",
+        "shell": "PRINT43 L upper_shell centipede-left-fire diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 ALT body allowance",
+        "shell": "PRINT43 R upper_shell centipede-left-fire diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 START body allowance",
+        "shell": "PRINT43 L upper_shell centipede-left-fire diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 START body allowance",
+        "shell": "PRINT43 R upper_shell centipede-left-fire diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 MENU body allowance",
+        "shell": "PRINT43 L upper_shell centipede-left-fire diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 MENU body allowance",
+        "shell": "PRINT43 R upper_shell centipede-left-fire diagonal",
+        "intersection_mm3": 0.0
+      }
+    ]
+  },
+  "tempest": {
+    "retained_mounts": [
+      {
+        "name": "Easyget M3",
+        "pitch_mm": [
+          79.6,
+          29.6
+        ],
+        "projection_mm": 8,
+        "pilot_depth_mm": 7
+      },
+      {
+        "name": "Trackball",
+        "pitch_mm": [
+          87.127473,
+          87.127473
+        ],
+        "projection_mm": 11.03,
+        "pilot_depth_mm": 7
+      }
+    ],
+    "mating_path": [
+      {
+        "x_separation_mm": 0,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 0.5,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 1,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 1.5,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 2,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 3,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 6,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 15,
+        "intersection_mm3": 0.0
+      }
+    ],
+    "controls_clearance": [
+      {
+        "name": "GRS spinner underside allowance",
+        "shell": "PRINT43 L upper_shell tempest diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "GRS spinner underside allowance",
+        "shell": "PRINT43 R upper_shell tempest diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "ENVELOPE32 unmeasured trackball body allowance",
+        "shell": "PRINT43 L upper_shell tempest diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "ENVELOPE32 unmeasured trackball body allowance",
+        "shell": "PRINT43 R upper_shell tempest diagonal",
+        "intersection_mm3": 3853.805612
+      },
+      {
+        "name": "CONTROL38 FIRE body allowance",
+        "shell": "PRINT43 L upper_shell tempest diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 FIRE body allowance",
+        "shell": "PRINT43 R upper_shell tempest diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 ZAP body allowance",
+        "shell": "PRINT43 L upper_shell tempest diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 ZAP body allowance",
+        "shell": "PRINT43 R upper_shell tempest diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 START body allowance",
+        "shell": "PRINT43 L upper_shell tempest diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 START body allowance",
+        "shell": "PRINT43 R upper_shell tempest diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 MENU body allowance",
+        "shell": "PRINT43 L upper_shell tempest diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 MENU body allowance",
+        "shell": "PRINT43 R upper_shell tempest diagonal",
+        "intersection_mm3": 0.0
+      }
+    ]
+  },
+  "twin-joystick": {
+    "retained_mounts": [
+      {
+        "name": "Easyget M3",
+        "pitch_mm": [
+          79.6,
+          29.6
+        ],
+        "projection_mm": 8,
+        "pilot_depth_mm": 7
+      },
+      {
+        "name": "Left joystick",
+        "pitch_mm": [
+          41.01,
+          81.68
+        ],
+        "projection_mm": 6,
+        "pilot_depth_mm": 7
+      },
+      {
+        "name": "Right joystick",
+        "pitch_mm": [
+          41.01,
+          81.68
+        ],
+        "projection_mm": 6,
+        "pilot_depth_mm": 7
+      },
+      {
+        "name": "Optional right Easyget",
+        "pitch_mm": [
+          79.6,
+          29.6
+        ],
+        "projection_mm": 8,
+        "pilot_depth_mm": 7
+      }
+    ],
+    "mating_path": [
+      {
+        "x_separation_mm": 0,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 0.5,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 1,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 1.5,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 2,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 3,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 6,
+        "intersection_mm3": 0.0
+      },
+      {
+        "x_separation_mm": 15,
+        "intersection_mm3": 0.0
+      }
+    ],
+    "controls_clearance": [
+      {
+        "name": "CONTROL38 START 1 body allowance",
+        "shell": "PRINT43 L upper_shell twin-joystick diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 START 1 body allowance",
+        "shell": "PRINT43 R upper_shell twin-joystick diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 START 2 body allowance",
+        "shell": "PRINT43 L upper_shell twin-joystick diagonal",
+        "intersection_mm3": 0.0
+      },
+      {
+        "name": "CONTROL38 START 2 body allowance",
+        "shell": "PRINT43 R upper_shell twin-joystick diagonal",
+        "intersection_mm3": 0.0
+      }
+    ]
+  }
+}

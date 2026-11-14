@@ -1,0 +1,33 @@
+[
+  {
+    "plate": 1,
+    "name": "01 FIRST TEST - padded cradle lip and M3 insert",
+    "parts": [
+      "00_cradle_fit_coupon.stl"
+    ]
+  },
+  {
+    "plate": 2,
+    "name": "02 STAND - left braced leg - print on side",
+    "parts": [
+      "01_leg_L.stl"
+    ]
+  },
+  {
+    "plate": 3,
+    "name": "03 STAND - right braced leg - print on side",
+    "parts": [
+      "01_leg_R.stl"
+    ]
+  },
+  {
+    "plate": 4,
+    "name": "04 STAND - two crossbars and adjustable rear pads",
+    "parts": [
+      "02_crossbar_front.stl",
+      "02_crossbar_rear.stl",
+      "03_rear_pad_L.stl",
+      "03_rear_pad_R.stl"
+    ]
+  }
+]

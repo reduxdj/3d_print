@@ -1,0 +1,40 @@
+{
+  "printer": "Bambu Lab A1",
+  "nozzle_mm": 0.4,
+  "layer_mm": 0.2,
+  "material": "PLA",
+  "plates": [
+    {
+      "plate": 1,
+      "name": "01 FIRST TEST - existing surround seat and M3 nut fit",
+      "seconds": 1317.145751953125,
+      "grams": 12.84,
+      "warnings": "",
+      "support_paths": 0
+    },
+    {
+      "plate": 2,
+      "name": "02 BENCH FRAME - port rail and wiring tray",
+      "seconds": 11335.662109375,
+      "grams": 116.09,
+      "warnings": "",
+      "support_paths": 0
+    },
+    {
+      "plate": 3,
+      "name": "03 BENCH FEET - left and right gusset brackets",
+      "seconds": 7526.126953125,
+      "grams": 65.07,
+      "warnings": "",
+      "support_paths": 0
+    },
+    {
+      "plate": 4,
+      "name": "04 OPTIONAL - blank carriers USB cable gate and Easyget sled",
+      "seconds": 3529.5458984375,
+      "grams": 33.38,
+      "warnings": "",
+      "support_paths": 0
+    }
+  ]
+}

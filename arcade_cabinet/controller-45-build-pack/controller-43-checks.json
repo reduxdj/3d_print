@@ -1,0 +1,1223 @@
+{
+  "revision": 43,
+  "seam_front_x_mm": 176,
+  "seam_rear_top_x_mm": 224,
+  "seam_gap_mm": 0.4,
+  "disc_magnet_mm": [
+    6,
+    3
+  ],
+  "pocket_mm": [
+    6.3,
+    3.2
+  ],
+  "magnet_positions_yz": [
+    [
+      -2,
+      141
+    ],
+    [
+      -2,
+      156
+    ],
+    [
+      -2,
+      172
+    ],
+    [
+      78,
+      141
+    ],
+    [
+      78,
+      156
+    ],
+    [
+      78,
+      172
+    ],
+    [
+      148,
+      141
+    ],
+    [
+      148,
+      172
+    ]
+  ],
+  "rear_return": "Below rear deck only, preserving rear port coordinates.",
+  "variants": {
+    "centipede": {
+      "parts": [
+        {
+          "file": "centipede_top_L.stl",
+          "size_mm": [
+            235.533,
+            208.529,
+            57.728
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 351795.58
+        },
+        {
+          "file": "centipede_bottom_L.stl",
+          "size_mm": [
+            210.745,
+            205.5,
+            9.1
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 128088.46
+        },
+        {
+          "file": "centipede_top_R.stl",
+          "size_mm": [
+            237.491,
+            208.529,
+            57.723
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 349388.22
+        },
+        {
+          "file": "centipede_bottom_R.stl",
+          "size_mm": [
+            219.996,
+            205.512,
+            9.1
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 134348.21
+        },
+        {
+          "file": "centipede_inner_L1.stl",
+          "size_mm": [
+            54.0,
+            28.0,
+            6.0
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 4762.94
+        },
+        {
+          "file": "centipede_inner_L2.stl",
+          "size_mm": [
+            54.0,
+            28.0,
+            6.0
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 4762.94
+        },
+        {
+          "file": "centipede_inner_R1.stl",
+          "size_mm": [
+            54.0,
+            28.0,
+            6.0
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 4762.94
+        },
+        {
+          "file": "centipede_inner_R2.stl",
+          "size_mm": [
+            54.0,
+            28.0,
+            6.0
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 4762.94
+        }
+      ],
+      "new_closure_xy_mm": [
+        [
+          28,
+          8
+        ],
+        [
+          170.92233009708738,
+          24
+        ],
+        [
+          199.71844660194174,
+          24
+        ],
+        [
+          372,
+          8
+        ],
+        [
+          30,
+          168
+        ],
+        [
+          191.26099137835797,
+          162
+        ],
+        [
+          231.873786407767,
+          162
+        ],
+        [
+          370,
+          168
+        ]
+      ],
+      "magnet_count_each_half": 8,
+      "outer_profile_retained": true,
+      "rear_port_positions_retained": true,
+      "half_intersection_mm3": 0.0,
+      "controls": [
+        {
+          "name": "FIRE",
+          "centre_mm": [
+            254,
+            58
+          ],
+          "mounting_hole_mm": 28
+        },
+        {
+          "name": "ALT",
+          "centre_mm": [
+            254,
+            116
+          ],
+          "mounting_hole_mm": 28
+        },
+        {
+          "name": "START",
+          "centre_mm": [
+            304,
+            153
+          ],
+          "mounting_hole_mm": 28
+        },
+        {
+          "name": "MENU",
+          "centre_mm": [
+            348,
+            153
+          ],
+          "mounting_hole_mm": 28
+        }
+      ]
+    },
+    "joystick-6": {
+      "parts": [
+        {
+          "file": "joystick-6_top_L.stl",
+          "size_mm": [
+            235.533,
+            208.529,
+            57.728
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 358588.36
+        },
+        {
+          "file": "joystick-6_bottom_L.stl",
+          "size_mm": [
+            210.745,
+            205.5,
+            9.1
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 128088.46
+        },
+        {
+          "file": "joystick-6_top_R.stl",
+          "size_mm": [
+            237.491,
+            208.529,
+            57.723
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 342020.1
+        },
+        {
+          "file": "joystick-6_bottom_R.stl",
+          "size_mm": [
+            219.996,
+            205.512,
+            9.1
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 134348.21
+        },
+        {
+          "file": "joystick-6_inner_L1.stl",
+          "size_mm": [
+            54.0,
+            28.0,
+            6.0
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 4762.94
+        },
+        {
+          "file": "joystick-6_inner_L2.stl",
+          "size_mm": [
+            54.0,
+            28.0,
+            6.0
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 4762.94
+        },
+        {
+          "file": "joystick-6_inner_R1.stl",
+          "size_mm": [
+            54.0,
+            28.0,
+            6.0
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 4762.94
+        },
+        {
+          "file": "joystick-6_inner_R2.stl",
+          "size_mm": [
+            54.0,
+            28.0,
+            6.0
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 4762.94
+        }
+      ],
+      "new_closure_xy_mm": [
+        [
+          28,
+          8
+        ],
+        [
+          170.92233009708738,
+          24
+        ],
+        [
+          199.71844660194174,
+          24
+        ],
+        [
+          372,
+          8
+        ],
+        [
+          30,
+          168
+        ],
+        [
+          191.26099137835797,
+          162
+        ],
+        [
+          231.873786407767,
+          162
+        ],
+        [
+          370,
+          168
+        ]
+      ],
+      "magnet_count_each_half": 8,
+      "outer_profile_retained": true,
+      "rear_port_positions_retained": true,
+      "half_intersection_mm3": 0.0,
+      "controls": [
+        {
+          "name": "LK",
+          "centre_mm": [
+            244,
+            55.5
+          ],
+          "mounting_hole_mm": 28
+        },
+        {
+          "name": "LP",
+          "centre_mm": [
+            244,
+            98.5
+          ],
+          "mounting_hole_mm": 28
+        },
+        {
+          "name": "MK",
+          "centre_mm": [
+            285,
+            70.5
+          ],
+          "mounting_hole_mm": 28
+        },
+        {
+          "name": "MP",
+          "centre_mm": [
+            285,
+            113.5
+          ],
+          "mounting_hole_mm": 28
+        },
+        {
+          "name": "HK",
+          "centre_mm": [
+            326,
+            70.5
+          ],
+          "mounting_hole_mm": 28
+        },
+        {
+          "name": "HP",
+          "centre_mm": [
+            326,
+            113.5
+          ],
+          "mounting_hole_mm": 28
+        },
+        {
+          "name": "START 1",
+          "centre_mm": [
+            263,
+            153
+          ],
+          "mounting_hole_mm": 28
+        },
+        {
+          "name": "START 2",
+          "centre_mm": [
+            307,
+            153
+          ],
+          "mounting_hole_mm": 28
+        }
+      ]
+    },
+    "joystick-2": {
+      "parts": [
+        {
+          "file": "joystick-2_top_L.stl",
+          "size_mm": [
+            235.533,
+            208.529,
+            57.728
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 358588.15
+        },
+        {
+          "file": "joystick-2_bottom_L.stl",
+          "size_mm": [
+            210.745,
+            205.5,
+            9.1
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 128088.46
+        },
+        {
+          "file": "joystick-2_top_R.stl",
+          "size_mm": [
+            237.491,
+            208.529,
+            57.723
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 351843.96
+        },
+        {
+          "file": "joystick-2_bottom_R.stl",
+          "size_mm": [
+            219.996,
+            205.512,
+            9.1
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 134348.21
+        },
+        {
+          "file": "joystick-2_inner_L1.stl",
+          "size_mm": [
+            54.0,
+            28.0,
+            6.0
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 4762.94
+        },
+        {
+          "file": "joystick-2_inner_L2.stl",
+          "size_mm": [
+            54.0,
+            28.0,
+            6.0
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 4762.94
+        },
+        {
+          "file": "joystick-2_inner_R1.stl",
+          "size_mm": [
+            54.0,
+            28.0,
+            6.0
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 4762.94
+        },
+        {
+          "file": "joystick-2_inner_R2.stl",
+          "size_mm": [
+            54.0,
+            28.0,
+            6.0
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 4762.94
+        }
+      ],
+      "new_closure_xy_mm": [
+        [
+          28,
+          8
+        ],
+        [
+          170.92233009708738,
+          24
+        ],
+        [
+          199.71844660194174,
+          24
+        ],
+        [
+          372,
+          8
+        ],
+        [
+          30,
+          168
+        ],
+        [
+          191.26099137835797,
+          162
+        ],
+        [
+          231.873786407767,
+          162
+        ],
+        [
+          370,
+          168
+        ]
+      ],
+      "magnet_count_each_half": 8,
+      "outer_profile_retained": true,
+      "rear_port_positions_retained": true,
+      "half_intersection_mm3": 0.0,
+      "controls": [
+        {
+          "name": "FIRE",
+          "centre_mm": [
+            255.5,
+            87
+          ],
+          "mounting_hole_mm": 28
+        },
+        {
+          "name": "JUMP",
+          "centre_mm": [
+            314.5,
+            87
+          ],
+          "mounting_hole_mm": 28
+        },
+        {
+          "name": "START 1",
+          "centre_mm": [
+            263,
+            153
+          ],
+          "mounting_hole_mm": 28
+        },
+        {
+          "name": "START 2",
+          "centre_mm": [
+            307,
+            153
+          ],
+          "mounting_hole_mm": 28
+        }
+      ]
+    },
+    "joystick-3": {
+      "parts": [
+        {
+          "file": "joystick-3_top_L.stl",
+          "size_mm": [
+            235.533,
+            208.529,
+            57.728
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 358588.21
+        },
+        {
+          "file": "joystick-3_bottom_L.stl",
+          "size_mm": [
+            210.745,
+            205.5,
+            9.1
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 128088.46
+        },
+        {
+          "file": "joystick-3_top_R.stl",
+          "size_mm": [
+            237.491,
+            208.529,
+            57.723
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 349388.04
+        },
+        {
+          "file": "joystick-3_bottom_R.stl",
+          "size_mm": [
+            219.996,
+            205.512,
+            9.1
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 134348.21
+        },
+        {
+          "file": "joystick-3_inner_L1.stl",
+          "size_mm": [
+            54.0,
+            28.0,
+            6.0
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 4762.94
+        },
+        {
+          "file": "joystick-3_inner_L2.stl",
+          "size_mm": [
+            54.0,
+            28.0,
+            6.0
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 4762.94
+        },
+        {
+          "file": "joystick-3_inner_R1.stl",
+          "size_mm": [
+            54.0,
+            28.0,
+            6.0
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 4762.94
+        },
+        {
+          "file": "joystick-3_inner_R2.stl",
+          "size_mm": [
+            54.0,
+            28.0,
+            6.0
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 4762.94
+        }
+      ],
+      "new_closure_xy_mm": [
+        [
+          28,
+          8
+        ],
+        [
+          170.92233009708738,
+          24
+        ],
+        [
+          199.71844660194174,
+          24
+        ],
+        [
+          372,
+          8
+        ],
+        [
+          30,
+          168
+        ],
+        [
+          191.26099137835797,
+          162
+        ],
+        [
+          231.873786407767,
+          162
+        ],
+        [
+          370,
+          168
+        ]
+      ],
+      "magnet_count_each_half": 8,
+      "outer_profile_retained": true,
+      "rear_port_positions_retained": true,
+      "half_intersection_mm3": 0.0,
+      "controls": [
+        {
+          "name": "ACTION 1",
+          "centre_mm": [
+            244,
+            77
+          ],
+          "mounting_hole_mm": 28
+        },
+        {
+          "name": "ACTION 2",
+          "centre_mm": [
+            285,
+            92
+          ],
+          "mounting_hole_mm": 28
+        },
+        {
+          "name": "ACTION 3",
+          "centre_mm": [
+            326,
+            92
+          ],
+          "mounting_hole_mm": 28
+        },
+        {
+          "name": "START 1",
+          "centre_mm": [
+            263,
+            153
+          ],
+          "mounting_hole_mm": 28
+        },
+        {
+          "name": "START 2",
+          "centre_mm": [
+            307,
+            153
+          ],
+          "mounting_hole_mm": 28
+        }
+      ]
+    },
+    "centipede-left-fire": {
+      "parts": [
+        {
+          "file": "centipede-left-fire_top_L.stl",
+          "size_mm": [
+            235.533,
+            208.529,
+            57.728
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 349333.56
+        },
+        {
+          "file": "centipede-left-fire_bottom_L.stl",
+          "size_mm": [
+            210.745,
+            205.5,
+            9.1
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 128088.46
+        },
+        {
+          "file": "centipede-left-fire_top_R.stl",
+          "size_mm": [
+            237.491,
+            208.529,
+            57.723
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 351844.2
+        },
+        {
+          "file": "centipede-left-fire_bottom_R.stl",
+          "size_mm": [
+            219.996,
+            205.512,
+            9.1
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 134348.21
+        },
+        {
+          "file": "centipede-left-fire_inner_L1.stl",
+          "size_mm": [
+            54.0,
+            28.0,
+            6.0
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 4762.94
+        },
+        {
+          "file": "centipede-left-fire_inner_L2.stl",
+          "size_mm": [
+            54.0,
+            28.0,
+            6.0
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 4762.94
+        },
+        {
+          "file": "centipede-left-fire_inner_R1.stl",
+          "size_mm": [
+            54.0,
+            28.0,
+            6.0
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 4762.94
+        },
+        {
+          "file": "centipede-left-fire_inner_R2.stl",
+          "size_mm": [
+            54.0,
+            28.0,
+            6.0
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 4762.94
+        }
+      ],
+      "new_closure_xy_mm": [
+        [
+          28,
+          8
+        ],
+        [
+          170.92233009708738,
+          24
+        ],
+        [
+          199.71844660194174,
+          24
+        ],
+        [
+          372,
+          8
+        ],
+        [
+          30,
+          168
+        ],
+        [
+          191.26099137835797,
+          162
+        ],
+        [
+          231.873786407767,
+          162
+        ],
+        [
+          370,
+          168
+        ]
+      ],
+      "magnet_count_each_half": 8,
+      "outer_profile_retained": true,
+      "rear_port_positions_retained": true,
+      "half_intersection_mm3": 0.0,
+      "controls": [
+        {
+          "name": "FIRE",
+          "centre_mm": [
+            50,
+            87
+          ],
+          "mounting_hole_mm": 28
+        },
+        {
+          "name": "ALT",
+          "centre_mm": [
+            254,
+            116
+          ],
+          "mounting_hole_mm": 28
+        },
+        {
+          "name": "START",
+          "centre_mm": [
+            304,
+            153
+          ],
+          "mounting_hole_mm": 28
+        },
+        {
+          "name": "MENU",
+          "centre_mm": [
+            348,
+            153
+          ],
+          "mounting_hole_mm": 28
+        }
+      ]
+    },
+    "tempest": {
+      "parts": [
+        {
+          "file": "tempest_top_L.stl",
+          "size_mm": [
+            235.533,
+            208.529,
+            57.728
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 344567.74
+        },
+        {
+          "file": "tempest_bottom_L.stl",
+          "size_mm": [
+            210.745,
+            205.5,
+            9.1
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 128088.46
+        },
+        {
+          "file": "tempest_top_R.stl",
+          "size_mm": [
+            237.491,
+            208.529,
+            57.723
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 356615.6
+        },
+        {
+          "file": "tempest_bottom_R.stl",
+          "size_mm": [
+            219.996,
+            205.512,
+            9.1
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 134348.21
+        },
+        {
+          "file": "tempest_inner_L1.stl",
+          "size_mm": [
+            54.0,
+            28.0,
+            6.0
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 4762.94
+        },
+        {
+          "file": "tempest_inner_L2.stl",
+          "size_mm": [
+            54.0,
+            28.0,
+            6.0
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 4762.94
+        },
+        {
+          "file": "tempest_inner_R1.stl",
+          "size_mm": [
+            54.0,
+            28.0,
+            6.0
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 4762.94
+        },
+        {
+          "file": "tempest_inner_R2.stl",
+          "size_mm": [
+            54.0,
+            28.0,
+            6.0
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 4762.94
+        }
+      ],
+      "new_closure_xy_mm": [
+        [
+          28,
+          8
+        ],
+        [
+          170.92233009708738,
+          24
+        ],
+        [
+          199.71844660194174,
+          24
+        ],
+        [
+          372,
+          8
+        ],
+        [
+          30,
+          168
+        ],
+        [
+          191.26099137835797,
+          162
+        ],
+        [
+          231.873786407767,
+          162
+        ],
+        [
+          370,
+          168
+        ]
+      ],
+      "magnet_count_each_half": 8,
+      "outer_profile_retained": true,
+      "rear_port_positions_retained": true,
+      "half_intersection_mm3": 0.0,
+      "controls": [
+        {
+          "name": "FIRE",
+          "centre_mm": [
+            53,
+            62
+          ],
+          "mounting_hole_mm": 28
+        },
+        {
+          "name": "ZAP",
+          "centre_mm": [
+            53,
+            112
+          ],
+          "mounting_hole_mm": 28
+        },
+        {
+          "name": "START",
+          "centre_mm": [
+            104,
+            153
+          ],
+          "mounting_hole_mm": 28
+        },
+        {
+          "name": "MENU",
+          "centre_mm": [
+            148,
+            153
+          ],
+          "mounting_hole_mm": 28
+        }
+      ]
+    },
+    "twin-joystick": {
+      "parts": [
+        {
+          "file": "twin-joystick_top_L.stl",
+          "size_mm": [
+            235.533,
+            208.529,
+            57.728
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 358588.13
+        },
+        {
+          "file": "twin-joystick_bottom_L.stl",
+          "size_mm": [
+            210.745,
+            205.5,
+            9.1
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 128088.46
+        },
+        {
+          "file": "twin-joystick_top_R.stl",
+          "size_mm": [
+            237.491,
+            208.529,
+            57.723
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 360718.23
+        },
+        {
+          "file": "twin-joystick_bottom_R.stl",
+          "size_mm": [
+            219.996,
+            205.512,
+            9.1
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 134348.21
+        },
+        {
+          "file": "twin-joystick_inner_L1.stl",
+          "size_mm": [
+            54.0,
+            28.0,
+            6.0
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 4762.94
+        },
+        {
+          "file": "twin-joystick_inner_L2.stl",
+          "size_mm": [
+            54.0,
+            28.0,
+            6.0
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 4762.94
+        },
+        {
+          "file": "twin-joystick_inner_R1.stl",
+          "size_mm": [
+            54.0,
+            28.0,
+            6.0
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 4762.94
+        },
+        {
+          "file": "twin-joystick_inner_R2.stl",
+          "size_mm": [
+            54.0,
+            28.0,
+            6.0
+          ],
+          "components": 1,
+          "nonmanifold_edges": 0,
+          "volume_mm3": 4762.94
+        }
+      ],
+      "new_closure_xy_mm": [
+        [
+          28,
+          8
+        ],
+        [
+          170.92233009708738,
+          24
+        ],
+        [
+          199.71844660194174,
+          24
+        ],
+        [
+          372,
+          8
+        ],
+        [
+          30,
+          168
+        ],
+        [
+          191.26099137835797,
+          162
+        ],
+        [
+          231.873786407767,
+          162
+        ],
+        [
+          370,
+          168
+        ]
+      ],
+      "magnet_count_each_half": 8,
+      "outer_profile_retained": true,
+      "rear_port_positions_retained": true,
+      "half_intersection_mm3": 0.0,
+      "controls": [
+        {
+          "name": "START 1",
+          "centre_mm": [
+            263,
+            153
+          ],
+          "mounting_hole_mm": 28
+        },
+        {
+          "name": "START 2",
+          "centre_mm": [
+            307,
+            153
+          ],
+          "mounting_hole_mm": 28
+        }
+      ]
+    }
+  }
+}

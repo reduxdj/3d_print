@@ -1,0 +1,69 @@
+{
+  "revision": 44,
+  "layout": "two fire buttons on each half; two Start buttons retained",
+  "button_bore_mm": 28,
+  "button_bezel_allowance_mm": 32,
+  "button_pair_pitch_mm": 43,
+  "buttons": [
+    {
+      "side": "L",
+      "label": "L FIRE 1",
+      "xy_mm": [
+        167,
+        65
+      ],
+      "clearance_collisions": []
+    },
+    {
+      "side": "L",
+      "label": "L FIRE 2",
+      "xy_mm": [
+        167,
+        108
+      ],
+      "clearance_collisions": []
+    },
+    {
+      "side": "R",
+      "label": "R FIRE 1",
+      "xy_mm": [
+        350,
+        65
+      ],
+      "clearance_collisions": []
+    },
+    {
+      "side": "R",
+      "label": "R FIRE 2",
+      "xy_mm": [
+        350,
+        108
+      ],
+      "clearance_collisions": []
+    }
+  ],
+  "parts": [
+    {
+      "file": "twin-joystick-2fire_top_L.stl",
+      "size_mm": [
+        235.533,
+        208.529,
+        57.728
+      ],
+      "components": 1,
+      "nonmanifold_edges": 0,
+      "volume_mm3": 353664.31
+    },
+    {
+      "file": "twin-joystick-2fire_top_R.stl",
+      "size_mm": [
+        237.491,
+        208.529,
+        57.723
+      ],
+      "components": 1,
+      "nonmanifold_edges": 0,
+      "volume_mm3": 355794.2
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+[
+  {
+    "plate": 1,
+    "name": "01 FIRST TEST - existing surround seat and M3 nut fit",
+    "parts": [
+      "00_existing_surround_fit_coupon.stl"
+    ]
+  },
+  {
+    "plate": 2,
+    "name": "02 BENCH FRAME - port rail and wiring tray",
+    "parts": [
+      "01_three_port_rail.stl",
+      "03_slotted_wiring_tray.stl"
+    ]
+  },
+  {
+    "plate": 3,
+    "name": "03 BENCH FEET - left and right gusset brackets",
+    "parts": [
+      "02_bench_foot_L.stl",
+      "02_bench_foot_R.stl"
+    ]
+  },
+  {
+    "plate": 4,
+    "name": "04 OPTIONAL - blank carriers USB cable gate and Easyget sled",
+    "parts": [
+      "04_blank_carrier_A.stl",
+      "04_blank_carrier_B.stl",
+      "05_USB_split_gate_L.stl",
+      "05_USB_split_gate_R.stl",
+      "06_optional_Easyget_sled_M3.stl"
+    ]
+  }
+]

@@ -1,0 +1,221 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Connector bench 47 · Build and wiring</title><style>body{margin:0;background:#f2f0e8;color:#243832;font:17px/1.65 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}main{max-width:1100px;padding:40px 28px 90px;margin:auto}h1{font-size:44px;line-height:1.12;letter-spacing:-.035em}h2{margin-top:48px;font-size:28px}h3{margin-top:32px}a{color:#206658;overflow-wrap:anywhere}img{width:100%;border-radius:12px;margin:20px 0}table{width:100%;min-width:620px;border-collapse:collapse;background:white}th,td{padding:12px 15px;text-align:left;border-bottom:1px solid #d5dfd5;vertical-align:top}th{background:#dce6df}.table{overflow-x:auto;margin:24px 0}li{margin:10px 0}code{font-size:.9em;background:#e0e6df;padding:2px 4px;border-radius:4px}@media(max-width:650px){main{padding:20px 16px}h1{font-size:32px}}@media print{body{font-size:11pt}main{padding:0}h2,h3{page-break-after:avoid}img{max-height:400px;object-fit:contain}}</style></head><body><main><h1 id="connector-bench-47-outer-ports-and-wiring">Connector bench 47 — outer ports and wiring</h1>
+<p>13 November 2026 · Small freestanding prototype · Controller shells remain revision 45</p>
+<p><a href="connector-47-bench-A1.3mf">Bambu A1 project</a> · <a href="Blender/bench-assembled.blend">Assembled Blender</a> · <a href="Blender/bench-separated.blend">Separated Blender</a> · <a href="build-guide.html">HTML directions</a></p>
+<p><img src="images/bench-assembled.png" alt="Assembled black connector bench" /></p>
+<p>This is the first physical module for the cabinet's black internal frame: a three-port rail, two removable gusseted feet and a screw-on wiring tray. It is intended to stand under its own light bench assembly. It is <strong>not a monitor stand or the finished load-bearing cabinet chassis</strong>. The feet can later be replaced by cabinet uprights using the same four rail holes.</p>
+<p>The two A/B plates in the rendering are <strong>blank carriers</strong>, not modeled copies of the unreceived magnetic part. Existing connector surrounds can replace them. The blue shape illustrates an intact USB cable through a split exit; it is not a new USB-C socket or a supplied cable.</p>
+<h2 id="first-print">First print</h2>
+<p>Print <strong>plate 01</strong>, the small surround-seat coupon, first: approximately <strong>22 minutes / 12.8 g</strong> in the included A1 PLA profile. Try one existing magnetic surround, two M3 nuts and the fixing screws. The coupon checks our printed mount, not the new connector body.</p>
+<p>The project is configured for <strong>Bambu Lab A1, 0.4 mm nozzle, 0.20 mm layers, four walls, 20% gyroid</strong>, with supports off. Select the actual filament installed before printing. All four plates sliced with no reported warnings and no generated support paths. This does not replace the physical fit test.</p>
+<div class="table"><table>
+<thead>
+<tr>
+<th>Plate</th>
+<th>Contents</th>
+<th>Estimated material</th>
+<th>Estimated time</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>01</td>
+<td>FIRST TEST - existing surround seat and M3 nut fit</td>
+<td>12.8 g</td>
+<td>0 h 21 min</td>
+</tr>
+<tr>
+<td>02</td>
+<td>BENCH FRAME - port rail and wiring tray</td>
+<td>116.1 g</td>
+<td>3 h 08 min</td>
+</tr>
+<tr>
+<td>03</td>
+<td>BENCH FEET - left and right gusset brackets</td>
+<td>65.1 g</td>
+<td>2 h 05 min</td>
+</tr>
+<tr>
+<td>04</td>
+<td>OPTIONAL - blank carriers USB cable gate and Easyget sled</td>
+<td>33.4 g</td>
+<td>0 h 58 min</td>
+</tr>
+</tbody>
+</table></div>
+<p>Plate 01 is a test, not part of the finished assembly. Plate 04 is optional: reuse your existing A/B and USB surrounds where appropriate. Its split gate lets you route an intact cable now; its Easyget sled is only needed if placing the encoder on the bench. Print a single coupon before committing to the frame.</p>
+<h2 id="retained-outer-interfaces">Retained outer interfaces</h2>
+<div class="table"><table>
+<thead>
+<tr>
+<th>Interface</th>
+<th>Dimensions / location</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Rail</td>
+<td>236 × 68 × 10 mm; assembled bottom 8 mm above bench</td>
+</tr>
+<tr>
+<td>Complete bench footprint / height</td>
+<td>252 × 135 × 76 mm</td>
+</tr>
+<tr>
+<td>Magnetic surrounds A and B</td>
+<td>Existing 54 × 28 × 3 mm; two M3 holes on 46 mm centres</td>
+</tr>
+<tr>
+<td>A/B seats / wire throats</td>
+<td>54.6 × 28.6 × 3.2 mm; 36.6 × 18.6 mm clear throat</td>
+</tr>
+<tr>
+<td>USB surround</td>
+<td>Existing 40 × 28 mm; two M3 holes on 32 mm centres</td>
+</tr>
+<tr>
+<td>USB seat / wire throat</td>
+<td>40.6 × 28.6 × 3.2 mm; 18.6 × 18.6 mm clear throat</td>
+</tr>
+<tr>
+<td>Port spacing</td>
+<td>A to B: 72 mm; B to USB: 74 mm, same as controller rear</td>
+</tr>
+<tr>
+<td>Bench port centre height</td>
+<td>42 mm above the bench; not the cabinet's final docking height</td>
+</tr>
+<tr>
+<td>Frame attachment pattern</td>
+<td>Two columns 222 mm apart, two holes per column 50 mm apart, Ø3.4 mm</td>
+</tr>
+<tr>
+<td>Removable tray</td>
+<td>236 × 60 mm, 3 mm floor plus shallow dividers; ten 20 × 3.4 mm strap/fixing slots</td>
+</tr>
+<tr>
+<td>Optional Easyget sled</td>
+<td>User-specified 79.6 × 29.6 mm hole centres; four Ø4.4 × 7 mm insert pockets; posts 8 mm above sled floor</td>
+</tr>
+<tr>
+<td>Split cable exit</td>
+<td>Nominal Ø6.6 mm with a small split seam; use a sleeve for smaller cable and independent strain relief</td>
+</tr>
+</tbody>
+</table></div>
+<p>The bench keeps all three rear-port positions relative to one another, but does not reproduce the controller's entire width or dock travel. It accepts outer surrounds. Component-specific contact alignment, magnet polarity and working compression remain a separate insert check.</p>
+<p>The new nut pockets use <strong>5.8 mm across flats × 2.6 mm depth</strong>, a prototype clearance for common M3 hex nuts. Use the coupon to check your actual nuts. None of the frame joints needs heat-set inserts. Only the optional Easyget sled uses the same M3 insert pockets as the current controllers.</p>
+<h2 id="hardware-to-gather">Hardware to gather</h2>
+<div class="table"><table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Frame quantity</th>
+<th>Purpose</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>M3 × 25 mm button-head screws</td>
+<td>4</td>
+<td>Rail to the two feet</td>
+</tr>
+<tr>
+<td>M3 × 10 mm button-head screws</td>
+<td>4</td>
+<td>Tray to feet; nominal end flush with underside</td>
+</tr>
+<tr>
+<td>M3 × 10 mm button-head screws</td>
+<td>6</td>
+<td>Two screws per port surround into rear nuts</td>
+</tr>
+<tr>
+<td>Common M3 hex nuts</td>
+<td>14</td>
+<td>Six rail-port pockets, four foot upright pockets, four foot underside pockets</td>
+</tr>
+<tr>
+<td>Thin rubber pads or grip tape</td>
+<td>4 pads / two strips</td>
+<td>Optional under feet; existing 18 mm pads fit the 30 mm foot width</td>
+</tr>
+<tr>
+<td>Small cable ties / soft straps</td>
+<td>As needed</td>
+<td>Through the tray slots; do not pull on connector pins</td>
+</tr>
+<tr>
+<td>Existing USB lead(s)</td>
+<td>Reuse</td>
+<td>Easyget and, for the optical controls, GRS to the host</td>
+</tr>
+</tbody>
+</table></div>
+<p>For the optional Easyget sled add <strong>four M3 × 10 screws, four M3 nuts and four M3 washers</strong> to fasten its ears through the tray slots. Add four appropriate M3 brass inserts and four M3 × 6 PCB screws, checking engagement against the real board/washer stack. The mounting pattern comes from the fitted controller revision; the simplified green object in Blender is only a PCB envelope.</p>
+<p>M3 screw lengths are starting hardware stacks, not permission to force a bottomed screw. Keep washers off the tray-to-foot stack unless adjusting screw length accordingly. Confirm the tray screws are flush or recessed beneath the feet before placing the stand on a finished surface. The original short case screws may be too short for this through-nut bench rail.</p>
+<p>The purchased <a href="https://www.amazon.com/dp/B0DT79N394?th=1">12-pin magnetic pair</a>, its <strong>matching assembled breakout or socket/pigtail</strong>, and any new connector-specific keeper remain separate hardware. See the <a href="../connector-46-design-pack/sourcing-update.html">supplier list</a>. A/B blank carriers close unused openings while that hardware is being resolved. Do not order another pair just to assemble this bench frame.</p>
+<h2 id="assemble-the-bench">Assemble the bench</h2>
+<ol>
+<li>Check the coupon. The surround should seat squarely without forcing its locating step. M3 nuts should load from the rear, and screws should clamp the surround without cracking it. Remove any first-layer lip before changing nominal dimensions.</li>
+<li>Load the four M3 nuts into the rear-access pockets in the two upright brackets. The larger round access holes lead to the hex seats. Temporary tape can hold the nuts during assembly.</li>
+<li>Put the flat rear of the port rail against the upright faces. Fit four M3 × 25 screws through the rail. Tighten evenly until the frame is square; leave the port openings accessible.</li>
+<li>Load the four tray nuts from the feet's undersides. Rest the tray on the 7 mm-high foot bases and fasten it with four M3 × 10 screws. The shallow routing dividers face up.</li>
+<li>Fit the existing A/B surrounds, or the supplied blanks, with two M3 × 10 screws and rear nuts each. Replace them with hardware-specific carriers later. The old solder-tail connector still needs its own proper electrical termination; this stand does not convert it to a solderless contact.</li>
+<li>For a temporary USB route, remove the USB surround, place the intact cable between the split gate halves, and fasten each half using its original screw position. Use a soft sleeve if needed. Secure the insulated cable to the tray separately, leaving relaxed slack between the opening and strap. The gate should not crush the cable.</li>
+<li>Fit the optional sled through the tray slots only if you want Easyget outside the cartridge. Install its inserts with the sled removed from the frame. Fit the board without straining the PCB, then test it with its original USB cable.</li>
+<li>Add rubber pads or grip tape. Use the front foot slots to screw the assembly to a scrap board, or clamp the feet, when testing repeated insertion force. The small stand is not weighted enough to guarantee that every magnetic connector can be pulled apart one-handed.</li>
+</ol>
+<p><img src="images/bench-separated.png" alt="Separated printable bench parts" /></p>
+<p>The letters and labels in the renders are editable Blender text, not engraved or separately printed objects. Label the physical ports A and B with tape before wiring. The assembled Blender includes hardware and cable reference objects; only the STL folder contains printable parts.</p>
+<h2 id="connections-and-wire-routing">Connections and wire routing</h2>
+<p><img src="images/wiring-plan.svg" alt="Two distinct wiring paths" /></p>
+<p><strong>Working USB test:</strong> keep Easyget connected through its factory USB lead. For Centipede/Tempest, keep the GRS interface on its own existing USB lead as needed. Use one host per USB connection. The split gate routes a cable; it adds no electronics and does not change USB-C wiring. Reuse the existing USB-C surround when its fitted component is ready.</p>
+<p><strong>Magnetic switch test:</strong> preserve each purchased factory cable and white plug. Mate it to the correct factory-made socket/pigtail or a fully assembled passive breakout. Use separate isolated terminal positions, then matching adapters for the existing button/Easyget leads. The exact white plug family is still unknown; the current work does not release a fabricated PCB or a guessed JST adapter.</p>
+<p>For a raw-switch cartridge, one Easyget encoder can sit on the bench sled. For a self-contained cartridge, leave Easyget inside it. Choose which encoder owns those switches; do not connect the same switch wiring to two encoders at once. The seam connectors between left/right controller halves and the outer bench ports are separate interfaces, even if they later use the same hardware family.</p>
+<p>The tray's central area accepts the Easyget sled <strong>or</strong> a strapped/measured breakout; it is not a claim that an arbitrary breakout fits beside the board. The right lane between X50 and X94 is reserved for intact USB. The narrow left lane beside X−96 can hold a separately insulated auxiliary pair later. Keep both cable ends and plug releases accessible through the open back.</p>
+<h3 id="logical-circuit-allocation-not-a-physical-pinout">Logical circuit allocation — not a physical pinout</h3>
+<div class="table"><table>
+<thead>
+<tr>
+<th>Logical port</th>
+<th>Isolated pairs</th>
+<th>Proposed use</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A</td>
+<td>A01/A02, A03/A04, A05/A06, A07/A08</td>
+<td>Up, Down, Left, Right switch circuits</td>
+</tr>
+<tr>
+<td>A</td>
+<td>A09/A10, A11/A12</td>
+<td>Start 1 and Start 2 / Menu, depending on layout</td>
+</tr>
+<tr>
+<td>B</td>
+<td>B01/B02 through B11/B12</td>
+<td>Six independent action-button circuits</td>
+</tr>
+</tbody>
+</table></div>
+<p>This conservative arrangement uses all 24 conductors; <strong>there is no spare LED supply pair in that allocation</strong>. An existing 5-wire joystick needs a verified adapter/fanout from its common and four switch signals; do not clip that factory harness. A verified common-return scheme could free contacts, but that is a later electrical change. The existing coin interface stays on its separate USB path.</p>
+<p>Use the <a href="../connector-46-design-pack/continuity-map.csv">continuity worksheet</a> to assign actual wire/contact positions. Number both ends from a defined latch/mating-face view; mating faces can appear mirrored. Power off, map each contact end-to-end, check adjacent paths remain isolated, then test one switch circuit. Repeat while gently moving the cable before connecting the remaining switches.</p>
+<h3 id="reserved-low-voltage-power-route">Reserved low-voltage power route</h3>
+<p>Provide a separate fused branch for confirmed 5 V lamps, with its own feed and return and a service disconnect. Lamp voltage, measured current and connector ratings remain to be established; no magnetic contact is assigned power in this release. Keep this separate from USB VBUS and signal inputs. Thin controller switch leads are not the cabinet lighting trunk. Cabinet power-supply and LED purchases remain in the <a href="../cabinet-31-parts/parts-list.html">existing parts list</a>; this bench adds no mains wiring.</p>
+<h2 id="transition-into-the-cabinet">Transition into the cabinet</h2>
+<p>The finished bench rail becomes a removable service module. Future black cabinet uprights can accept its <strong>222 × 50 mm four-hole pattern</strong>, replacing the bench feet. Keep the board/breakout tray removable and reachable from the cabinet service opening. The slot pattern lets a measured breakout adapter replace the Easyget sled without redesigning the outer ports.</p>
+<p>This is a modular connection standard for our printed parts, not a universal pogo-connector standard. Before making full-height uprights, locate this module against the actual controller rear ports, drawer travel, cable bends and cabinet service panel. The bench's 42 mm centre height is deliberately a bench datum, not a cabinet mounting coordinate. The current cabinet seat, monitor mounting and ballast remain independent work.</p>
+<p>No existing controller, fitted control mount, overlay magnet or cabinet contour changes in this revision. The connector-specific inner liner, keeper and contact projection will be sized from a supplier drawing or the delivered component; only the removable surrounds should need replacement if the hardware clears the retained shell throats.</p>
+<h2 id="validation-and-files">Validation and files</h2>
+<ul>
+<li>Ten STL parts: one connected, closed mesh each, consistent winding and positive volume. No detected volume intersections between the assembled printed parts. <a href="mesh-checks.json">Mesh checks</a>.</li>
+<li>All part extents fit within the A1's 256 mm cube; the largest is 236 mm in-plane. <a href="geometry-checks.json">Geometry and retained coordinates</a>.</li>
+<li>Four plates sliced for the A1 with no reported warnings or support paths. <a href="slice-checks.json">Slice checks</a>.</li>
+<li>Assembled and separated Blender files and three rendered views are included. <a href="images/bench-rear-wiring.png">Rear wiring view</a>.</li>
+<li>Physical nut fit, printed stiffness, mating retention and stability under cable pull remain bench tests. No new electrical connector or monitor load has been certified by the rendering.</li>
+</ul>
+<p>Rebuild with <code>work/build_v47_bench.py</code> in Blender, <code>work/package_v47_bench.py</code> in Python, then <code>work/docs_v47_bench.py</code>. Nothing has been purchased, sent to a supplier, or sent to the printer.</p>
+</main></body></html>

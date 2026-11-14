@@ -1,0 +1,18 @@
+Subject: Sample request — 12-contact magnetic connector pair with solderless customer wiring
+
+Please quote 2 complete mating pairs and 5 complete mating pairs, with shipping to Portland, Oregon 97217, USA. This is a low-voltage modular arcade-controller prototype. No order is authorized by this draft.
+
+Preferred: 12 contacts in a 2 x 6 array, integrated alignment/retention magnets, approximately 100–150 mm factory-attached harness on each half. We need no soldering by the end user and would like to preserve the supplied plugs.
+
+Please include:
+1. Exact part numbers for both mating halves and their cable plugs/mating sockets. Confirm contact pitch and row spacing separately from wire-plug pitch. State approved wire gauge and every pin assignment, viewed from a defined face/latch orientation.
+2. Dimensioned drawings (PDF and preferably STEP): body/flange, keying, wire exit, cable bend allowance, mounting method, free and working pin heights, recommended compression, max stroke, mated separation, tolerance stack and magnet polarity/retention force.
+3. Connector current rating per contact AND total simultaneous load, contact resistance, cycle life and applicable test conditions. Supply the actual ratings rather than a generic pin-family range. USB transmission is not assumed.
+4. A factory-assembled mating pigtail or 12-isolated-circuit terminal breakout for each harness end; offer an optional six-by-two-pin switch fanout. State exact socket part numbers and whether cable ends are stripped or ferruled. Do not use a common-bus distribution block for the signal circuits.
+5. Sample MOQ, unit/pair price, tooling charges if any, production lead time and stocked options. An existing catalogue part is preferred over custom tooling.
+
+Our printed removable face plate is 54 x 28 x 3 mm, with M3 fixing centres 46 mm apart. The shell wire throat is 36.6 x 18.6 mm. The old component opening is only a reference (28.6 x 8.6 mm) and can be changed in the replaceable insert. Please show how your body, flange and terminated plug fit this envelope; do not assume the old part's footprint is mandatory.
+
+We can retain separate 6 mm diameter x 3 mm magnets in the printed cassette if your stocked prewired connector has no integrated magnets. Please identify this explicitly and supply the required mating force/stroke data.
+
+Existing purchased reference: JHYOSSTHI JH-WPogo-12Pin, Amazon B0DT79N394. Compatibility with this part is not assumed. We will replace both mating halves if selecting a different family.

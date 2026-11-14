@@ -1,0 +1,40 @@
+{
+  "printer": "Bambu Lab A1",
+  "nozzle_mm": 0.4,
+  "layer_mm": 0.2,
+  "material": "PLA",
+  "plates": [
+    {
+      "plate": 1,
+      "name": "01 FIRST TEST - padded cradle lip and M3 insert",
+      "seconds": 1546.9478759765625,
+      "grams": 14.69,
+      "warnings": "",
+      "support_paths": 0
+    },
+    {
+      "plate": 2,
+      "name": "02 STAND - left braced leg - print on side",
+      "seconds": 22726.85546875,
+      "grams": 224.33,
+      "warnings": "",
+      "support_paths": 0
+    },
+    {
+      "plate": 3,
+      "name": "03 STAND - right braced leg - print on side",
+      "seconds": 22727.05078125,
+      "grams": 224.33,
+      "warnings": "",
+      "support_paths": 0
+    },
+    {
+      "plate": 4,
+      "name": "04 STAND - two crossbars and adjustable rear pads",
+      "seconds": 8624.36328125,
+      "grams": 91.79,
+      "warnings": "",
+      "support_paths": 0
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Controller45 · Hidden overlay magnets</title><style>*{box-sizing:border-box}html{scroll-behavior:smooth;scroll-padding-top:24px}body{margin:0;background:#e9e8e3;color:#25352d;font:16px/1.7 system-ui,-apple-system,BlinkMacSystemFont,sans-serif}a{color:#176449;text-underline-offset:3px}main{max-width:1120px;margin:28px auto 70px;padding:42px 64px 56px;background:#fff;border-radius:18px;box-shadow:0 8px 30px #2333270a}h1{font-size:48px;line-height:1.1;letter-spacing:-1.6px;margin:20px 0 18px}h2{font-size:28px;line-height:1.2;margin:48px 0 18px;padding-top:24px;border-top:1px solid #dce4dd;scroll-margin-top:20px}h3{font-size:21px;margin-top:28px}p{margin:14px 0;max-width:88ch}.eyebrow{font-size:12px;letter-spacing:2px;color:#5b7465;font-weight:700}.edition{display:flex;gap:8px;flex-wrap:wrap;margin:20px 0}.edition span{background:#eef4ef;border:1px solid #ccdcd0;padding:6px 12px;border-radius:7px;font-size:13px}.contents{background:#f2f5f1;padding:18px 22px;border-radius:12px;margin:24px 0}.contents summary{cursor:pointer;font-weight:700}.contents ul{columns:2;margin:15px 0 0;padding-left:20px}.contents li{break-inside:avoid;margin:3px 0;font-size:14px}figure{margin:28px 0}figure img{width:100%;height:auto;display:block;border-radius:10px}figure:first-of-type img{max-height:700px;object-fit:contain;background:#222}figcaption{font-size:12px;line-height:1.5;color:#647468;margin-top:8px}.table-wrap{overflow-x:auto;margin:20px 0}table{border-collapse:collapse;width:100%;font-size:14px;line-height:1.55}th,td{padding:11px 13px;border-bottom:1px solid #dce4dd;text-align:left;vertical-align:top}th{background:#edf3ed;font-weight:700}tr:nth-child(even) td{background:#fafbf9}li{padding:5px 0}code{font-size:.9em;background:#edf3ee;padding:2px 5px;border-radius:3px}footer{margin-top:38px;border-top:1px solid #dce4dd;padding-top:22px;color:#647468;font-size:12px}@media(max-width:720px){main{padding:26px 20px;margin:0;border-radius:0}h1{font-size:35px}h2{font-size:24px;margin-top:34px}.contents ul{columns:1}table{font-size:12px}th,td{padding:8px}figure:first-of-type img{max-height:520px}}@media print{body{background:white;font-size:10pt;line-height:1.5}main{max-width:none;margin:0;padding:0;box-shadow:none}.contents,.edition{display:none}h1{font-size:27pt}h2{font-size:18pt;margin-top:24px;break-after:avoid}h3{break-after:avoid}figure{break-inside:avoid}figure img,figure:first-of-type img{max-height:155mm;object-fit:contain}table{font-size:9pt}tr{break-inside:avoid}a{color:inherit}main>p:first-of-type{font-size:9pt}}</style></head><body><main><div class="eyebrow">MODULAR ARCADE / REVISION 45</div><h1>Magnetic controller halves · Revision 45</h1>
+<p>13 November 2026 · Bambu Lab A1 · 0.4 mm nozzle · PLA</p>
+<p><a href="controller-45-all-controllers-A1.3mf">All controllers: 23 named plates</a> · <a href="controller-43-fit-tests-A1.3mf">Small magnet and screw tests</a> · <a href="build-guide.html">HTML guide</a></p>
+<figure><img src="images/centipede.png" alt="Centipede assembled with the diagonal magnetic seam" /><figcaption>Centipede assembled with the diagonal magnetic seam</figcaption></figure>
+<details class="contents"><summary>Build guide contents</summary><ul><li><a href="#revision-45-hidden-overlay-magnets">Revision 45: hidden overlay magnets</a></li><li><a href="#retained-revision-44-trackball-correction">Retained revision 44 trackball correction</a></li><li><a href="#additional-twin-joystick-with-two-fire-buttons-per-half">Additional twin joystick with two Fire buttons per half</a></li><li><a href="#the-new-join">The new join</a></li><li><a href="#compatibility-and-what-to-reprint">Compatibility and what to reprint</a></li><li><a href="#choose-a-layout">Choose a layout</a></li><li><a href="#print-the-small-tests-first">Print the small tests first</a></li><li><a href="#print-and-assemble-the-enclosures">Print and assemble the enclosures</a></li><li><a href="#bare-bottom-or-optional-rubber-feet">Bare bottom or optional rubber feet</a></li><li><a href="#connector-dimensions-and-electrical-status">Connector dimensions and electrical status</a></li><li><a href="#retained-measured-controls">Retained measured controls</a></li><li><a href="#hardware-for-one-complete-pair">Hardware for one complete pair</a></li><li><a href="#validation-files">Validation files</a></li></ul></details><h2 id="revision-45-hidden-overlay-magnets">Revision 45: hidden overlay magnets</h2>
+<p>Every upper half now has <strong>six hidden, underside-loading seats for Ø6 × 3 mm solid disc magnets</strong>. Use up to six per half: twelve for a complete left/right controller, in addition to the existing eight seam magnets on each half. The holes are <strong>Ø6.30 × 3.20 mm deep</strong>, leaving approximately <strong>0.80 mm of continuous plastic</strong> above the magnets. The playing surface remains smooth. Insert and bond magnets from inside before refitting the bottom.</p>
+<p>The six locations on a given side are common across all eight layouts. They avoid modeled control hardware, PCB envelopes and mounting posts, with an 11 mm diameter, 25 mm deep clear approach from the inner deck. All fitted control openings, supports (including the corrected 10.83 mm trackball supports), insert pilots, connectors and outer contours are retained. Bottoms are unchanged.</p>
+<p><strong>Reprint only the top halves for which you want magnetic overlays:</strong> plates 02–12 and 22–23 now include these pockets. Existing revision43/44 bottoms remain compatible. All other plates are unchanged. The exterior appearance of the assembled renderings is unchanged; each Blender file now also has an <strong>04 underside overlay pockets</strong> inspection scene.</p>
+<figure><img src="images/overlay-magnet-map.svg" alt="Hidden magnet locations, viewed from the playing side" /><figcaption>Hidden magnet locations, viewed from the playing side</figcaption></figure>
+<figure><img src="images/twin-joystick-2fire-magnet-pockets.png" alt="Six underside pockets in each twin-joystick half" /><figcaption>Six underside pockets in each twin-joystick half</figcaption></figure>
+<h3>Installing the overlay magnets</h3>
+<ol>
+<li>Use the existing small fit coupon to check a Ø6.3 × 3.2 mm seat. These are clearance pockets for adhesive, not an interference fit. The top shell prints playing-face down; the thin skin is printed first, so the blind pockets do not create a suspended ceiling.</li>
+<li>Dry-fit magnets from the inside and check polarity against the matching overlay magnets. Mark a consistent outward-facing pole across all twelve top locations. Orient overlay magnets to attract that face.</li>
+<li>Bond each magnet to the blind end with a small amount of suitable adhesive, keeping the inner face and nearby hardware clean. Do not force a tight magnet or press against the thin outer skin. Let it cure before closing the case.</li>
+<li>For printed overlays, use matching magnets captured in their undersides or suitable steel targets. Keep the target close to the playing face; holding force depends on magnet grade, plastic separation, overlay weight and position, and needs a physical trial. Small decals can use fewer than six locations.</li>
+<li>An overlay is cosmetic and removable. Check clearance around button bezels, spinner, joystick dust washer and trackball ring before final printing; do not bury or rub the moving controls. Thick overlays may require larger openings or islands around controls. The deck itself is not recessed.</li>
+</ol>
+<h3>Overlay design references</h3>
+<p>The <strong>Overlay-templates</strong> folder contains one SVG for each half/layout at 1:1 millimetres, looking down at the playing face. <strong>Black lines are deck/control boundaries; red circles and crosses mark hidden magnet centres only.</strong> Do not cut the red circles through a finished overlay. These are design references, not finished printable overlays. The Blender shells provide the exact 3D surface if you want to build an overlay directly on it.</p>
+<p><a href="Overlay-templates/twin-joystick-2fire-L-overlay-reference.svg">Left twin-joystick template</a> · <a href="Overlay-templates/twin-joystick-2fire-R-overlay-reference.svg">Right twin-joystick template</a> · <a href="controller-45-overlay-checks.json">Dimension and clearance checks</a></p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Position</th>
+<th>Left half X, Y (mm)</th>
+<th>Right half X, Y (mm)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>45, 25</td>
+<td>225, 25</td>
+</tr>
+<tr>
+<td>2</td>
+<td>160, 20</td>
+<td>370, 25</td>
+</tr>
+<tr>
+<td>3</td>
+<td>25, 90</td>
+<td>220, 90</td>
+</tr>
+<tr>
+<td>4</td>
+<td>190, 130</td>
+<td>375, 90</td>
+</tr>
+<tr>
+<td>5</td>
+<td>55, 155</td>
+<td>235, 150</td>
+</tr>
+<tr>
+<td>6</td>
+<td>175, 160</td>
+<td>375, 150</td>
+</tr>
+</tbody>
+</table></div>
+<p>These coordinates use the original assembled Blender model: X increases left to right and Y increases front to back. The face is Z = 180.8 + 0.05Y mm; pocket axes are perpendicular to it. The SVG includes the small slope correction for true flat pattern dimensions. An overlay magnet can be Ø6 mm; the red reference circle shows the shell's Ø6.3 mm seat.</p>
+<h2 id="retained-revision-44-trackball-correction">Retained revision 44 trackball correction</h2>
+<p>The four trackball supports project <strong>10.83 mm</strong> from the inner deck, reduced by <strong>0.20 mm</strong> from revision43. Their hole centres, Ø12 mm post diameter and Ø4.4 × 7 mm insert pockets are unchanged. The surrounding enclosure, bottom pieces, magnetic interfaces and other controls are unchanged.</p>
+<p>For the previous height-only change, the affected tops were: plate <strong>06</strong> (Centipede, right Fire), <strong>08</strong> (Centipede, left Fire), or <strong>11</strong> (Tempest, trackball right). These tops fit the existing revision43 bottoms. Revision45 additionally updates all upper halves with overlay magnet pockets, as described above. The earlier straight-seam revision42 compatibility limitation below still applies.</p>
+<p><a href="controller-44-height-checks.json">Measured support-height checks</a>. The revision43 check files below document unchanged baseline features; the new height check supersedes their trackball-height entries.</p>
+<h2 id="additional-twin-joystick-with-two-fire-buttons-per-half">Additional twin joystick with two Fire buttons per half</h2>
+<p>Print <strong>22 + 23</strong> for the new left/right tops and use the existing <strong>13 + 14</strong> bottoms. Each half has one joystick and two regular Ø28 mm Fire buttons, spaced 43 mm centre-to-centre. Both original Start buttons remain on the right half. The earlier twin-joystick layout remains on plates 02 + 12.</p>
+<figure><img src="images/twin-joystick-2fire-top.png" alt="Twin joystick with two Fire buttons per half" /><figcaption>Twin joystick with two Fire buttons per half</figcaption></figure>
+<p><a href="Blender/twin-joystick-2fire.blend">New twin joystick Blender model</a> · <a href="controller-44-twin-fire-checks.json">Button clearance checks</a>. The modeled allowance is a Ø28 mm body extending 42 mm below the deck and a Ø32 mm retaining nut; actual terminals and bends still need a dry fit. Connect both new switches on each half to distinct available encoder inputs; do not parallel the two USB boards. The optional right Easyget mounts remain available for a second encoder.</p>
+<h2 id="the-new-join">The new join</h2>
+<p>Two independent four-wall enclosures join along a diagonal seam. The playing-surface seam runs from X176 at the front to X224 at the rear, over the existing 206 mm depth. The existing rounded, flared outside contour, flat 4 mm deck, 5% grade, control positions and three rear port locations remain. A return beneath the rear deck clears the original port surrounds; the visible seam remains diagonal.</p>
+<p>Each half has eight inward-wall seats for <strong>6 mm diameter × 3 mm solid disc magnets</strong> (separate from the six new underside overlay pockets), two removable black connector surrounds on its inward wall, and an independently removable screw-fastened bottom. There are <strong>two mating connector pairs</strong> across the join: four physical connector halves, with 24 possible contacts. The separate disc magnets provide retention; they are not electrical contacts. Two tapered registration keys carry alignment and shear, replacing the old internal splice brackets.</p>
+<figure><img src="images/centipede-separated.png" alt="Separated enclosures show the inner connector ports and service bottoms" /><figcaption>Separated enclosures show the inner connector ports and service bottoms</figcaption></figure>
+<h2 id="compatibility-and-what-to-reprint">Compatibility and what to reprint</h2>
+<p>Your fitted controls, trackball mounts, joystick mounts, buttons, Easyget boards, rear surrounds and optional rubber-pad feet can transfer. The cabinet's rear connection coordinates and overall controller envelope are retained. The old revision-42 files remain available separately for already printed shells.</p>
+<p><strong>The diagonal design needs both new top shells and both matching revision-43 bottom pieces.</strong> A new diagonal half will not mate with an old straight-seam half. The four inner bottom-screw positions move to clear the wall and insert press. Do not reuse an old bottom or the roof/floor splice brackets with this enclosure.</p>
+<p>Each Blender file has assembled, separated service, top-view and underside magnet-pocket scenes. These are actual editable part meshes, with purchased components shown as reference envelopes.</p>
+<h2 id="choose-a-layout">Choose a layout</h2>
+<p>LEFT and RIGHT are the player's left and right. All pushbuttons retain the regular 28 mm mounting holes.</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Layout</th>
+<th>Top plates</th>
+<th>Bottom plates</th>
+<th>Blender</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Street Fighter, six actions + two Start</td>
+<td>02 + 03</td>
+<td>13 + 14</td>
+<td><a href="Blender/joystick-6.blend">Six-action</a></td>
+</tr>
+<tr>
+<td>Fire / Jump + two Start</td>
+<td>02 + 04</td>
+<td>13 + 14</td>
+<td><a href="Blender/joystick-2.blend">Two-action</a></td>
+</tr>
+<tr>
+<td>Three actions + two Start</td>
+<td>02 + 05</td>
+<td>13 + 14</td>
+<td><a href="Blender/joystick-3.blend">Three-action</a></td>
+</tr>
+<tr>
+<td>Centipede, right Fire</td>
+<td>06 + 07</td>
+<td>15 + 16</td>
+<td><a href="Blender/centipede.blend">Centipede</a></td>
+</tr>
+<tr>
+<td>Centipede, left Fire</td>
+<td>08 + 09</td>
+<td>15 + 16</td>
+<td><a href="Blender/centipede-left-fire.blend">Left Fire</a></td>
+</tr>
+<tr>
+<td>Tempest, left dial / right trackball</td>
+<td>10 + 11</td>
+<td>17 + 18</td>
+<td><a href="Blender/tempest.blend">Tempest</a></td>
+</tr>
+<tr>
+<td>Twin joystick + two Start</td>
+<td>02 + 12</td>
+<td>13 + 14</td>
+<td><a href="Blender/twin-joystick.blend">Twin joystick</a></td>
+</tr>
+<tr>
+<td>Twin joystick, two Fire per half + two Start</td>
+<td>22 + 23</td>
+<td>13 + 14</td>
+<td><a href="Blender/twin-joystick-2fire.blend">Twin joystick + Fire</a></td>
+</tr>
+</tbody>
+</table></div>
+<p>Plate 19 has the four inner surrounds and four optional closed covers. Plate 20 has the unchanged rear A, B and USB-C surrounds. Plate 21 has eight optional feet. Print either an open surround or a blank for each inner port.</p>
+<figure><img src="images/twin-joystick.png" alt="Twin joystick option" /><figcaption>Twin joystick option</figcaption></figure>
+<p>The twin layout places one joystick in each half. Both use the fitted 41.01 × 81.68 mm pattern with the long dimension front-to-back, and 24 mm shaft openings. The right half also has optional Easyget M3 supports matching the left. Two sticks alone do not create two USB players: configure one encoder for a twin-stick game, or use two encoders with separate USB host connections/a suitable hub for independent players. Each Easyget direction header is for one stick; the second stick must use distinct available inputs when sharing an encoder.</p>
+<h2 id="print-the-small-tests-first">Print the small tests first</h2>
+<figure><img src="images/fit-tests.png" alt="Magnet registration pair and recessed screw coupon" /><figcaption>Magnet registration pair and recessed screw coupon</figcaption></figure>
+<ol>
+<li>Open the fit-test 3MF as a project and retain 100% scale. It uses your A1 / 0.4 mm / PLA profile.</li>
+<li>Check a 6 × 3 mm disc in a Ø6.3 × 3.2 mm pocket. It should seat without splitting the plastic. Adhesive retention is intended; do not hammer a magnet into a tight print.</li>
+<li>Pair the coupons before gluing. Their four magnets per coupon must attract their counterparts. The full enclosure uses eight per half. Mark the exposed mating poles so the full set uses the same polarity convention.</li>
+<li>Test the 4 and 5 mm tapered registration keys in their matching pockets. The pockets have 0.25 mm nominal radial allowance. The keys should seat without forcing or holding the faces apart. The complete enclosure leaves a 0.4 mm nominal seam gap.</li>
+<li>Test your actual low button-head screw in the separate bottom coupon. The head recess is Ø7 × 2.2 mm deep, intended for approximately Ø6 mm heads no more than 2 mm tall. This assumes your 6 mm measurement was the head diameter, consistent with the previously described low rounded heads.</li>
+<li>Check attraction and removal by hand. The coupon checks printed fit and polarity; it does not establish the complete controller's holding force under play. Validate the full join with the real magnets and contacts before relying on it.</li>
+</ol>
+<h2 id="print-and-assemble-the-enclosures">Print and assemble the enclosures</h2>
+<p>Use the supplied orientations: playing surfaces down for upper shells; outer bottom faces down for bottoms. Retain supports for side/rear openings and the new inner-wall returns. Keep the 0.20 mm layers, four walls, five top/bottom layers and 20% infill, with the supplied brim. Every print part fits the A1 bed at full scale.</p>
+<ol>
+<li>Print the matching four large pieces for your chosen layout. Remove brim/supports and clear channels and bores. Dry-fit the bare shells, keys, bottoms and rear surrounds before installing electronics.</li>
+<li>Install the same M3 inserts used in the previous case: nominal M3 thread, 6 mm length × 5 mm outside diameter, with Ø4.4 × 7 mm printed pilot pockets. Insert outside dimensions still need to match your kit; the nominal thread is not the pilot diameter.</li>
+<li>Fit and glue eight disc magnets into each inward wall after checking polarity against the opposite half. The pocket backs provide support. Keep adhesive and debris off the mating faces, locating keys and connector openings. Allow the adhesive to cure before testing separation.</li>
+<li>Fit two internal surrounds per half using two M3 screws each. Use the closed covers while the electrical connector is not installed. The covers and open surrounds share the same boundary and screw pattern.</li>
+<li>Transfer the controls using their established mount hardware. The left Easyget retains its top-mounted position, 79.6 × 29.6 mm pitch, 8 mm stand-off and M3 pilots. M3 screws pass through the owner's PCB holes. Components face inward, away from the playing deck.</li>
+<li>Route wires along the existing 12 mm side/rear channels and use the new tie eyes behind each side connector. The rear channel now terminates at each inner wall. No cable should cross the mating seam without a deliberate removable connection.</li>
+<li>Fit each bottom independently. Use M3 × 8 mm screws as the starting length for bare-bottom use. Check they clamp the floor before bottoming in the insert.</li>
+<li>Bring the halves together laterally. The tapered keys align the surfaces before final seating. Check all magnets and connector faces seat evenly. Remove a half by a controlled lateral pull; do not twist the joystick or trackball to break the joint.</li>
+</ol>
+<p>The cabinet's separate underside sliding keys remain in the Blender model as hidden optional reference parts. They protrude below the flat bottom when fitted. Remove those keys for flat tabletop use without feet; use them for the established cabinet slide interface. Test magnetic retention against actual play forces before using it as the only restraint.</p>
+<h2 id="bare-bottom-or-optional-rubber-feet">Bare bottom or optional rubber feet</h2>
+<p>The bottom has raised internal washer seats, leaving about 3.2 mm of plastic above each screw-head bearing face. Its lower surface stays at the original datum. The head pocket is 2.2 mm deep; a 1.8 mm head sits about 0.4 mm above the tabletop plane, inside the recess. The shell studs start above those raised seats, with 0.2 mm assembly clearance.</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Assembly</th>
+<th>Starting screw</th>
+<th>Nominal insert engagement</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bare bottom, no foot</td>
+<td>M3 × 8 mm</td>
+<td>4.6 mm</td>
+</tr>
+<tr>
+<td>Existing Ø20 mm printed foot</td>
+<td>M3 × 12 mm</td>
+<td>5.0 mm</td>
+</tr>
+</tbody>
+</table></div>
+<p>Verify your actual screw head and length before tightening. The optional feet still use 18 mm diameter × 0.05 inch (1.27 mm) adhesive rubber pads in the previous 20 mm housings. Their geometry is unchanged; the four inner screw locations move with the new bottom. Peel the pad to access the screw. Flat plastic avoids exposed metal but rubber gives more grip and surface protection.</p>
+<p>The original cabinet clearance for the feet remains available because the overall underside envelope has not increased. Bare-bottom use removes the foot stack; it does not move the controller's rear connection coordinates.</p>
+<h2 id="connector-dimensions-and-electrical-status">Connector dimensions and electrical status</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Interface feature</th>
+<th>Dimension / status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Inner surround, each</td>
+<td>54 × 28 mm</td>
+</tr>
+<tr>
+<td>Fixing pattern</td>
+<td>Two M3 screws, 46 mm centre spacing</td>
+</tr>
+<tr>
+<td>Component aperture</td>
+<td>28.6 × 8.6 mm, same allowance as existing rear magnetic surround</td>
+</tr>
+<tr>
+<td>Reference connector body</td>
+<td>28 × 8 × 4 mm; provisional envelope from the earlier design</td>
+</tr>
+<tr>
+<td>Disc-magnet pocket</td>
+<td>Ø6.3 × 3.2 mm for a Ø6 × 3 disc</td>
+</tr>
+<tr>
+<td>Inner wall</td>
+<td>6.5 mm in X before local port reinforcement</td>
+</tr>
+<tr>
+<td>Join gap</td>
+<td>0.4 mm nominal in X</td>
+</tr>
+<tr>
+<td>Key sizes</td>
+<td>4 and 5 mm root diameter; tapered noses</td>
+</tr>
+</tbody>
+</table></div>
+<p>The inner surrounds reuse the rear surround's mounting size and component opening. <strong>The purchased 12-pin male/female body, solder/pigtail exit, retention method and working contact stroke still need verification.</strong> Matching the old aperture is not evidence that an unmeasured connector is ready for blind mating. The adapters remain removable so its final details can be changed without another enclosure print. The two pairs should be keyed/labeled A and B when the electrical assignment is established.</p>
+<p>For the first prototype, retain the working Easyget USB wiring and test with the bottoms open. Unplug temporary wiring before separating the halves. The magnets and keys can be evaluated with the closed port covers before the electrical connectors arrive.</p>
+<p>For a one-encoder joystick cartridge, eight right-hand switches (six actions plus two Start) can use sixteen independent conductors across the two connectors, leaving eight contacts unassigned. Treat each switch as its own two-wire loop until the actual board's common-return arrangement is verified. A right joystick uses four distinct direction inputs. Lighting is a separate circuit; do not infer polarity from wire colour.</p>
+<p>For optical layouts, keep the proven GRS harness/USB path until the connector pinout and signal suitability are established. A 12-pin magnetic connector is not automatically a USB-rated connector. USB power from different hosts or supplies must not be joined directly. Sharing a mechanical connector style with the cabinet does not authorize parallel wiring of USB devices, encoder outputs or power sources. No live pin assignment or current rating is released by this mechanical revision.</p>
+<h2 id="retained-measured-controls">Retained measured controls</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Part</th>
+<th>Retained fit</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Joystick</td>
+<td>41.01 × 81.68 mm corner-hole centres; long axis front-to-back; 6 mm support projection</td>
+</tr>
+<tr>
+<td>Trackball</td>
+<td>Confirmed 87.127473 mm square hole pitch; Ø12 mm posts; 10.83 mm support projection</td>
+</tr>
+<tr>
+<td>Trackball opening</td>
+<td>Ø57.10 mm for the measured Ø56.69 mm ring</td>
+</tr>
+<tr>
+<td>Dial mounting opening</td>
+<td>Ø28 mm; knob diameter is separate</td>
+</tr>
+<tr>
+<td>Buttons</td>
+<td>Ø28 mm regular mounting openings, existing spacing retained</td>
+</tr>
+<tr>
+<td>Easyget</td>
+<td>79.6 × 29.6 mm centres; 8 mm top stand-off; M3 pockets</td>
+</tr>
+</tbody>
+</table></div>
+<p>The short 150 mm joystick lead still reaches the nearby top-mounted board using the same direct route. Actual plugs, body depth, wire bends and connector pressure remain physical dry-fit checks.</p>
+<h2 id="hardware-for-one-complete-pair">Hardware for one complete pair</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Quantity / notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>6 × 3 mm disc magnets</td>
+<td>16 for the seam + up to 12 hidden in the two tops = 28 in the controller; up to 12 more in matching overlays. Optional test coupons use eight more.</td>
+</tr>
+<tr>
+<td>M3 heat-set inserts</td>
+<td>30 for a single joystick/trackball layout with one Easyget; twin joystick adds four, and its optional second Easyget adds four more</td>
+</tr>
+<tr>
+<td>Bottom screws</td>
+<td>Eight M3 × 8 for bare bottoms, or M3 × 12 with feet</td>
+</tr>
+<tr>
+<td>Inner surround screws</td>
+<td>Eight M3 × 8, verify the actual adapter stack</td>
+</tr>
+<tr>
+<td>Rear surround screws</td>
+<td>Six M3 × 8, same as before</td>
+</tr>
+<tr>
+<td>Easyget screws</td>
+<td>Four M3 × 8 per installed board, with suitable washers</td>
+</tr>
+<tr>
+<td>Control mounting screws</td>
+<td>Transfer fitted hardware; verify bracket/washer thickness and 4–6 mm engagement</td>
+</tr>
+<tr>
+<td>Magnetic electrical connectors</td>
+<td>Two mating 12-contact pairs for the side interface, after vendor fit/stroke verification</td>
+</tr>
+<tr>
+<td>Rubber feet</td>
+<td>Optional eight 18 × 1.27 mm pads in printed Ø20 mm housings</td>
+</tr>
+<tr>
+<td>Cable ties and adhesive</td>
+<td>As needed for strain relief and magnet retention</td>
+</tr>
+</tbody>
+</table></div>
+<h2 id="validation-files">Validation files</h2>
+<p><a href="mesh-checks.json">Mesh checks</a> · <a href="slice-checks.json">A1 slicing checks</a> · <a href="controller-43-clearance-checks.json">Mount and mating-path checks</a> · <a href="controller-43-checks.json">Design dimensions</a> · <a href="controller-43-fit-checks.json">Fit-test dimensions</a> · <a href="plate-manifest.json">Plate manifest</a></p>
+<p>The checks cover watertight printable parts, retained mount pitch/depth, shell-to-floor clearance and lateral joining geometry. They do not replace a physical test of magnet strength, purchased connector engagement or actual electrical wiring.</p>
+<footer>13 November 2026 · Local HTML and README share the same source.</footer></main></body></html>

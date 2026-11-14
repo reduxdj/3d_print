@@ -1,0 +1,93 @@
+ZANE / ICE ARMOR — PRINT GUIDE
+Prepared from the supplied minifigure torso photograph.
+
+FILES
+
+1. zane-chest-10x11in.svg
+   Canvas: 10 × 11 inches / 254 × 279.4 mm.
+   Visible artwork: approximately 9.88 × 10.44 inches / 250.8 × 265.3 mm.
+   The small difference is the transparent space around parts of the design.
+   80 editable, closed, filled paths in six named groups.
+
+2. zane-boots-pair-4x6in-each.svg
+   Each cuff graphic: 4 × 6 inches / 101.6 × 152.4 mm.
+   Overall canvas: 9 × 6 inches / 228.6 × 152.4 mm.
+   The two graphics are separated by a 1-inch / 25.4 mm transparent gap.
+   78 editable, closed, filled paths in three named groups.
+   Left of the file: wearer's LEFT leg. Right: wearer's RIGHT leg.
+   In a front-facing view of the wearer, their left is the viewer's right.
+
+3. zane-print-preview.png
+   White-garment placement illustration. The actual SVGs contain the artwork
+   only; garment outlines, background colors, captions and sizes are not printed.
+   The mockup garment proportions are illustrative, not a sewing pattern.
+
+DEFAULT PLACEMENT
+
+Chest: center the design on the shirt front. Start with the uppermost printed
+edge about 2–3 inches / 51–76 mm below the collar seam, then adjust to the wearer.
+
+Pants: center one graphic on the front of each lower pant leg. Start with its
+bottom edge 0.75–1 inch / 19–25 mm above the finished hem, clear of the hem seam.
+These are front-of-cuff panels, not full-circumference wraps or patterns for shoes.
+
+Check the actual garments against these dimensions before printing. The default
+chest area may need reducing for a small child. Scale with the aspect ratio locked.
+Examples: a chest canvas reduced to 80% becomes 8 × 8.8 inches; a cuff reduced to
+75% becomes 3 × 4.5 inches. Confirm final dimensions after import into print software.
+
+EDITING AND SEPARATING THE BOOTS
+
+Open the SVGs in a vector editor such as Inkscape, Illustrator or Affinity Designer.
+All visible marks are editable filled paths; outlines have already been drawn as
+filled shapes. No fonts, embedded bitmap images or external assets are required.
+
+The chest has separate groups for ice/lightning, shoulders/collar, central armor,
+the shield emblem, long gold trim, and Halloween accents.
+
+For the boots, the groups wearer-left-boot and wearer-right-boot are independent.
+The shared halloween-accents group contains separately named left/right paths.
+Keep the relevant accent paths with each boot when moving or exporting a panel.
+Exact export regions in the boot SVG's viewBox coordinates are:
+   Wearer left:  x = 0,   y = 0, width = 200, height = 300.
+   Wearer right: x = 250, y = 0, width = 200, height = 300.
+At the supplied scale, each region is exactly 4 × 6 inches.
+
+HALLOWEEN OPTION
+
+Small brown bats and restrained orange/amber accents add the seasonal theme.
+Hide or delete the group named halloween-accents in either file to remove them.
+The chest's original diagonal shield emblem is preserved beneath those additions.
+The boot pair is an original matching extension; no boot reference was supplied.
+
+PRINT PRODUCTION
+
+Backgrounds are transparent. The white garment shows through the open spaces.
+Solid gold colors simulate the reference; metallic ink or foil is not specified.
+Artwork uses flat RGB hex colors. Have the print shop apply its normal garment
+color management and confirm a proof for its selected transfer/printing method.
+The files are suitable as full-color source artwork. Screen-print separations,
+white underbases or cut-vinyl preparation, if needed, are shop-specific steps.
+The SVGs are supplied in normal reading orientation. The shop should apply any
+transfer mirroring required by its process when it outputs the print.
+No registration marks or bleed have been added to the artwork.
+
+PALETTE
+
+Dark outline    #283735
+Deep shield     #14221F
+Brown           #70482F
+Gold            #DCC778
+Pale gold       #F5E5A8
+Gold shade      #B19A52  (boots)
+Cyan ice        #65D2EE
+Frost highlight #C6F2F8
+Collar gray     #495651  (chest)
+Ember accent    #D98236
+
+VALIDATION
+
+Both SVGs were parsed, rendered and visually inspected. Physical document sizes,
+transparent backgrounds, unique path IDs and closed filled geometry were checked.
+Neither print SVG uses live strokes, fonts, raster images, clipping masks,
+filters, linked resources or a background rectangle.

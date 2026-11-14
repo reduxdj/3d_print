@@ -1,0 +1,222 @@
+{
+  "printer": "Bambu Lab A1 0.4",
+  "plates": [
+    {
+      "project": "all-controllers",
+      "plate": 1,
+      "name": "01 FIT - magnetic join and recessed screw",
+      "seconds": 2723.566162109375,
+      "grams": 29.52,
+      "warnings": "",
+      "support_features": 10
+    },
+    {
+      "project": "all-controllers",
+      "plate": 2,
+      "name": "02 JOYSTICK LEFT TOP - magnetic diagonal v45 overlay magnets",
+      "seconds": 29515.443359375,
+      "grams": 329.43,
+      "warnings": "",
+      "support_features": 678
+    },
+    {
+      "project": "all-controllers",
+      "plate": 3,
+      "name": "03 STREET FIGHTER 6 ACTION RIGHT TOP - magnetic diagonal v45 overlay magnets",
+      "seconds": 30728.609375,
+      "grams": 323.44,
+      "warnings": "",
+      "support_features": 743
+    },
+    {
+      "project": "all-controllers",
+      "plate": 4,
+      "name": "04 FIRE JUMP 2 ACTION RIGHT TOP - magnetic diagonal v45 overlay magnets",
+      "seconds": 30568.482421875,
+      "grams": 329.64,
+      "warnings": "",
+      "support_features": 746
+    },
+    {
+      "project": "all-controllers",
+      "plate": 5,
+      "name": "05 3 ACTION RIGHT TOP - magnetic diagonal v45 overlay magnets",
+      "seconds": 30552.935546875,
+      "grams": 327.96,
+      "warnings": "",
+      "support_features": 761
+    },
+    {
+      "project": "all-controllers",
+      "plate": 6,
+      "name": "06 CENTIPEDE TRACKBALL LEFT TOP - magnetic diagonal v45 overlay magnets",
+      "seconds": 29253.6875,
+      "grams": 324.59,
+      "warnings": "",
+      "support_features": 669
+    },
+    {
+      "project": "all-controllers",
+      "plate": 7,
+      "name": "07 CENTIPEDE DIAL RIGHT TOP - magnetic diagonal v45 overlay magnets",
+      "seconds": 30599.57421875,
+      "grams": 328.18,
+      "warnings": "",
+      "support_features": 761
+    },
+    {
+      "project": "all-controllers",
+      "plate": 8,
+      "name": "08 CENTIPEDE LEFT FIRE TRACKBALL TOP - magnetic diagonal v45 overlay magnets",
+      "seconds": 29242.314453125,
+      "grams": 323.02,
+      "warnings": "",
+      "support_features": 666
+    },
+    {
+      "project": "all-controllers",
+      "plate": 9,
+      "name": "09 CENTIPEDE NO FIRE DIAL RIGHT TOP - magnetic diagonal v45 overlay magnets",
+      "seconds": 30570.68359375,
+      "grams": 329.73,
+      "warnings": "",
+      "support_features": 764
+    },
+    {
+      "project": "all-controllers",
+      "plate": 10,
+      "name": "10 TEMPEST DIAL LEFT TOP - magnetic diagonal v45 overlay magnets",
+      "seconds": 29064.970703125,
+      "grams": 319.06,
+      "warnings": "",
+      "support_features": 667
+    },
+    {
+      "project": "all-controllers",
+      "plate": 11,
+      "name": "11 TEMPEST TRACKBALL RIGHT TOP - magnetic diagonal v45 overlay magnets",
+      "seconds": 30675.439453125,
+      "grams": 333.32,
+      "warnings": "",
+      "support_features": 751
+    },
+    {
+      "project": "all-controllers",
+      "plate": 12,
+      "name": "12 TWIN JOYSTICK RIGHT TOP - magnetic diagonal v45 overlay magnets",
+      "seconds": 31442.39453125,
+      "grams": 338.13,
+      "warnings": "",
+      "support_features": 748
+    },
+    {
+      "project": "all-controllers",
+      "plate": 13,
+      "name": "13 JOYSTICK AND TWIN BOTTOM L - recessed heads v43",
+      "seconds": 8716.3759765625,
+      "grams": 124.05,
+      "warnings": "",
+      "support_features": 23
+    },
+    {
+      "project": "all-controllers",
+      "plate": 14,
+      "name": "14 JOYSTICK AND TWIN BOTTOM R - recessed heads v43",
+      "seconds": 9284.0751953125,
+      "grams": 130.17,
+      "warnings": "",
+      "support_features": 23
+    },
+    {
+      "project": "all-controllers",
+      "plate": 15,
+      "name": "15 CENTIPEDE BOTH FIRE OPTIONS BOTTOM L - recessed heads v43",
+      "seconds": 8716.3759765625,
+      "grams": 124.05,
+      "warnings": "",
+      "support_features": 23
+    },
+    {
+      "project": "all-controllers",
+      "plate": 16,
+      "name": "16 CENTIPEDE BOTH FIRE OPTIONS BOTTOM R - recessed heads v43",
+      "seconds": 9284.0400390625,
+      "grams": 130.17,
+      "warnings": "",
+      "support_features": 23
+    },
+    {
+      "project": "all-controllers",
+      "plate": 17,
+      "name": "17 TEMPEST BOTTOM L - recessed heads v43",
+      "seconds": 8711.1044921875,
+      "grams": 124.05,
+      "warnings": "",
+      "support_features": 23
+    },
+    {
+      "project": "all-controllers",
+      "plate": 18,
+      "name": "18 TEMPEST BOTTOM R - recessed heads v43",
+      "seconds": 9278.5498046875,
+      "grams": 130.17,
+      "warnings": "",
+      "support_features": 23
+    },
+    {
+      "project": "all-controllers",
+      "plate": 19,
+      "name": "19 INNER CONNECTORS - four surrounds and optional blanks",
+      "seconds": 5093.67919921875,
+      "grams": 44.87,
+      "warnings": "",
+      "support_features": 56
+    },
+    {
+      "project": "all-controllers",
+      "plate": 20,
+      "name": "20 REAR PORTS - original cabinet positions",
+      "seconds": 1864.87548828125,
+      "grams": 14.82,
+      "warnings": "",
+      "support_features": 21
+    },
+    {
+      "project": "all-controllers",
+      "plate": 21,
+      "name": "21 OPTIONAL FEET - eight18mm pad housings",
+      "seconds": 1150.6549072265625,
+      "grams": 9.58,
+      "warnings": "",
+      "support_features": 0
+    },
+    {
+      "project": "all-controllers",
+      "plate": 22,
+      "name": "22 TWIN JOYSTICK 2 FIRE EACH L TOP v45 overlay magnets",
+      "seconds": 29675.267578125,
+      "grams": 326.79,
+      "warnings": "",
+      "support_features": 680
+    },
+    {
+      "project": "all-controllers",
+      "plate": 23,
+      "name": "23 TWIN JOYSTICK 2 FIRE EACH R TOP v45 overlay magnets",
+      "seconds": 31435.302734375,
+      "grams": 335.0,
+      "warnings": "",
+      "support_features": 745
+    },
+    {
+      "project": "fit-tests",
+      "plate": 1,
+      "name": "01 FIT - magnetic join and recessed screw",
+      "seconds": 2723.566162109375,
+      "grams": 29.52,
+      "warnings": "",
+      "support_features": 10,
+      "reused_unchanged_from_revision": 43
+    }
+  ]
+}

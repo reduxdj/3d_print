@@ -1,0 +1,453 @@
+[
+  {
+    "file": "3 ACTION RIGHT TOP - magnetic diagonal v45 overlay magnets.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 37151.0,
+    "size_mm": [
+      237.49110412597656,
+      208.52850341796875,
+      57.72349548339844
+    ]
+  },
+  {
+    "file": "CENTIPEDE BOTH FIRE OPTIONS BOTTOM L - recessed heads v43.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 38254.01,
+    "size_mm": [
+      210.74490356445312,
+      205.50045776367188,
+      9.100006103515625
+    ]
+  },
+  {
+    "file": "CENTIPEDE BOTH FIRE OPTIONS BOTTOM R - recessed heads v43.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 39359.69,
+    "size_mm": [
+      219.99551391601562,
+      205.51177978515625,
+      9.100006103515625
+    ]
+  },
+  {
+    "file": "CENTIPEDE DIAL RIGHT TOP - magnetic diagonal v45 overlay magnets.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 37151.02,
+    "size_mm": [
+      237.49110412597656,
+      208.52850341796875,
+      57.72349548339844
+    ]
+  },
+  {
+    "file": "CENTIPEDE LEFT FIRE TRACKBALL TOP - magnetic diagonal v45 overlay magnets.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 36965.14,
+    "size_mm": [
+      235.53311157226562,
+      208.52883911132812,
+      57.72795104980469
+    ]
+  },
+  {
+    "file": "CENTIPEDE NO FIRE DIAL RIGHT TOP - magnetic diagonal v45 overlay magnets.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 37765.79,
+    "size_mm": [
+      237.49110412597656,
+      208.52850341796875,
+      57.72349548339844
+    ]
+  },
+  {
+    "file": "CENTIPEDE TRACKBALL LEFT TOP - magnetic diagonal v45 overlay magnets.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 37581.41,
+    "size_mm": [
+      235.53311157226562,
+      208.52883911132812,
+      57.72795104980469
+    ]
+  },
+  {
+    "file": "FIRE JUMP 2 ACTION RIGHT TOP - magnetic diagonal v45 overlay magnets.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 37765.79,
+    "size_mm": [
+      237.49110412597656,
+      208.52850341796875,
+      57.72349548339844
+    ]
+  },
+  {
+    "file": "FIT43 M3 head recess.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 802.54,
+    "size_mm": [
+      32.0,
+      32.0,
+      5.400000095367432
+    ]
+  },
+  {
+    "file": "FIT43 magnet female.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 2604.0,
+    "size_mm": [
+      64.0,
+      44.0,
+      6.5
+    ]
+  },
+  {
+    "file": "FIT43 magnet male.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 2604.0,
+    "size_mm": [
+      64.0,
+      44.0,
+      8.800000190734863
+    ]
+  },
+  {
+    "file": "INNER L1 12 CONTACT SURROUND v43.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 1190.19,
+    "size_mm": [
+      54.0,
+      28.000015258789062,
+      6.000030517578125
+    ]
+  },
+  {
+    "file": "INNER L2 12 CONTACT SURROUND v43.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 1190.19,
+    "size_mm": [
+      54.0,
+      28.000015258789062,
+      6.0000152587890625
+    ]
+  },
+  {
+    "file": "INNER OPTIONAL BLANK 1 v43.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 1435.9,
+    "size_mm": [
+      54.0,
+      28.0,
+      6.000000953674316
+    ]
+  },
+  {
+    "file": "INNER OPTIONAL BLANK 2 v43.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 1435.9,
+    "size_mm": [
+      54.0,
+      28.0,
+      6.000000953674316
+    ]
+  },
+  {
+    "file": "INNER OPTIONAL BLANK 3 v43.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 1435.9,
+    "size_mm": [
+      54.0,
+      28.0,
+      6.000000953674316
+    ]
+  },
+  {
+    "file": "INNER OPTIONAL BLANK 4 v43.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 1435.9,
+    "size_mm": [
+      54.0,
+      28.0,
+      6.000000953674316
+    ]
+  },
+  {
+    "file": "INNER R1 12 CONTACT SURROUND v43.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 1190.19,
+    "size_mm": [
+      53.99999237060547,
+      28.0,
+      6.0000152587890625
+    ]
+  },
+  {
+    "file": "INNER R2 12 CONTACT SURROUND v43.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 1190.19,
+    "size_mm": [
+      54.0,
+      28.0,
+      6.000030517578125
+    ]
+  },
+  {
+    "file": "JOYSTICK AND TWIN BOTTOM L - recessed heads v43.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 38254.01,
+    "size_mm": [
+      210.74490356445312,
+      205.50045776367188,
+      9.100006103515625
+    ]
+  },
+  {
+    "file": "JOYSTICK AND TWIN BOTTOM R - recessed heads v43.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 39359.69,
+    "size_mm": [
+      219.99551391601562,
+      205.51177978515625,
+      9.100006103515625
+    ]
+  },
+  {
+    "file": "JOYSTICK LEFT TOP - magnetic diagonal v45 overlay magnets.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 39689.75,
+    "size_mm": [
+      235.53311157226562,
+      208.52883911132812,
+      57.72795104980469
+    ]
+  },
+  {
+    "file": "OPTIONAL FOOT F01.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 304.87,
+    "size_mm": [
+      20.0,
+      20.0,
+      3.800001859664917
+    ]
+  },
+  {
+    "file": "OPTIONAL FOOT F02.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 304.87,
+    "size_mm": [
+      20.0,
+      20.0,
+      3.800001859664917
+    ]
+  },
+  {
+    "file": "OPTIONAL FOOT F03.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 304.87,
+    "size_mm": [
+      20.0,
+      20.0,
+      3.800001859664917
+    ]
+  },
+  {
+    "file": "OPTIONAL FOOT F04.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 304.87,
+    "size_mm": [
+      20.0,
+      20.0,
+      3.800001859664917
+    ]
+  },
+  {
+    "file": "OPTIONAL FOOT F05.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 304.87,
+    "size_mm": [
+      20.0,
+      20.0,
+      3.800001859664917
+    ]
+  },
+  {
+    "file": "OPTIONAL FOOT F06.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 304.87,
+    "size_mm": [
+      20.0,
+      20.0,
+      3.800001859664917
+    ]
+  },
+  {
+    "file": "OPTIONAL FOOT F07.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 304.87,
+    "size_mm": [
+      20.0,
+      20.0,
+      3.800001859664917
+    ]
+  },
+  {
+    "file": "OPTIONAL FOOT F08.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 304.87,
+    "size_mm": [
+      20.0,
+      20.0,
+      3.800001859664917
+    ]
+  },
+  {
+    "file": "REAR A MAGNETIC unchanged.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 1190.19,
+    "size_mm": [
+      54.0,
+      28.0,
+      6.0
+    ]
+  },
+  {
+    "file": "REAR B MAGNETIC unchanged.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 1190.19,
+    "size_mm": [
+      54.0,
+      28.0,
+      6.0
+    ]
+  },
+  {
+    "file": "REAR USB-C unchanged.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 942.93,
+    "size_mm": [
+      40.0,
+      28.0,
+      6.0
+    ]
+  },
+  {
+    "file": "STREET FIGHTER 6 ACTION RIGHT TOP - magnetic diagonal v45 overlay magnets.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 35306.74,
+    "size_mm": [
+      237.49110412597656,
+      208.52850341796875,
+      57.72349548339844
+    ]
+  },
+  {
+    "file": "TEMPEST BOTTOM L - recessed heads v43.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 38254.01,
+    "size_mm": [
+      210.74490356445312,
+      205.50045776367188,
+      9.100006103515625
+    ]
+  },
+  {
+    "file": "TEMPEST BOTTOM R - recessed heads v43.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 39359.69,
+    "size_mm": [
+      219.99551391601562,
+      205.51177978515625,
+      9.100006103515625
+    ]
+  },
+  {
+    "file": "TEMPEST DIAL LEFT TOP - magnetic diagonal v45 overlay magnets.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 37064.67,
+    "size_mm": [
+      235.53311157226562,
+      208.52883911132812,
+      57.72795104980469
+    ]
+  },
+  {
+    "file": "TEMPEST TRACKBALL RIGHT TOP - magnetic diagonal v45 overlay magnets.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 37667.6,
+    "size_mm": [
+      237.49110412597656,
+      208.52850341796875,
+      57.72349548339844
+    ]
+  },
+  {
+    "file": "TWIN JOYSTICK 2 FIRE EACH L TOP v45 overlay magnets.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 38457.2,
+    "size_mm": [
+      235.53311157226562,
+      208.52883911132812,
+      57.72795104980469
+    ]
+  },
+  {
+    "file": "TWIN JOYSTICK 2 FIRE EACH R TOP v45 overlay magnets.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 37310.79,
+    "size_mm": [
+      237.49110412597656,
+      208.52850341796875,
+      57.72349548339844
+    ]
+  },
+  {
+    "file": "TWIN JOYSTICK RIGHT TOP - magnetic diagonal v45 overlay magnets.stl",
+    "nonmanifold_edges": 0,
+    "winding_consistent": true,
+    "flat_bed_contact_mm2": 38543.34,
+    "size_mm": [
+      237.49110412597656,
+      208.52850341796875,
+      57.72349548339844
+    ]
+  }
+]

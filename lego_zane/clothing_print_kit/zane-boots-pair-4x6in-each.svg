@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     width="228.6mm" height="152.4mm" viewBox="0 0 450 300" version="1.1">
+  <title>Matching ninja cuff graphics — wearer left and right</title>
+  <desc>Two independent closed-path cuff panels, matching the gold/brown armor and cyan ice of the chest artwork. Each panel is exactly 101.6 × 152.4 mm (4 × 6 inches). Overall canvas 228.6 × 152.4 mm (9 × 6 inches), with a 25.4 mm (1 inch) gap. Left group is wearer left; right group is wearer right. Front-of-leg transfers, not circumference wraps. Transparent background.</desc>
+  <!-- Every visible element is a closed, filled vector path. No background,
+       raster images, fonts, live strokes, masks, filters or linked resources.
+       Color names and editable groups are documented in PRINT-GUIDE.txt. -->
+  <g id="wearer-left-boot" inkscape:groupmode="layer" inkscape:label="01 · Wearer left boot — 4 × 6 in">
+    <path id="left-boot-base" fill="#283735" d="M 13 0 L 187 0 L 200 48 L 190 99 L 195 161 L 183 206 L 200 255 L 200 300 L 0 300 L 0 255 L 17 206 L 5 161 L 10 99 L 0 48 Z"/>
+    <path id="left-boot-body" fill="#70482F" d="M 20 8 L 181 8 L 191 48 L 181 99 L 187 161 L 174 207 L 192 256 L 192 292 L 8 292 L 8 256 L 26 207 L 13 161 L 19 99 L 9 48 Z"/>
+    <path id="left-top-armor-gold" fill="#DCC778" d="M 20 8 L 181 8 L 187 32 L 158 44 L 99 36 L 42 44 L 13 32 Z"/>
+    <path id="left-top-armor-highlight" fill="#F5E5A8" d="M 24 13 L 177 13 L 179 19 L 23 19 Z"/>
+    <path id="left-top-edge-split" fill="#B19A52" d="M 13 32 L 42 44 L 99 36 L 158 44 L 187 32 L 189 39 L 158 52 L 99 44 L 41 52 L 11 39 Z"/>
+    <path id="left-left-gold-rail" fill="#DCC778" d="M 16 53 L 32 56 L 37 95 L 29 129 L 31 165 L 41 191 L 35 211 L 24 244 L 14 253 L 30 207 L 17 159 L 23 98 Z"/>
+    <path id="left-right-gold-rail" fill="#DCC778" d="M 170 56 L 182 52 L 172 99 L 180 162 L 164 207 L 178 242 L 169 248 L 150 205 L 163 160 L 159 111 Z"/>
+    <path id="left-left-ice-outline" fill="#283735" d="M 33 57 L 67 64 L 77 87 L 62 107 L 73 126 L 62 143 L 67 169 L 53 196 L 61 217 L 42 245 L 23 257 L 14 249 L 29 223 L 30 201 L 19 182 L 23 157 L 19 132 L 27 108 L 24 80 Z"/>
+    <path id="left-left-ice" fill="#65D2EE" d="M 39 65 L 62 71 L 67 86 L 53 106 L 63 126 L 53 141 L 59 168 L 44 195 L 51 217 L 36 239 L 27 244 L 37 225 L 38 198 L 27 180 L 31 157 L 27 133 L 35 109 L 32 81 Z"/>
+    <path id="left-left-frost" fill="#C6F2F8" d="M 42 76 L 55 80 L 58 86 L 44 105 L 54 124 L 43 140 L 49 166 L 34 191 L 35 178 L 41 155 L 37 132 L 44 111 L 39 92 Z M 43 205 L 44 217 L 35 232 L 42 214 Z"/>
+    <path id="left-right-ice-outline" fill="#283735" d="M 142 63 L 163 56 L 177 76 L 170 99 L 180 125 L 172 148 L 179 172 L 163 193 L 160 213 L 176 238 L 173 257 L 154 251 L 137 226 L 139 204 L 129 183 L 137 160 L 128 140 L 139 114 L 129 91 Z"/>
+    <path id="left-right-ice" fill="#65D2EE" d="M 148 71 L 160 66 L 168 77 L 161 99 L 171 126 L 163 148 L 170 171 L 155 191 L 151 215 L 168 240 L 167 246 L 159 243 L 146 224 L 148 202 L 137 182 L 146 159 L 137 140 L 148 114 L 138 92 Z"/>
+    <path id="left-right-frost" fill="#C6F2F8" d="M 152 83 L 159 77 L 152 100 L 162 126 L 154 148 L 161 169 L 148 184 L 155 159 L 147 140 L 158 115 L 147 94 Z M 144 187 L 156 207 L 159 223 L 151 218 L 152 202 Z"/>
+    <path id="left-upper-wrap-outline" fill="#283735" d="M 39 55 L 90 63 L 145 58 L 167 75 L 153 101 L 101 116 L 48 100 L 33 78 Z"/>
+    <path id="left-upper-wrap-gold" fill="#DCC778" d="M 43 63 L 90 72 L 144 66 L 157 76 L 148 94 L 101 108 L 53 94 L 42 78 Z"/>
+    <path id="left-upper-wrap-light" fill="#F5E5A8" d="M 47 68 L 89 77 L 139 73 L 126 81 L 88 83 L 48 75 Z"/>
+    <path id="left-upper-wrap-shadow" fill="#B19A52" d="M 51 88 L 102 102 L 150 88 L 148 94 L 101 108 L 53 94 Z"/>
+    <path id="left-center-wrap-outline" fill="#283735" d="M 55 108 L 102 116 L 147 106 L 159 129 L 145 152 L 101 167 L 49 150 L 43 127 Z"/>
+    <path id="left-center-wrap-gold" fill="#DCC778" d="M 60 116 L 102 124 L 142 114 L 150 130 L 140 146 L 101 159 L 56 144 L 51 127 Z"/>
+    <path id="left-center-wrap-highlight" fill="#F5E5A8" d="M 59 123 L 103 131 L 140 122 L 144 128 L 102 139 L 56 130 Z"/>
+    <path id="left-lower-wrap-outline" fill="#283735" d="M 53 158 L 102 168 L 139 155 L 152 173 L 140 193 L 102 209 L 52 194 L 44 175 Z"/>
+    <path id="left-lower-wrap-gold" fill="#DCC778" d="M 57 166 L 102 176 L 136 164 L 143 175 L 135 187 L 102 201 L 58 188 L 52 175 Z"/>
+    <path id="left-lower-wrap-highlight" fill="#F5E5A8" d="M 58 171 L 103 183 L 135 171 L 137 176 L 102 190 L 57 177 Z"/>
+    <path id="left-ankle-wrap-outline" fill="#283735" d="M 50 203 L 101 215 L 143 198 L 158 220 L 153 242 L 99 256 L 40 239 L 38 220 Z"/>
+    <path id="left-ankle-wrap-gold" fill="#DCC778" d="M 55 212 L 102 224 L 140 207 L 149 222 L 145 235 L 100 248 L 48 233 L 47 222 Z"/>
+    <path id="left-ankle-wrap-highlight" fill="#F5E5A8" d="M 55 217 L 102 230 L 137 215 L 140 222 L 103 237 L 53 224 Z"/>
+    <path id="left-diagonal-tie-outline" fill="#283735" d="M 141 78 L 159 86 L 71 241 L 48 231 Z"/>
+    <path id="left-diagonal-tie" fill="#70482F" d="M 144 86 L 151 89 L 67 233 L 58 229 Z"/>
+    <path id="left-boot-medallion-outline" fill="#283735" d="M 84 103 L 117 105 L 132 133 L 106 163 L 77 145 L 70 124 Z"/>
+    <path id="left-boot-medallion-gold" fill="#DCC778" d="M 87 110 L 113 112 L 123 132 L 105 153 L 84 141 L 78 126 Z"/>
+    <path id="left-boot-medallion-inset" fill="#14221F" d="M 91 117 L 109 118 L 115 131 L 103 145 L 90 137 L 86 127 Z"/>
+    <path id="left-boot-medallion-bars" fill="#DCC778" d="M 90 118 L 115 133 L 111 138 L 87 124 Z M 86 129 L 107 142 L 103 146 L 89 137 Z"/>
+    <path id="left-bottom-cuff-outline" fill="#283735" d="M 12 249 L 100 259 L 184 247 L 200 266 L 200 300 L 0 300 L 0 266 Z"/>
+    <path id="left-bottom-cuff-brown" fill="#70482F" d="M 16 258 L 100 267 L 181 256 L 192 269 L 192 292 L 8 292 L 8 269 Z"/>
+    <path id="left-bottom-cuff-gold" fill="#DCC778" d="M 17 262 L 101 272 L 180 260 L 184 268 L 101 282 L 13 270 Z"/>
+    <path id="left-bottom-cuff-rim" fill="#F5E5A8" d="M 8 284 L 192 284 L 192 292 L 8 292 Z"/>
+    <path id="left-gold-rail-glint" fill="#F5E5A8" d="M 173 61 L 177 59 L 167 99 L 175 161 L 159 207 L 156 202 L 171 159 L 163 99 Z"/>
+  </g>
+  <g id="wearer-right-boot" inkscape:groupmode="layer" inkscape:label="02 · Wearer right boot — 4 × 6 in">
+    <path id="right-boot-base" fill="#283735" d="M 437 0 L 263 0 L 250 48 L 260 99 L 255 161 L 267 206 L 250 255 L 250 300 L 450 300 L 450 255 L 433 206 L 445 161 L 440 99 L 450 48 Z"/>
+    <path id="right-boot-body" fill="#70482F" d="M 430 8 L 269 8 L 259 48 L 269 99 L 263 161 L 276 207 L 258 256 L 258 292 L 442 292 L 442 256 L 424 207 L 437 161 L 431 99 L 441 48 Z"/>
+    <path id="right-top-armor-gold" fill="#DCC778" d="M 430 8 L 269 8 L 263 32 L 292 44 L 351 36 L 408 44 L 437 32 Z"/>
+    <path id="right-top-armor-highlight" fill="#F5E5A8" d="M 426 13 L 273 13 L 271 19 L 427 19 Z"/>
+    <path id="right-top-edge-split" fill="#B19A52" d="M 437 32 L 408 44 L 351 36 L 292 44 L 263 32 L 261 39 L 292 52 L 351 44 L 409 52 L 439 39 Z"/>
+    <path id="right-left-gold-rail" fill="#DCC778" d="M 434 53 L 418 56 L 413 95 L 421 129 L 419 165 L 409 191 L 415 211 L 426 244 L 436 253 L 420 207 L 433 159 L 427 98 Z"/>
+    <path id="right-right-gold-rail" fill="#DCC778" d="M 280 56 L 268 52 L 278 99 L 270 162 L 286 207 L 272 242 L 281 248 L 300 205 L 287 160 L 291 111 Z"/>
+    <path id="right-left-ice-outline" fill="#283735" d="M 417 57 L 383 64 L 373 87 L 388 107 L 377 126 L 388 143 L 383 169 L 397 196 L 389 217 L 408 245 L 427 257 L 436 249 L 421 223 L 420 201 L 431 182 L 427 157 L 431 132 L 423 108 L 426 80 Z"/>
+    <path id="right-left-ice" fill="#65D2EE" d="M 411 65 L 388 71 L 383 86 L 397 106 L 387 126 L 397 141 L 391 168 L 406 195 L 399 217 L 414 239 L 423 244 L 413 225 L 412 198 L 423 180 L 419 157 L 423 133 L 415 109 L 418 81 Z"/>
+    <path id="right-left-frost" fill="#C6F2F8" d="M 408 76 L 395 80 L 392 86 L 406 105 L 396 124 L 407 140 L 401 166 L 416 191 L 415 178 L 409 155 L 413 132 L 406 111 L 411 92 Z M 407 205 L 406 217 L 415 232 L 408 214 Z"/>
+    <path id="right-right-ice-outline" fill="#283735" d="M 308 63 L 287 56 L 273 76 L 280 99 L 270 125 L 278 148 L 271 172 L 287 193 L 290 213 L 274 238 L 277 257 L 296 251 L 313 226 L 311 204 L 321 183 L 313 160 L 322 140 L 311 114 L 321 91 Z"/>
+    <path id="right-right-ice" fill="#65D2EE" d="M 302 71 L 290 66 L 282 77 L 289 99 L 279 126 L 287 148 L 280 171 L 295 191 L 299 215 L 282 240 L 283 246 L 291 243 L 304 224 L 302 202 L 313 182 L 304 159 L 313 140 L 302 114 L 312 92 Z"/>
+    <path id="right-right-frost" fill="#C6F2F8" d="M 298 83 L 291 77 L 298 100 L 288 126 L 296 148 L 289 169 L 302 184 L 295 159 L 303 140 L 292 115 L 303 94 Z M 306 187 L 294 207 L 291 223 L 299 218 L 298 202 Z"/>
+    <path id="right-upper-wrap-outline" fill="#283735" d="M 411 55 L 360 63 L 305 58 L 283 75 L 297 101 L 349 116 L 402 100 L 417 78 Z"/>
+    <path id="right-upper-wrap-gold" fill="#DCC778" d="M 407 63 L 360 72 L 306 66 L 293 76 L 302 94 L 349 108 L 397 94 L 408 78 Z"/>
+    <path id="right-upper-wrap-light" fill="#F5E5A8" d="M 403 68 L 361 77 L 311 73 L 324 81 L 362 83 L 402 75 Z"/>
+    <path id="right-upper-wrap-shadow" fill="#B19A52" d="M 399 88 L 348 102 L 300 88 L 302 94 L 349 108 L 397 94 Z"/>
+    <path id="right-center-wrap-outline" fill="#283735" d="M 395 108 L 348 116 L 303 106 L 291 129 L 305 152 L 349 167 L 401 150 L 407 127 Z"/>
+    <path id="right-center-wrap-gold" fill="#DCC778" d="M 390 116 L 348 124 L 308 114 L 300 130 L 310 146 L 349 159 L 394 144 L 399 127 Z"/>
+    <path id="right-center-wrap-highlight" fill="#F5E5A8" d="M 391 123 L 347 131 L 310 122 L 306 128 L 348 139 L 394 130 Z"/>
+    <path id="right-lower-wrap-outline" fill="#283735" d="M 397 158 L 348 168 L 311 155 L 298 173 L 310 193 L 348 209 L 398 194 L 406 175 Z"/>
+    <path id="right-lower-wrap-gold" fill="#DCC778" d="M 393 166 L 348 176 L 314 164 L 307 175 L 315 187 L 348 201 L 392 188 L 398 175 Z"/>
+    <path id="right-lower-wrap-highlight" fill="#F5E5A8" d="M 392 171 L 347 183 L 315 171 L 313 176 L 348 190 L 393 177 Z"/>
+    <path id="right-ankle-wrap-outline" fill="#283735" d="M 400 203 L 349 215 L 307 198 L 292 220 L 297 242 L 351 256 L 410 239 L 412 220 Z"/>
+    <path id="right-ankle-wrap-gold" fill="#DCC778" d="M 395 212 L 348 224 L 310 207 L 301 222 L 305 235 L 350 248 L 402 233 L 403 222 Z"/>
+    <path id="right-ankle-wrap-highlight" fill="#F5E5A8" d="M 395 217 L 348 230 L 313 215 L 310 222 L 347 237 L 397 224 Z"/>
+    <path id="right-diagonal-tie-outline" fill="#283735" d="M 309 78 L 291 86 L 379 241 L 402 231 Z"/>
+    <path id="right-diagonal-tie" fill="#70482F" d="M 306 86 L 299 89 L 383 233 L 392 229 Z"/>
+    <path id="right-boot-medallion-outline" fill="#283735" d="M 366 103 L 333 105 L 318 133 L 344 163 L 373 145 L 380 124 Z"/>
+    <path id="right-boot-medallion-gold" fill="#DCC778" d="M 363 110 L 337 112 L 327 132 L 345 153 L 366 141 L 372 126 Z"/>
+    <path id="right-boot-medallion-inset" fill="#14221F" d="M 359 117 L 341 118 L 335 131 L 347 145 L 360 137 L 364 127 Z"/>
+    <path id="right-boot-medallion-bars" fill="#DCC778" d="M 360 118 L 335 133 L 339 138 L 363 124 Z M 364 129 L 343 142 L 347 146 L 361 137 Z"/>
+    <path id="right-bottom-cuff-outline" fill="#283735" d="M 438 249 L 350 259 L 266 247 L 250 266 L 250 300 L 450 300 L 450 266 Z"/>
+    <path id="right-bottom-cuff-brown" fill="#70482F" d="M 434 258 L 350 267 L 269 256 L 258 269 L 258 292 L 442 292 L 442 269 Z"/>
+    <path id="right-bottom-cuff-gold" fill="#DCC778" d="M 433 262 L 349 272 L 270 260 L 266 268 L 349 282 L 437 270 Z"/>
+    <path id="right-bottom-cuff-rim" fill="#F5E5A8" d="M 442 284 L 258 284 L 258 292 L 442 292 Z"/>
+    <path id="right-gold-rail-glint" fill="#F5E5A8" d="M 277 61 L 273 59 L 283 99 L 275 161 L 291 207 L 294 202 L 279 159 L 287 99 Z"/>
+  </g>
+  <g id="halloween-accents" inkscape:groupmode="layer" inkscape:label="03 · Optional Halloween accents — delete to remove">
+    <path id="left-tiny-bat" fill="#70482F" d="M 77 24 L 88 27 L 95 24 L 99 19 L 103 24 L 110 27 L 122 23 L 117 31 L 109 31 L 103 35 L 99 38 L 95 34 L 88 32 L 81 33 Z"/>
+    <path id="left-ember" fill="#D98236" d="M 97 272 L 102 268 L 107 272 L 102 277 Z"/>
+    <path id="right-tiny-bat" fill="#70482F" d="M 373 24 L 362 27 L 355 24 L 351 19 L 347 24 L 340 27 L 328 23 L 333 31 L 341 31 L 347 35 L 351 38 L 355 34 L 362 32 L 369 33 Z"/>
+    <path id="right-ember" fill="#D98236" d="M 353 272 L 348 268 L 343 272 L 348 277 Z"/>
+  </g>
+</svg>

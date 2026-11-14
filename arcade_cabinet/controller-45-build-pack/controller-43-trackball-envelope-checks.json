@@ -1,0 +1,17 @@
+{
+  "centipede": {
+    "42": 3853.8394350202598,
+    "43": 3853.839434247713,
+    "note": "The unmeasured solid bounding-box envelope overlaps retained mounting posts. No added overlap versus the physically fitted revision42."
+  },
+  "centipede-left-fire": {
+    "42": 3853.8394350202598,
+    "43": 3853.839434247713,
+    "note": "The unmeasured solid bounding-box envelope overlaps retained mounting posts. No added overlap versus the physically fitted revision42."
+  },
+  "tempest": {
+    "42": 3853.8056141511206,
+    "43": 3853.805612213162,
+    "note": "The unmeasured solid bounding-box envelope overlaps retained mounting posts. No added overlap versus the physically fitted revision42."
+  }
+}

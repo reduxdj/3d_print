@@ -1,0 +1,49 @@
+{
+  "reviewed": "2026-11-13",
+  "stock_note": "Public catalogue observations, possibly cached; not reserved stock or delivery promises.",
+  "orders_placed": false,
+  "supplier_messages_sent": false,
+  "items": [
+    {
+      "name": "Purchased JHYOSSTHI JH-WPogo-12Pin",
+      "part": "B0DT79N394",
+      "url": "https://www.amazon.com/dp/B0DT79N394?th=1",
+      "status": "Purchased by user; not received. No additional order recommended.",
+      "termination": "Factory 100 mm cable with white 12-position plug; mating plug family unverified",
+      "magnetic": true,
+      "dimension_status": "Existing surround envelope assumed; hardware fit not verified"
+    },
+    {
+      "name": "Mill-Max prewired spring half",
+      "part": "889-22-012-70-501010",
+      "url": "https://www.digikey.com/en/products/detail/mill-max-manufacturing-corp/889-22-012-70-501010/16164055",
+      "minimum_quantity": 1,
+      "displayed_stock": 5,
+      "displayed_usd": 53.93,
+      "termination": "Factory 203 mm 24 AWG pigtails",
+      "magnetic": false
+    },
+    {
+      "name": "Mill-Max prewired target half",
+      "part": "889-10-012-70-502010",
+      "url": "https://www.digikey.com/en/products/detail/mill-max-manufacturing-corp/889-10-012-70-502010/16164051",
+      "minimum_quantity": 1,
+      "displayed_stock": 36,
+      "displayed_usd": 41.13,
+      "termination": "Factory 203 mm 24 AWG pigtails",
+      "magnetic": false
+    },
+    {
+      "name": "C.C.P. Contact Probes",
+      "part": "Application-selected magnetic pair / assembled harness",
+      "url": "https://www.ccpcontactprobes.com/en/contact",
+      "status": "Request 2-pair and 5-pair sample quotes; MOQ, price and lead time unconfirmed"
+    },
+    {
+      "name": "Adam Tech",
+      "part": "Application-selected magnetic cable assembly",
+      "url": "https://app.adam-tech.com/products/index/category:3068/page:2",
+      "status": "Alternate engineering inquiry; no verified stocked 12-way prewired pair selected"
+    }
+  ]
+}
